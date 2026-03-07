@@ -1,0 +1,2001 @@
+sector,age,gender,origin_region,italian_region,years_in_italy,italian_language_level,weekly_work_hours,knows_stp_rights,has_used_stp,er_only_healthcare,workplace_injury_12m,unmet_healthcare_need,fear_of_deportation
+Logistics,24,Male,Sub-Saharan Africa,Campania,0.5,Basic,58,0,0,1,0,1,1
+Domestic Work,25,Male,South Asia,Lazio,0.5,None,42,0,0,1,0,0,0
+Agriculture,30,Male,North Africa,Lazio,5.4,Basic,29,0,0,1,0,1,1
+Gig Economy,34,Male,South Asia,Calabria,1.5,Basic,58,0,0,1,1,1,1
+Hospitality,39,Male,South Asia,Lombardia,6.4,Intermediate,41,0,0,1,0,1,1
+Hospitality,25,Male,Latin America,Toscana,2.3,Fluent,59,0,0,1,0,0,1
+Hospitality,43,Female,Latin America,Lombardia,2.4,Basic,55,0,0,1,0,0,0
+Domestic Work,29,Male,Southeast Asia,Emilia-Romagna,2.9,Fluent,64,0,0,1,0,1,1
+Agriculture,31,Male,Southeast Asia,Puglia,5.0,Basic,67,0,0,1,0,0,0
+Agriculture,26,Female,Eastern Europe,Lazio,1.3,Intermediate,55,0,0,0,1,0,1
+Hospitality,18,Male,South Asia,Lombardia,0.5,None,49,1,0,1,1,0,0
+Domestic Work,39,Male,Latin America,Emilia-Romagna,3.2,Fluent,60,0,0,1,0,1,0
+Construction,37,Male,Latin America,Toscana,1.6,None,43,0,0,1,0,0,1
+Hospitality,29,Female,Latin America,Toscana,2.3,Basic,56,0,0,1,0,1,1
+Hospitality,32,Male,North Africa,Lazio,4.2,Intermediate,53,1,0,0,0,0,1
+Hospitality,36,Male,Sub-Saharan Africa,Lazio,2.7,Basic,52,0,0,1,0,1,1
+Logistics,19,Male,Latin America,Puglia,3.9,Basic,60,0,0,1,0,0,1
+Gig Economy,27,Female,Eastern Europe,Puglia,3.1,Fluent,51,1,0,1,0,0,1
+Gig Economy,38,Male,Middle East,Campania,5.4,Basic,53,0,0,1,0,0,0
+Logistics,21,Male,South Asia,Sicilia,4.9,Intermediate,59,0,0,1,0,1,1
+Agriculture,34,Female,Sub-Saharan Africa,Campania,3.1,None,63,0,0,0,0,1,1
+Hospitality,21,Male,Sub-Saharan Africa,Campania,4.5,Intermediate,55,1,1,1,0,0,0
+Logistics,35,Female,Latin America,Lombardia,8.3,Intermediate,52,1,0,0,0,0,0
+Logistics,31,Male,Sub-Saharan Africa,Campania,2.3,Basic,58,0,0,1,0,1,1
+Gig Economy,19,Female,South Asia,Veneto,2.1,None,44,0,0,1,0,0,1
+Construction,41,Male,Middle East,Lombardia,5.8,Intermediate,48,0,0,1,1,1,1
+Hospitality,26,Female,South Asia,Campania,3.5,None,52,0,0,1,0,1,1
+Gig Economy,25,Female,Latin America,Piemonte,0.5,None,49,0,0,1,0,1,1
+Gig Economy,33,Male,Sub-Saharan Africa,Toscana,8.9,Intermediate,50,0,0,1,0,1,0
+Hospitality,41,Male,Latin America,Emilia-Romagna,0.5,None,62,1,1,1,0,1,1
+Agriculture,23,Male,North Africa,Puglia,5.5,Basic,56,0,0,1,0,0,1
+Hospitality,32,Male,Southeast Asia,Lombardia,5.7,Intermediate,56,1,1,0,0,0,0
+Hospitality,35,Male,Southeast Asia,Veneto,12.2,None,55,0,0,1,0,1,1
+Domestic Work,37,Male,South Asia,Piemonte,0.5,None,43,0,0,1,0,1,1
+Domestic Work,33,Male,South Asia,Veneto,3.6,None,48,0,0,1,0,0,0
+Construction,29,Male,Sub-Saharan Africa,Lazio,2.2,Basic,63,0,0,1,1,1,1
+Logistics,25,Male,Eastern Europe,Lombardia,1.6,Basic,59,0,0,1,0,1,1
+Hospitality,32,Male,Southeast Asia,Sicilia,0.5,Basic,56,0,0,1,1,1,1
+Agriculture,23,Male,North Africa,Veneto,3.3,Basic,54,0,0,1,1,0,0
+Gig Economy,18,Male,Eastern Europe,Sicilia,2.6,None,65,0,0,1,0,1,1
+Hospitality,35,Male,Sub-Saharan Africa,Emilia-Romagna,0.5,None,49,0,0,1,0,0,1
+Gig Economy,39,Male,Latin America,Toscana,3.8,Basic,36,0,0,1,0,1,1
+Hospitality,18,Male,Middle East,Piemonte,5.4,Fluent,61,1,0,1,0,0,1
+Domestic Work,23,Male,Sub-Saharan Africa,Emilia-Romagna,5.8,Basic,47,0,0,1,0,1,1
+Logistics,36,Male,North Africa,Campania,9.4,Basic,55,0,0,1,0,1,1
+Agriculture,48,Female,South Asia,Veneto,2.1,None,55,0,0,1,0,1,1
+Logistics,32,Male,North Africa,Piemonte,12.2,Intermediate,72,1,0,1,0,1,1
+Gig Economy,26,Female,North Africa,Campania,8.0,Intermediate,52,0,0,1,0,0,1
+Gig Economy,30,Female,South Asia,Campania,1.4,Basic,54,0,0,1,0,1,1
+Hospitality,42,Female,North Africa,Lombardia,0.7,Intermediate,56,0,0,0,0,0,1
+Domestic Work,26,Female,Sub-Saharan Africa,Puglia,2.3,Basic,50,0,0,1,0,1,1
+Construction,25,Male,North Africa,Lombardia,2.1,None,66,0,0,0,0,1,1
+Domestic Work,28,Male,North Africa,Emilia-Romagna,3.4,Basic,45,0,0,1,0,1,0
+Domestic Work,24,Female,South Asia,Campania,3.5,Intermediate,36,1,1,1,0,1,0
+Gig Economy,32,Male,Latin America,Campania,5.5,Intermediate,56,1,0,1,0,1,1
+Domestic Work,44,Male,Eastern Europe,Toscana,2.9,Basic,51,0,0,1,0,1,1
+Hospitality,34,Female,Sub-Saharan Africa,Lombardia,0.5,Basic,55,0,0,1,0,1,1
+Hospitality,29,Female,South Asia,Emilia-Romagna,7.8,Intermediate,58,0,0,1,0,0,1
+Hospitality,29,Female,Latin America,Piemonte,1.5,Intermediate,52,1,0,0,0,1,1
+Logistics,19,Female,Middle East,Sicilia,14.2,Intermediate,58,0,0,1,0,0,1
+Logistics,39,Female,Sub-Saharan Africa,Lombardia,0.5,Basic,56,0,0,0,0,1,1
+Logistics,31,Male,Sub-Saharan Africa,Sicilia,12.7,Basic,53,1,1,1,0,1,1
+Construction,30,Female,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,64,0,0,1,0,1,1
+Logistics,57,Male,North Africa,Sicilia,1.1,Intermediate,46,0,0,1,0,0,0
+Logistics,34,Male,South Asia,Veneto,0.5,None,76,1,1,0,0,1,1
+Gig Economy,25,Female,Sub-Saharan Africa,Veneto,4.9,Intermediate,57,1,1,1,0,1,1
+Hospitality,28,Male,Eastern Europe,Puglia,7.6,Intermediate,40,0,0,0,0,1,0
+Construction,41,Male,North Africa,Sicilia,2.3,None,53,0,0,1,1,1,0
+Hospitality,32,Male,Sub-Saharan Africa,Campania,10.6,Intermediate,53,1,1,1,1,1,0
+Domestic Work,20,Female,North Africa,Lazio,3.6,None,51,0,0,1,0,1,1
+Construction,39,Male,North Africa,Campania,4.0,Fluent,47,0,0,1,0,0,1
+Hospitality,26,Female,South Asia,Campania,7.5,Fluent,55,0,0,1,0,1,0
+Hospitality,46,Male,South Asia,Lazio,1.4,None,54,1,0,1,0,0,1
+Construction,40,Female,Southeast Asia,Lazio,1.7,None,49,0,0,1,0,0,1
+Agriculture,28,Female,South Asia,Sicilia,9.5,Intermediate,52,0,0,1,0,1,1
+Agriculture,42,Male,Eastern Europe,Lombardia,9.2,Intermediate,67,1,0,1,0,0,1
+Construction,32,Male,Southeast Asia,Toscana,15.0,None,41,0,0,1,0,0,0
+Hospitality,38,Male,Sub-Saharan Africa,Lombardia,9.3,Intermediate,58,1,0,1,1,1,1
+Logistics,35,Female,Sub-Saharan Africa,Lazio,0.5,None,64,0,0,1,0,1,1
+Hospitality,25,Female,North Africa,Lombardia,6.9,Basic,53,0,0,1,0,1,1
+Domestic Work,26,Female,Southeast Asia,Lazio,2.1,Intermediate,48,1,0,0,0,0,1
+Agriculture,40,Male,Middle East,Piemonte,18.8,Fluent,69,0,0,0,0,1,1
+Logistics,29,Female,Eastern Europe,Sicilia,2.6,Intermediate,52,0,0,1,0,1,1
+Hospitality,28,Female,South Asia,Lazio,3.2,Intermediate,50,1,0,0,0,0,1
+Logistics,24,Female,Eastern Europe,Campania,3.0,Basic,54,0,0,1,1,1,0
+Logistics,35,Female,North Africa,Veneto,1.6,None,67,0,0,1,0,1,1
+Agriculture,48,Male,North Africa,Sicilia,0.5,None,70,0,0,1,0,0,0
+Agriculture,23,Male,South Asia,Piemonte,9.0,Fluent,48,0,0,0,0,1,1
+Domestic Work,32,Female,Sub-Saharan Africa,Veneto,6.5,Fluent,56,1,0,1,0,0,1
+Gig Economy,43,Female,Latin America,Toscana,0.6,Basic,56,0,0,1,0,1,1
+Hospitality,31,Male,North Africa,Sicilia,6.0,Fluent,67,0,0,0,0,0,0
+Agriculture,35,Male,Sub-Saharan Africa,Lombardia,3.9,Intermediate,63,1,1,1,0,0,0
+Construction,23,Male,Sub-Saharan Africa,Campania,2.1,Basic,54,0,0,1,0,1,0
+Gig Economy,35,Male,Southeast Asia,Puglia,1.2,Basic,59,0,0,1,0,1,1
+Construction,30,Male,Eastern Europe,Toscana,7.9,None,60,0,0,1,0,1,1
+Gig Economy,39,Female,Sub-Saharan Africa,Veneto,4.8,None,67,0,0,1,0,1,0
+Gig Economy,41,Female,South Asia,Veneto,3.2,Intermediate,57,0,0,1,1,0,0
+Gig Economy,52,Male,Sub-Saharan Africa,Lazio,3.8,Basic,51,0,0,1,0,0,0
+Hospitality,36,Male,Southeast Asia,Veneto,0.5,Basic,45,0,0,1,0,1,1
+Hospitality,34,Male,North Africa,Emilia-Romagna,2.6,Basic,50,0,0,1,0,0,0
+Hospitality,33,Male,North Africa,Campania,0.9,None,43,0,0,1,0,1,1
+Agriculture,29,Female,North Africa,Toscana,0.9,None,58,0,0,1,0,1,1
+Logistics,34,Female,Sub-Saharan Africa,Sicilia,4.3,Basic,65,0,0,1,0,1,1
+Gig Economy,29,Male,Latin America,Lombardia,9.7,Intermediate,49,1,1,0,0,1,1
+Domestic Work,33,Female,North Africa,Campania,2.1,Intermediate,56,0,0,0,0,0,0
+Hospitality,42,Female,South Asia,Campania,0.9,None,57,0,0,1,0,1,1
+Gig Economy,23,Female,South Asia,Toscana,4.2,Intermediate,46,0,0,1,0,0,0
+Construction,41,Male,North Africa,Lazio,8.2,Fluent,55,1,0,0,0,0,1
+Hospitality,42,Female,Middle East,Emilia-Romagna,5.5,Fluent,58,0,0,1,0,0,1
+Hospitality,31,Male,Sub-Saharan Africa,Sicilia,8.1,Fluent,56,1,0,0,0,1,0
+Logistics,18,Male,Southeast Asia,Campania,3.1,Basic,59,0,0,1,1,1,1
+Hospitality,27,Male,Latin America,Puglia,5.6,None,48,0,0,0,0,0,0
+Domestic Work,42,Male,Sub-Saharan Africa,Calabria,0.6,None,44,0,0,0,0,1,1
+Construction,31,Male,South Asia,Lombardia,1.7,None,73,0,0,1,0,1,1
+Agriculture,24,Male,South Asia,Lazio,2.0,Intermediate,69,0,0,1,0,0,1
+Domestic Work,27,Male,Eastern Europe,Puglia,2.9,Basic,36,0,0,0,0,1,0
+Construction,38,Female,Sub-Saharan Africa,Puglia,10.6,Basic,36,0,0,1,1,1,1
+Hospitality,36,Female,Sub-Saharan Africa,Lombardia,8.3,Basic,55,0,0,1,0,0,1
+Domestic Work,30,Male,North Africa,Lombardia,0.6,None,55,0,0,1,0,1,1
+Gig Economy,29,Female,Eastern Europe,Lombardia,0.8,Basic,45,1,0,1,0,1,1
+Construction,28,Female,South Asia,Calabria,1.8,Intermediate,63,0,0,1,0,0,0
+Domestic Work,24,Female,North Africa,Lombardia,1.4,Intermediate,48,1,0,1,0,1,1
+Logistics,44,Male,North Africa,Veneto,3.8,Fluent,56,0,0,1,0,0,1
+Hospitality,29,Female,North Africa,Sicilia,9.3,Basic,61,1,1,1,0,0,0
+Hospitality,41,Female,Latin America,Lombardia,13.1,Basic,50,0,0,1,0,0,1
+Gig Economy,44,Female,South Asia,Emilia-Romagna,4.2,Basic,47,0,0,1,0,1,1
+Construction,39,Male,Latin America,Lazio,7.3,Intermediate,60,0,0,1,0,1,1
+Domestic Work,28,Male,Eastern Europe,Sicilia,3.0,Fluent,47,1,0,1,0,1,1
+Hospitality,35,Female,North Africa,Lazio,0.9,Basic,70,0,0,0,0,0,1
+Gig Economy,31,Male,Eastern Europe,Toscana,3.0,Intermediate,55,0,0,1,0,1,1
+Gig Economy,24,Male,North Africa,Toscana,3.2,Basic,55,0,0,1,0,1,0
+Hospitality,34,Male,South Asia,Lazio,5.4,None,54,0,0,1,0,0,0
+Hospitality,22,Female,Eastern Europe,Lombardia,1.0,None,61,0,0,1,0,1,1
+Logistics,41,Female,North Africa,Campania,1.8,Basic,55,0,0,1,0,1,1
+Domestic Work,28,Male,Eastern Europe,Lazio,1.8,Intermediate,50,0,0,1,0,0,1
+Logistics,33,Female,Sub-Saharan Africa,Piemonte,12.8,Basic,50,0,0,1,0,1,1
+Gig Economy,34,Male,Southeast Asia,Piemonte,2.3,Intermediate,58,1,0,0,0,1,1
+Agriculture,29,Female,North Africa,Campania,5.6,Intermediate,62,0,0,1,0,1,1
+Logistics,36,Female,South Asia,Emilia-Romagna,5.6,Basic,73,0,0,1,0,1,0
+Domestic Work,28,Female,North Africa,Emilia-Romagna,1.2,Intermediate,67,1,0,1,0,1,1
+Domestic Work,38,Female,Latin America,Sicilia,3.4,Basic,54,0,0,1,0,1,1
+Logistics,21,Male,Latin America,Campania,9.0,Intermediate,58,0,0,1,1,0,0
+Gig Economy,33,Female,North Africa,Lazio,2.6,Intermediate,42,1,1,1,1,0,0
+Logistics,47,Male,Southeast Asia,Lazio,11.6,Fluent,65,0,0,1,0,1,1
+Logistics,23,Female,Sub-Saharan Africa,Veneto,1.0,Basic,59,0,0,1,0,1,1
+Hospitality,26,Female,North Africa,Campania,0.5,None,59,1,0,1,0,0,1
+Agriculture,36,Female,Southeast Asia,Campania,8.9,Basic,73,1,0,1,0,0,0
+Gig Economy,33,Male,Southeast Asia,Lombardia,7.5,Basic,43,0,0,1,0,1,1
+Hospitality,34,Female,Eastern Europe,Toscana,19.6,Intermediate,47,0,0,1,0,0,0
+Logistics,35,Male,Southeast Asia,Lazio,4.6,Fluent,56,0,0,1,0,1,1
+Domestic Work,37,Male,South Asia,Lombardia,11.0,Intermediate,54,0,0,1,0,1,1
+Hospitality,40,Female,Southeast Asia,Campania,7.0,Basic,59,0,0,0,0,0,1
+Hospitality,35,Male,Sub-Saharan Africa,Lazio,7.4,Basic,47,0,0,0,0,0,1
+Gig Economy,30,Female,South Asia,Emilia-Romagna,3.4,Basic,56,1,1,1,0,1,0
+Domestic Work,37,Male,Sub-Saharan Africa,Campania,1.9,None,38,1,0,0,0,1,1
+Hospitality,47,Male,North Africa,Campania,10.9,Basic,48,0,0,1,0,1,0
+Agriculture,30,Female,Sub-Saharan Africa,Veneto,2.3,Intermediate,59,0,0,0,0,1,1
+Construction,24,Male,Sub-Saharan Africa,Lazio,3.1,None,50,0,0,1,1,0,1
+Hospitality,40,Male,South Asia,Lombardia,2.4,Basic,62,0,0,1,0,0,1
+Agriculture,31,Female,Sub-Saharan Africa,Sicilia,3.3,Intermediate,62,0,0,1,0,0,0
+Logistics,18,Male,North Africa,Campania,2.5,None,72,0,0,1,0,1,0
+Agriculture,38,Male,North Africa,Campania,0.5,Basic,58,0,0,1,0,1,1
+Agriculture,27,Male,Sub-Saharan Africa,Lombardia,8.5,Intermediate,59,1,1,1,1,0,1
+Gig Economy,31,Female,Eastern Europe,Veneto,2.4,Basic,59,0,0,1,0,1,1
+Hospitality,34,Female,Southeast Asia,Veneto,3.6,Basic,54,0,0,1,0,0,1
+Construction,33,Female,Latin America,Veneto,0.6,None,66,0,0,1,1,1,1
+Logistics,37,Male,Sub-Saharan Africa,Toscana,0.5,Basic,62,0,0,0,0,1,1
+Hospitality,28,Female,Eastern Europe,Lombardia,1.1,Intermediate,36,1,0,0,1,1,1
+Hospitality,36,Female,South Asia,Lazio,4.9,Basic,64,0,0,0,0,0,1
+Gig Economy,29,Female,South Asia,Piemonte,0.5,None,57,0,0,1,0,1,1
+Agriculture,37,Male,Sub-Saharan Africa,Puglia,9.6,None,67,0,0,1,0,1,1
+Hospitality,36,Female,Latin America,Lombardia,1.0,None,39,0,0,1,1,1,1
+Gig Economy,24,Female,Sub-Saharan Africa,Veneto,0.9,Basic,44,1,0,1,1,1,1
+Hospitality,40,Male,South Asia,Lazio,0.8,None,50,0,0,1,0,1,1
+Agriculture,27,Male,South Asia,Lombardia,0.5,None,53,0,0,1,0,1,1
+Hospitality,38,Female,Southeast Asia,Lazio,5.9,Intermediate,68,0,0,0,0,0,1
+Agriculture,34,Male,Eastern Europe,Lombardia,8.3,Basic,59,0,0,1,1,0,1
+Logistics,46,Female,Sub-Saharan Africa,Toscana,3.8,Intermediate,57,0,0,0,0,0,0
+Domestic Work,30,Female,North Africa,Veneto,0.8,Basic,52,0,0,1,0,0,1
+Hospitality,29,Female,North Africa,Lombardia,1.3,None,59,0,0,1,0,0,1
+Logistics,31,Male,Eastern Europe,Lombardia,2.6,Intermediate,31,1,1,1,0,0,1
+Hospitality,29,Male,Sub-Saharan Africa,Piemonte,12.3,Fluent,49,1,1,0,0,1,1
+Domestic Work,38,Female,Southeast Asia,Lombardia,1.1,Basic,36,0,0,0,0,1,1
+Domestic Work,19,Male,Sub-Saharan Africa,Emilia-Romagna,5.3,Basic,51,1,0,1,0,1,1
+Logistics,23,Female,Eastern Europe,Lazio,2.3,Basic,55,0,0,1,0,1,0
+Agriculture,23,Male,South Asia,Emilia-Romagna,1.4,Fluent,60,0,0,1,0,0,1
+Construction,39,Male,Sub-Saharan Africa,Lazio,2.4,Basic,38,0,0,1,0,0,1
+Gig Economy,45,Male,Sub-Saharan Africa,Lombardia,0.5,None,47,0,0,1,0,1,1
+Gig Economy,31,Male,North Africa,Lazio,6.4,Intermediate,58,0,0,1,1,0,0
+Hospitality,30,Female,South Asia,Lombardia,1.1,Basic,66,0,0,1,0,1,1
+Hospitality,32,Male,Latin America,Campania,5.2,Intermediate,60,1,0,1,0,1,0
+Domestic Work,41,Male,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,37,0,0,1,0,1,1
+Domestic Work,24,Male,Eastern Europe,Lazio,12.4,Intermediate,58,1,1,1,0,0,0
+Agriculture,33,Male,Latin America,Lombardia,0.9,Basic,65,0,0,1,1,1,1
+Logistics,39,Male,North Africa,Veneto,8.6,Intermediate,57,1,0,1,0,1,1
+Logistics,36,Female,Eastern Europe,Emilia-Romagna,6.6,Intermediate,41,1,0,1,1,1,1
+Agriculture,33,Male,Eastern Europe,Calabria,13.8,Basic,67,0,0,1,0,0,1
+Domestic Work,40,Male,Sub-Saharan Africa,Emilia-Romagna,2.6,Intermediate,43,0,0,0,0,1,1
+Domestic Work,18,Male,Latin America,Veneto,5.2,Fluent,50,0,0,0,0,0,1
+Construction,37,Female,Sub-Saharan Africa,Emilia-Romagna,1.9,None,55,0,0,0,0,1,1
+Agriculture,26,Male,North Africa,Puglia,0.8,None,72,0,0,1,0,1,0
+Hospitality,18,Male,Eastern Europe,Sicilia,2.3,None,53,0,0,1,0,1,1
+Hospitality,36,Female,Sub-Saharan Africa,Lazio,0.7,Basic,54,0,0,1,0,0,1
+Domestic Work,42,Male,Sub-Saharan Africa,Lazio,16.1,Intermediate,60,1,0,1,0,0,1
+Agriculture,30,Male,North Africa,Lazio,0.5,None,54,0,0,1,0,1,0
+Hospitality,39,Male,Latin America,Veneto,3.6,Fluent,61,0,0,1,0,0,1
+Hospitality,44,Female,Southeast Asia,Toscana,3.9,Basic,53,1,1,0,0,1,1
+Agriculture,42,Male,North Africa,Veneto,3.1,Intermediate,51,1,0,1,0,1,1
+Hospitality,45,Female,Eastern Europe,Lombardia,4.3,Basic,55,0,0,0,0,1,1
+Hospitality,37,Female,Southeast Asia,Toscana,0.5,None,60,0,0,1,0,0,1
+Gig Economy,32,Male,South Asia,Piemonte,3.2,Basic,60,0,0,0,0,1,1
+Agriculture,19,Male,Sub-Saharan Africa,Lazio,1.4,None,71,0,0,0,0,1,1
+Agriculture,30,Male,Eastern Europe,Emilia-Romagna,11.3,Intermediate,57,0,0,0,0,1,1
+Hospitality,25,Female,Latin America,Campania,5.7,Intermediate,47,1,1,1,0,1,1
+Agriculture,49,Male,Southeast Asia,Sicilia,14.4,Basic,57,1,1,0,1,1,1
+Hospitality,30,Male,North Africa,Sicilia,0.5,None,45,1,0,1,0,1,1
+Logistics,32,Male,South Asia,Veneto,1.3,None,56,0,0,1,0,1,0
+Agriculture,36,Female,North Africa,Toscana,0.9,Basic,57,0,0,1,0,0,0
+Agriculture,32,Male,Sub-Saharan Africa,Sicilia,0.5,Basic,65,0,0,1,0,1,1
+Construction,45,Female,Sub-Saharan Africa,Veneto,1.1,None,37,0,0,0,0,1,1
+Agriculture,27,Male,Latin America,Lazio,4.5,Intermediate,54,0,0,1,0,1,1
+Gig Economy,33,Male,South Asia,Piemonte,1.1,None,44,0,0,1,0,1,1
+Hospitality,26,Male,Latin America,Lazio,2.8,Intermediate,64,0,0,1,0,0,1
+Logistics,21,Male,North Africa,Campania,8.8,Fluent,49,1,0,0,0,0,1
+Logistics,27,Male,North Africa,Sicilia,4.7,Intermediate,59,0,0,1,0,1,0
+Hospitality,31,Male,South Asia,Toscana,2.0,Fluent,53,1,1,0,0,1,0
+Domestic Work,28,Female,Sub-Saharan Africa,Campania,1.9,Intermediate,56,0,0,1,0,0,1
+Logistics,26,Female,South Asia,Lazio,2.4,Intermediate,62,0,0,1,0,1,1
+Domestic Work,20,Female,Middle East,Campania,0.8,Basic,48,1,0,1,0,0,0
+Agriculture,31,Male,Latin America,Lazio,4.0,Basic,55,0,0,1,0,0,0
+Construction,19,Male,North Africa,Lombardia,1.8,None,40,0,0,1,1,0,0
+Gig Economy,38,Male,Sub-Saharan Africa,Toscana,7.7,Basic,51,0,0,1,0,1,1
+Gig Economy,32,Female,Middle East,Lazio,5.7,Intermediate,54,0,0,1,0,1,1
+Gig Economy,20,Female,Sub-Saharan Africa,Campania,3.8,Basic,37,0,0,1,0,1,1
+Hospitality,29,Male,South Asia,Campania,1.8,None,45,1,0,0,0,0,1
+Agriculture,25,Male,North Africa,Calabria,0.9,None,62,0,0,0,1,1,1
+Logistics,34,Male,Middle East,Campania,6.0,Basic,60,0,0,1,0,1,1
+Hospitality,42,Male,South Asia,Lombardia,2.7,Basic,47,0,0,0,0,0,0
+Agriculture,18,Male,Sub-Saharan Africa,Lombardia,1.0,Fluent,55,1,0,1,0,0,0
+Hospitality,32,Female,Middle East,Emilia-Romagna,0.9,Basic,40,0,0,1,0,1,1
+Domestic Work,30,Female,South Asia,Emilia-Romagna,0.7,Basic,59,0,0,1,0,1,0
+Domestic Work,37,Male,South Asia,Campania,6.0,Intermediate,37,1,0,1,0,0,1
+Domestic Work,33,Male,North Africa,Campania,1.0,Basic,52,1,0,1,0,1,0
+Logistics,25,Female,Southeast Asia,Lombardia,3.0,Basic,57,1,1,1,0,1,1
+Hospitality,29,Male,North Africa,Veneto,2.4,Intermediate,65,0,0,0,0,0,1
+Domestic Work,25,Male,Middle East,Veneto,3.5,Basic,41,0,0,1,0,0,1
+Gig Economy,40,Male,Eastern Europe,Lombardia,8.4,Basic,50,1,0,1,0,0,1
+Domestic Work,32,Male,South Asia,Lombardia,8.1,Fluent,34,1,0,1,0,1,1
+Domestic Work,47,Male,Middle East,Lombardia,2.4,None,32,0,0,1,0,1,1
+Domestic Work,31,Female,North Africa,Lombardia,0.5,None,52,0,0,0,0,0,0
+Logistics,26,Male,Sub-Saharan Africa,Emilia-Romagna,2.2,None,43,0,0,1,0,0,1
+Logistics,19,Male,North Africa,Lombardia,3.7,None,56,0,0,0,0,1,1
+Domestic Work,18,Female,Sub-Saharan Africa,Lazio,3.3,Basic,56,0,0,1,0,1,1
+Logistics,19,Male,South Asia,Lombardia,4.2,None,63,0,0,1,1,0,1
+Hospitality,34,Female,South Asia,Puglia,0.7,Basic,49,0,0,1,0,1,1
+Gig Economy,36,Female,North Africa,Sicilia,4.2,Intermediate,37,0,0,1,0,0,0
+Domestic Work,19,Male,Latin America,Lazio,0.8,None,52,0,0,1,0,1,1
+Agriculture,39,Female,North Africa,Lazio,5.6,Fluent,70,1,0,1,0,1,1
+Gig Economy,28,Male,Middle East,Lazio,1.7,None,44,0,0,1,0,1,1
+Hospitality,33,Female,Sub-Saharan Africa,Veneto,5.0,Basic,48,0,0,1,0,1,1
+Agriculture,44,Male,Sub-Saharan Africa,Lombardia,0.5,None,55,0,0,1,0,1,1
+Domestic Work,39,Female,South Asia,Toscana,2.1,Basic,52,1,1,0,0,1,0
+Hospitality,29,Female,South Asia,Veneto,4.9,Basic,64,0,0,1,0,0,1
+Gig Economy,24,Male,Sub-Saharan Africa,Sicilia,1.0,Basic,40,0,0,1,0,1,1
+Domestic Work,18,Male,Latin America,Lombardia,6.3,Fluent,36,0,0,1,0,1,0
+Agriculture,26,Female,Southeast Asia,Piemonte,4.0,Intermediate,78,0,0,1,0,1,1
+Agriculture,30,Female,Middle East,Piemonte,3.5,Intermediate,58,0,0,0,0,1,1
+Agriculture,24,Male,Sub-Saharan Africa,Lombardia,1.7,Fluent,62,0,0,0,1,0,0
+Logistics,30,Female,Southeast Asia,Campania,2.6,None,52,0,0,1,0,0,1
+Logistics,32,Male,Sub-Saharan Africa,Lombardia,3.6,Basic,61,0,0,1,0,1,1
+Construction,30,Male,South Asia,Lazio,2.6,Intermediate,62,1,0,1,0,0,0
+Construction,26,Male,Southeast Asia,Lazio,4.8,Intermediate,57,1,0,1,1,0,0
+Domestic Work,33,Male,Eastern Europe,Veneto,2.3,None,61,0,0,0,0,1,1
+Domestic Work,35,Female,South Asia,Campania,0.9,None,45,0,0,0,0,0,1
+Gig Economy,23,Male,North Africa,Puglia,1.0,Basic,47,0,0,1,0,0,0
+Gig Economy,43,Female,Sub-Saharan Africa,Lombardia,0.5,None,51,0,0,1,0,1,1
+Construction,31,Male,Eastern Europe,Calabria,1.4,None,58,0,0,0,1,1,1
+Agriculture,32,Male,North Africa,Lazio,5.5,Fluent,61,1,1,0,0,0,1
+Agriculture,37,Male,Middle East,Piemonte,6.3,Fluent,49,0,0,0,1,0,1
+Construction,33,Male,South Asia,Lazio,0.9,None,57,0,0,1,0,1,1
+Domestic Work,39,Male,Sub-Saharan Africa,Lombardia,12.8,Intermediate,45,0,0,1,0,0,0
+Logistics,34,Male,North Africa,Sicilia,2.8,Intermediate,53,0,0,1,0,0,0
+Logistics,27,Male,North Africa,Lazio,10.0,Basic,58,0,0,1,0,0,0
+Hospitality,34,Male,Sub-Saharan Africa,Emilia-Romagna,4.9,Basic,47,0,0,1,0,1,1
+Gig Economy,22,Male,Eastern Europe,Veneto,5.1,Intermediate,40,0,0,0,0,1,1
+Hospitality,32,Male,Southeast Asia,Veneto,0.5,Basic,34,0,0,1,0,1,1
+Gig Economy,31,Female,Middle East,Veneto,1.0,None,63,0,0,1,0,1,1
+Gig Economy,30,Female,Latin America,Toscana,0.5,Fluent,54,0,0,1,0,0,1
+Logistics,30,Male,Southeast Asia,Lombardia,5.0,Basic,57,1,0,1,1,1,1
+Gig Economy,18,Male,North Africa,Emilia-Romagna,1.7,Basic,44,1,1,0,0,0,0
+Hospitality,27,Male,Latin America,Sicilia,6.2,Basic,31,0,0,1,0,0,1
+Hospitality,32,Female,Sub-Saharan Africa,Lombardia,1.7,None,49,0,0,1,0,0,1
+Construction,33,Male,Sub-Saharan Africa,Lombardia,6.8,Fluent,60,1,0,0,0,0,1
+Logistics,23,Male,Sub-Saharan Africa,Toscana,0.6,Intermediate,65,0,0,0,0,0,1
+Hospitality,42,Male,North Africa,Campania,0.8,None,60,0,0,1,0,1,1
+Gig Economy,25,Male,Sub-Saharan Africa,Campania,1.7,Fluent,51,0,0,1,0,0,1
+Construction,39,Male,Middle East,Lombardia,2.1,Intermediate,65,0,0,1,0,0,1
+Hospitality,35,Female,Sub-Saharan Africa,Veneto,1.7,Basic,52,0,0,1,0,1,1
+Agriculture,26,Male,South Asia,Lombardia,5.8,Intermediate,68,0,0,1,0,1,1
+Hospitality,46,Female,North Africa,Veneto,0.5,None,51,1,0,0,0,1,1
+Hospitality,22,Male,South Asia,Piemonte,1.7,Basic,47,0,0,1,0,1,0
+Gig Economy,39,Male,South Asia,Lazio,7.3,None,41,0,0,1,0,1,0
+Gig Economy,40,Female,Sub-Saharan Africa,Veneto,0.5,Basic,41,0,0,1,0,0,0
+Agriculture,26,Male,North Africa,Calabria,11.4,None,65,0,0,1,0,1,1
+Agriculture,43,Female,North Africa,Toscana,17.2,Fluent,54,1,0,0,0,1,1
+Domestic Work,29,Male,Latin America,Sicilia,0.5,Basic,39,1,0,1,0,0,1
+Gig Economy,34,Male,Eastern Europe,Campania,1.4,None,55,0,0,1,0,1,1
+Logistics,34,Female,North Africa,Piemonte,1.9,Basic,60,1,1,1,0,0,0
+Construction,30,Male,Sub-Saharan Africa,Lombardia,6.0,Intermediate,62,1,0,1,0,1,1
+Logistics,38,Female,Sub-Saharan Africa,Lombardia,3.6,Intermediate,62,0,0,0,0,1,0
+Gig Economy,38,Male,Latin America,Lazio,4.1,Basic,43,0,0,1,1,1,1
+Hospitality,18,Female,South Asia,Campania,5.7,Intermediate,55,1,0,1,0,0,1
+Hospitality,42,Male,South Asia,Sicilia,0.5,None,56,1,0,1,1,1,1
+Domestic Work,18,Male,Latin America,Lazio,7.2,None,40,0,0,1,0,0,1
+Construction,40,Female,North Africa,Emilia-Romagna,4.9,None,46,0,0,1,0,0,1
+Agriculture,41,Female,South Asia,Toscana,3.4,None,54,0,0,1,0,1,1
+Gig Economy,23,Female,Sub-Saharan Africa,Emilia-Romagna,8.8,Fluent,66,0,0,0,1,1,1
+Hospitality,28,Female,Middle East,Campania,4.8,Fluent,51,0,0,1,0,1,1
+Hospitality,23,Female,Southeast Asia,Emilia-Romagna,0.9,None,64,0,0,1,0,0,1
+Logistics,30,Male,Eastern Europe,Lazio,2.2,Basic,54,0,0,0,0,1,1
+Gig Economy,29,Male,North Africa,Lombardia,2.7,None,57,0,0,1,0,1,1
+Agriculture,38,Male,North Africa,Calabria,0.5,Basic,67,0,0,1,1,1,1
+Agriculture,42,Male,Middle East,Lombardia,12.4,Basic,67,0,0,0,1,0,1
+Logistics,43,Male,Middle East,Lombardia,0.6,Basic,61,0,0,1,0,1,1
+Domestic Work,27,Male,Sub-Saharan Africa,Sicilia,4.8,Fluent,59,0,0,1,0,1,1
+Agriculture,30,Male,Latin America,Lazio,2.8,None,63,0,0,1,0,1,1
+Gig Economy,18,Female,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,63,0,0,1,0,1,1
+Agriculture,25,Male,Sub-Saharan Africa,Lazio,10.3,None,47,0,0,1,0,1,1
+Gig Economy,39,Male,Eastern Europe,Campania,7.6,Intermediate,52,0,0,1,0,1,1
+Hospitality,44,Male,North Africa,Lazio,3.0,None,57,0,0,1,0,0,0
+Logistics,22,Female,Middle East,Lazio,1.0,Basic,50,0,0,0,0,0,1
+Construction,27,Female,South Asia,Campania,0.5,None,59,0,0,1,1,0,1
+Hospitality,31,Female,North Africa,Toscana,1.8,Basic,43,0,0,1,0,0,0
+Hospitality,34,Male,Southeast Asia,Veneto,1.2,Basic,49,1,0,1,0,0,1
+Hospitality,25,Male,Southeast Asia,Puglia,2.8,Basic,39,0,0,1,1,0,0
+Hospitality,35,Male,South Asia,Lombardia,13.6,Intermediate,67,0,0,1,0,1,1
+Domestic Work,28,Male,Sub-Saharan Africa,Veneto,3.4,Fluent,46,1,0,0,0,1,1
+Agriculture,31,Male,Eastern Europe,Emilia-Romagna,8.8,Intermediate,77,0,0,1,0,1,0
+Gig Economy,36,Male,South Asia,Puglia,4.2,Basic,56,0,0,1,0,1,1
+Hospitality,32,Male,Middle East,Lombardia,2.6,None,58,1,0,1,0,0,1
+Gig Economy,28,Female,Southeast Asia,Emilia-Romagna,7.7,Fluent,45,1,0,1,0,1,1
+Gig Economy,31,Female,South Asia,Sicilia,2.5,Basic,41,0,0,1,0,1,1
+Hospitality,31,Male,South Asia,Lazio,8.1,Intermediate,59,1,0,1,0,0,1
+Gig Economy,29,Male,South Asia,Sicilia,1.4,None,49,0,0,0,1,1,1
+Logistics,29,Male,Southeast Asia,Lombardia,0.6,None,47,0,0,1,0,1,1
+Agriculture,44,Male,Sub-Saharan Africa,Toscana,7.7,Basic,47,0,0,0,0,1,0
+Agriculture,36,Female,North Africa,Puglia,3.5,Fluent,52,1,1,0,0,1,1
+Hospitality,29,Male,North Africa,Emilia-Romagna,8.8,Fluent,69,1,0,0,0,0,0
+Logistics,37,Female,North Africa,Campania,11.1,Basic,75,0,0,1,0,1,1
+Agriculture,29,Male,South Asia,Lombardia,0.5,Basic,61,0,0,0,0,1,1
+Gig Economy,41,Female,Sub-Saharan Africa,Puglia,2.8,None,51,0,0,1,0,1,0
+Domestic Work,34,Male,Middle East,Veneto,1.9,Basic,45,0,0,1,0,0,1
+Agriculture,31,Female,Southeast Asia,Lombardia,3.9,Fluent,52,0,0,1,0,1,0
+Hospitality,35,Male,Latin America,Toscana,6.3,Intermediate,66,1,0,0,0,0,1
+Hospitality,19,Female,South Asia,Veneto,1.3,Basic,69,0,0,1,0,0,1
+Agriculture,22,Male,Sub-Saharan Africa,Lombardia,3.3,Basic,52,1,0,1,0,1,0
+Hospitality,22,Male,Eastern Europe,Lazio,4.9,Intermediate,54,0,0,1,0,1,1
+Gig Economy,33,Female,Sub-Saharan Africa,Lombardia,0.6,Basic,46,0,0,1,0,0,1
+Domestic Work,45,Female,Southeast Asia,Emilia-Romagna,6.7,Intermediate,44,1,0,1,0,1,1
+Gig Economy,49,Female,Eastern Europe,Emilia-Romagna,3.7,Basic,59,0,0,1,0,1,0
+Logistics,37,Female,South Asia,Veneto,11.9,Intermediate,47,0,0,1,0,1,1
+Agriculture,36,Female,Southeast Asia,Piemonte,1.7,Fluent,63,0,0,0,0,0,1
+Gig Economy,18,Male,Middle East,Sicilia,0.5,Basic,55,0,0,1,1,1,1
+Gig Economy,27,Male,South Asia,Emilia-Romagna,2.8,Basic,48,0,0,0,1,0,0
+Domestic Work,25,Male,North Africa,Lombardia,0.5,Basic,55,0,0,1,0,0,1
+Logistics,27,Female,Sub-Saharan Africa,Toscana,14.0,Fluent,59,1,0,1,1,0,1
+Domestic Work,30,Male,Sub-Saharan Africa,Campania,0.5,None,57,1,0,1,0,1,1
+Domestic Work,28,Male,South Asia,Veneto,5.6,Basic,35,0,0,1,0,1,1
+Hospitality,18,Male,North Africa,Emilia-Romagna,3.0,Intermediate,52,0,0,0,0,1,1
+Hospitality,37,Female,Middle East,Campania,1.8,Basic,54,0,0,1,0,1,1
+Hospitality,23,Male,North Africa,Puglia,0.5,Basic,33,0,0,1,1,1,1
+Hospitality,33,Male,South Asia,Lombardia,3.9,Fluent,46,1,0,0,0,1,1
+Hospitality,48,Male,Eastern Europe,Toscana,3.5,Basic,48,0,0,1,0,1,1
+Agriculture,24,Male,Sub-Saharan Africa,Lombardia,1.3,None,67,0,0,1,0,1,1
+Hospitality,18,Male,Southeast Asia,Puglia,9.6,Fluent,49,1,1,0,0,1,0
+Logistics,29,Female,North Africa,Lombardia,1.5,Basic,51,0,0,1,0,0,1
+Construction,40,Male,Sub-Saharan Africa,Lombardia,2.4,Basic,61,0,0,1,0,0,1
+Hospitality,47,Female,Sub-Saharan Africa,Lazio,3.1,Intermediate,42,0,0,0,0,0,0
+Construction,22,Male,Latin America,Campania,0.5,Basic,38,0,0,1,0,1,1
+Logistics,35,Female,Sub-Saharan Africa,Lazio,10.8,Basic,55,0,0,1,0,0,1
+Hospitality,28,Male,Latin America,Emilia-Romagna,1.9,Intermediate,43,0,0,1,0,1,0
+Agriculture,31,Male,Sub-Saharan Africa,Campania,0.5,Basic,48,0,0,1,0,1,1
+Agriculture,53,Female,Sub-Saharan Africa,Lombardia,2.0,Basic,64,0,0,1,0,1,1
+Domestic Work,19,Male,North Africa,Lazio,3.7,Basic,55,0,0,0,0,1,1
+Agriculture,34,Male,Middle East,Piemonte,2.9,None,66,0,0,1,0,1,1
+Construction,35,Female,Middle East,Toscana,4.7,None,63,0,0,0,0,1,0
+Logistics,40,Male,Sub-Saharan Africa,Toscana,0.5,None,67,1,0,1,1,1,1
+Hospitality,32,Female,Sub-Saharan Africa,Toscana,1.3,Basic,37,0,0,1,1,0,1
+Construction,34,Male,South Asia,Lazio,6.8,Fluent,58,0,0,1,0,0,0
+Construction,28,Female,North Africa,Lombardia,0.5,Basic,50,0,0,1,0,0,0
+Domestic Work,34,Male,North Africa,Lazio,7.7,Intermediate,42,1,0,0,0,0,0
+Gig Economy,29,Male,Southeast Asia,Sicilia,0.5,Basic,54,0,0,1,1,1,1
+Logistics,36,Male,Middle East,Calabria,7.2,Basic,44,0,0,1,0,1,1
+Construction,29,Male,Sub-Saharan Africa,Veneto,1.8,Fluent,40,1,0,1,0,0,1
+Logistics,35,Male,North Africa,Lombardia,3.8,Basic,63,0,0,0,0,1,1
+Domestic Work,31,Male,Southeast Asia,Lombardia,0.7,None,51,0,0,1,0,0,1
+Domestic Work,41,Male,Latin America,Lazio,0.5,None,49,0,0,1,0,1,1
+Gig Economy,31,Male,South Asia,Emilia-Romagna,1.0,Intermediate,42,0,0,1,0,1,1
+Construction,18,Male,Sub-Saharan Africa,Lombardia,0.5,Intermediate,60,1,1,1,0,1,1
+Construction,42,Female,North Africa,Puglia,1.5,None,60,0,0,1,1,0,1
+Hospitality,24,Male,Sub-Saharan Africa,Campania,2.9,Intermediate,55,0,0,1,0,1,1
+Domestic Work,26,Male,Sub-Saharan Africa,Puglia,3.6,Basic,38,0,0,1,0,1,1
+Gig Economy,27,Male,South Asia,Piemonte,6.2,None,46,0,0,1,0,1,1
+Construction,42,Male,Eastern Europe,Piemonte,4.3,Intermediate,61,0,0,1,0,0,1
+Logistics,18,Female,Sub-Saharan Africa,Emilia-Romagna,3.8,Fluent,68,1,1,0,0,0,0
+Domestic Work,57,Male,South Asia,Emilia-Romagna,2.1,Basic,45,1,1,0,0,1,0
+Logistics,40,Female,Sub-Saharan Africa,Emilia-Romagna,2.6,Basic,56,0,0,1,0,1,1
+Hospitality,33,Male,Latin America,Emilia-Romagna,2.1,Intermediate,53,0,0,1,0,0,1
+Domestic Work,31,Female,Southeast Asia,Veneto,7.4,Fluent,50,0,0,1,0,1,1
+Hospitality,34,Male,North Africa,Calabria,1.0,Intermediate,50,0,0,1,0,0,1
+Logistics,36,Female,North Africa,Toscana,0.5,Basic,34,1,0,0,1,1,1
+Domestic Work,37,Male,Middle East,Piemonte,4.2,Fluent,57,1,0,1,0,0,1
+Domestic Work,36,Male,Sub-Saharan Africa,Sicilia,0.9,Fluent,62,1,0,0,1,0,1
+Gig Economy,32,Male,Sub-Saharan Africa,Lazio,8.8,Basic,45,0,0,1,0,1,1
+Agriculture,30,Male,Sub-Saharan Africa,Lombardia,7.8,Fluent,51,0,0,1,0,0,1
+Gig Economy,30,Female,South Asia,Veneto,0.5,None,48,0,0,1,1,1,1
+Logistics,30,Male,Sub-Saharan Africa,Veneto,0.5,None,56,0,0,1,0,1,1
+Logistics,41,Male,Southeast Asia,Sicilia,2.7,Basic,65,0,0,1,0,1,1
+Agriculture,36,Female,Eastern Europe,Campania,3.8,None,60,1,0,0,0,0,1
+Construction,18,Male,North Africa,Emilia-Romagna,1.3,Basic,48,0,0,1,0,1,1
+Construction,37,Female,Middle East,Veneto,5.0,Fluent,44,1,1,1,0,1,0
+Construction,33,Female,South Asia,Lombardia,3.6,Basic,61,0,0,1,1,1,0
+Hospitality,31,Male,Sub-Saharan Africa,Emilia-Romagna,1.6,Basic,59,0,0,0,0,1,0
+Gig Economy,28,Female,North Africa,Sicilia,0.5,Intermediate,58,0,0,1,0,1,1
+Hospitality,40,Male,Eastern Europe,Lombardia,5.5,Basic,47,0,0,1,0,1,1
+Gig Economy,39,Male,South Asia,Emilia-Romagna,1.0,Basic,64,1,0,1,0,1,1
+Gig Economy,25,Male,North Africa,Emilia-Romagna,7.2,Intermediate,36,0,0,1,0,1,0
+Domestic Work,35,Male,Eastern Europe,Lombardia,2.2,Basic,53,0,0,1,0,0,1
+Logistics,24,Female,Eastern Europe,Lombardia,3.4,Intermediate,42,0,0,1,0,1,1
+Hospitality,20,Female,Eastern Europe,Calabria,8.3,Fluent,48,1,0,1,0,1,1
+Hospitality,26,Male,Sub-Saharan Africa,Campania,8.0,Intermediate,67,1,0,1,0,1,1
+Construction,38,Male,South Asia,Lazio,1.9,Intermediate,61,0,0,1,1,1,1
+Agriculture,39,Female,North Africa,Lombardia,0.9,Basic,55,0,0,1,0,1,1
+Hospitality,36,Male,South Asia,Emilia-Romagna,6.0,Intermediate,50,0,0,1,0,0,1
+Hospitality,37,Male,Middle East,Emilia-Romagna,2.3,Basic,55,0,0,1,0,0,1
+Agriculture,36,Male,North Africa,Emilia-Romagna,0.9,Basic,64,0,0,1,1,0,0
+Hospitality,26,Female,Sub-Saharan Africa,Lombardia,9.4,Intermediate,65,0,0,1,0,1,0
+Construction,35,Male,Latin America,Sicilia,0.9,None,51,0,0,1,0,1,1
+Agriculture,38,Female,North Africa,Campania,0.5,None,47,0,0,1,0,0,1
+Hospitality,38,Female,Sub-Saharan Africa,Lazio,0.5,None,56,0,0,1,0,1,1
+Hospitality,41,Male,Latin America,Campania,3.9,Basic,51,0,0,1,1,0,1
+Domestic Work,37,Male,Southeast Asia,Campania,4.3,Intermediate,37,0,0,1,0,0,1
+Logistics,34,Female,Eastern Europe,Sicilia,1.5,None,60,0,0,1,0,1,1
+Logistics,40,Male,South Asia,Puglia,1.5,Intermediate,56,0,0,1,0,1,1
+Construction,31,Female,North Africa,Lazio,1.7,None,57,0,0,1,1,1,1
+Domestic Work,24,Female,Latin America,Sicilia,4.6,Basic,40,0,0,0,1,1,0
+Domestic Work,30,Female,South Asia,Piemonte,0.5,Basic,51,1,1,1,0,1,1
+Construction,26,Female,Sub-Saharan Africa,Puglia,10.6,Basic,44,1,0,1,0,1,1
+Logistics,26,Female,Southeast Asia,Lazio,1.0,Intermediate,51,0,0,0,0,0,1
+Hospitality,30,Female,South Asia,Emilia-Romagna,20.0,Basic,53,0,0,1,0,1,1
+Construction,25,Male,Latin America,Lazio,0.8,None,68,1,1,0,0,1,1
+Gig Economy,29,Male,North Africa,Sicilia,5.9,Intermediate,56,0,0,1,0,1,1
+Gig Economy,18,Male,North Africa,Lombardia,1.0,Basic,58,0,0,1,0,1,1
+Domestic Work,33,Female,South Asia,Veneto,0.5,None,59,1,0,1,0,0,1
+Hospitality,32,Male,Latin America,Lazio,8.3,Intermediate,80,1,1,0,0,1,1
+Gig Economy,25,Female,Sub-Saharan Africa,Lazio,7.8,Intermediate,50,0,0,1,0,0,0
+Hospitality,37,Male,North Africa,Emilia-Romagna,2.1,Fluent,66,0,0,1,0,0,0
+Gig Economy,39,Female,Eastern Europe,Sicilia,4.8,Fluent,58,0,0,1,0,0,0
+Hospitality,19,Male,Eastern Europe,Emilia-Romagna,3.3,Basic,62,1,0,0,1,0,1
+Hospitality,25,Female,Middle East,Sicilia,7.7,Fluent,69,1,0,1,0,1,1
+Hospitality,25,Male,North Africa,Lazio,1.5,None,51,0,0,1,0,1,1
+Agriculture,24,Male,Sub-Saharan Africa,Veneto,3.0,None,56,0,0,1,0,1,1
+Agriculture,38,Male,Middle East,Campania,2.7,Intermediate,62,0,0,1,0,0,0
+Gig Economy,30,Female,Eastern Europe,Lombardia,1.7,None,48,0,0,1,0,1,1
+Domestic Work,29,Male,Sub-Saharan Africa,Veneto,8.9,None,50,1,0,1,0,1,1
+Logistics,18,Male,South Asia,Emilia-Romagna,0.7,None,70,0,0,1,0,0,1
+Logistics,37,Female,Latin America,Emilia-Romagna,0.6,None,54,0,0,1,0,1,1
+Domestic Work,22,Female,Sub-Saharan Africa,Toscana,3.4,Intermediate,45,0,0,0,0,1,1
+Hospitality,32,Female,Eastern Europe,Emilia-Romagna,4.3,Intermediate,56,1,1,1,1,1,1
+Domestic Work,34,Male,North Africa,Lombardia,0.9,None,46,0,0,1,0,1,1
+Hospitality,42,Male,Sub-Saharan Africa,Lombardia,2.0,Basic,39,0,0,1,1,1,0
+Domestic Work,21,Female,Eastern Europe,Emilia-Romagna,11.7,Fluent,43,0,0,1,0,0,1
+Hospitality,18,Male,South Asia,Lazio,1.1,Intermediate,60,0,0,1,0,1,1
+Domestic Work,33,Female,North Africa,Lombardia,4.4,Basic,59,1,0,1,0,1,1
+Gig Economy,46,Male,North Africa,Campania,5.4,Fluent,40,0,0,0,0,0,1
+Domestic Work,41,Male,North Africa,Veneto,2.4,Intermediate,38,0,0,1,0,1,1
+Hospitality,33,Male,Eastern Europe,Lazio,11.1,None,55,0,0,1,0,0,1
+Gig Economy,28,Male,Latin America,Toscana,5.3,None,33,1,0,1,0,1,1
+Domestic Work,38,Male,Latin America,Emilia-Romagna,2.4,None,44,0,0,1,0,0,1
+Gig Economy,24,Male,South Asia,Lazio,3.4,Intermediate,36,0,0,1,1,1,0
+Agriculture,35,Female,Sub-Saharan Africa,Piemonte,4.7,Basic,70,0,0,1,0,1,1
+Agriculture,36,Male,North Africa,Emilia-Romagna,3.6,Intermediate,53,0,0,1,1,0,1
+Gig Economy,40,Female,Middle East,Emilia-Romagna,8.4,Basic,63,1,0,1,0,1,0
+Agriculture,54,Female,Latin America,Veneto,1.8,Fluent,68,1,0,1,0,0,1
+Gig Economy,35,Male,Latin America,Lombardia,1.4,Basic,44,0,0,1,0,1,1
+Domestic Work,27,Male,Sub-Saharan Africa,Toscana,1.0,Intermediate,39,0,0,1,0,0,1
+Hospitality,31,Female,North Africa,Campania,0.5,Intermediate,53,0,0,1,0,0,1
+Logistics,18,Male,North Africa,Puglia,0.5,None,57,0,0,1,0,0,1
+Domestic Work,26,Female,South Asia,Piemonte,8.2,Intermediate,50,1,1,0,0,1,0
+Domestic Work,28,Female,South Asia,Emilia-Romagna,4.5,None,41,1,0,1,0,1,0
+Gig Economy,27,Female,Middle East,Lazio,4.3,Fluent,55,0,0,1,0,1,0
+Agriculture,33,Male,Sub-Saharan Africa,Lazio,3.8,Intermediate,62,0,0,1,0,1,1
+Logistics,25,Male,Sub-Saharan Africa,Lazio,7.6,None,55,0,0,0,0,1,1
+Hospitality,40,Female,South Asia,Veneto,2.6,None,49,0,0,1,0,0,1
+Gig Economy,32,Male,Southeast Asia,Lazio,8.2,Intermediate,48,0,0,0,0,0,0
+Logistics,31,Female,North Africa,Veneto,1.8,Fluent,51,0,0,1,0,1,1
+Gig Economy,29,Male,Eastern Europe,Lombardia,10.5,Intermediate,50,0,0,1,1,0,1
+Hospitality,33,Male,Southeast Asia,Calabria,4.8,Fluent,55,1,0,1,0,0,1
+Domestic Work,38,Female,Sub-Saharan Africa,Lombardia,1.2,Basic,50,0,0,1,0,1,1
+Domestic Work,25,Male,Eastern Europe,Puglia,3.3,None,62,0,0,0,0,1,1
+Agriculture,26,Male,South Asia,Puglia,3.0,Fluent,58,1,0,1,1,1,1
+Gig Economy,29,Male,Sub-Saharan Africa,Veneto,0.6,None,58,0,0,1,0,0,1
+Logistics,21,Female,Latin America,Toscana,3.6,Fluent,59,1,0,1,0,0,1
+Construction,25,Male,Latin America,Campania,1.5,Basic,53,0,0,1,1,1,1
+Agriculture,28,Female,Sub-Saharan Africa,Emilia-Romagna,0.5,None,59,0,0,1,0,1,1
+Hospitality,38,Male,Sub-Saharan Africa,Lazio,11.9,Intermediate,54,1,1,0,0,1,1
+Domestic Work,34,Female,North Africa,Lazio,4.1,Fluent,50,0,0,1,0,1,1
+Construction,33,Female,South Asia,Emilia-Romagna,8.4,Fluent,47,0,0,0,1,1,1
+Domestic Work,38,Male,Sub-Saharan Africa,Veneto,4.5,Basic,36,1,0,1,0,1,1
+Agriculture,30,Male,Sub-Saharan Africa,Emilia-Romagna,1.8,None,65,0,0,1,0,1,1
+Agriculture,35,Male,Sub-Saharan Africa,Lazio,2.9,Basic,67,1,0,1,0,1,1
+Gig Economy,31,Female,Latin America,Campania,4.5,Intermediate,55,1,0,0,1,0,1
+Domestic Work,34,Male,Sub-Saharan Africa,Lombardia,12.9,Fluent,49,0,0,1,0,1,0
+Domestic Work,27,Female,Sub-Saharan Africa,Lombardia,1.2,None,54,0,0,1,0,0,1
+Hospitality,18,Male,North Africa,Lazio,8.3,Fluent,60,0,0,0,0,0,0
+Hospitality,30,Male,Southeast Asia,Lombardia,10.3,Intermediate,61,1,0,1,0,0,0
+Logistics,43,Male,Sub-Saharan Africa,Lombardia,4.4,Intermediate,51,0,0,1,0,0,1
+Construction,39,Male,South Asia,Piemonte,10.7,Intermediate,46,0,0,1,0,0,0
+Domestic Work,39,Male,Sub-Saharan Africa,Lombardia,2.0,Basic,44,0,0,0,0,0,1
+Hospitality,41,Female,Eastern Europe,Emilia-Romagna,12.2,Fluent,54,1,0,0,0,1,0
+Gig Economy,32,Female,North Africa,Lazio,4.9,Intermediate,48,0,0,1,1,0,1
+Logistics,33,Male,Latin America,Sicilia,0.5,Intermediate,42,0,0,1,0,1,0
+Domestic Work,27,Female,Middle East,Veneto,9.5,Fluent,61,1,1,0,1,1,1
+Construction,29,Female,Latin America,Lazio,2.7,Basic,52,0,0,1,0,1,0
+Construction,36,Female,Eastern Europe,Veneto,2.5,Basic,56,0,0,0,0,1,1
+Gig Economy,41,Male,North Africa,Campania,3.3,None,59,0,0,0,0,0,0
+Gig Economy,30,Male,South Asia,Veneto,0.6,None,31,0,0,1,0,1,1
+Logistics,28,Male,Middle East,Lombardia,2.5,None,53,0,0,1,0,0,1
+Hospitality,32,Female,Sub-Saharan Africa,Calabria,7.1,Basic,51,0,0,1,0,1,1
+Domestic Work,36,Male,South Asia,Campania,0.5,None,45,0,0,1,1,1,1
+Construction,20,Male,Eastern Europe,Lazio,1.3,Basic,53,0,0,1,0,0,1
+Domestic Work,18,Male,Sub-Saharan Africa,Toscana,0.5,None,59,0,0,1,0,1,1
+Domestic Work,27,Male,North Africa,Campania,2.1,Basic,53,0,0,1,0,0,1
+Gig Economy,22,Male,North Africa,Sicilia,5.2,None,57,1,1,1,0,1,0
+Construction,27,Male,North Africa,Campania,6.4,None,55,0,0,1,1,0,1
+Domestic Work,30,Male,Latin America,Toscana,11.6,Intermediate,36,1,0,0,0,1,0
+Construction,28,Male,Sub-Saharan Africa,Lombardia,3.8,Intermediate,38,0,0,0,0,0,1
+Hospitality,43,Female,North Africa,Sicilia,1.2,Basic,42,0,0,1,0,1,1
+Gig Economy,34,Female,North Africa,Toscana,10.3,Intermediate,52,1,0,1,0,0,0
+Hospitality,34,Female,Eastern Europe,Lazio,6.0,Fluent,55,1,0,1,0,1,1
+Domestic Work,36,Female,Latin America,Lombardia,3.4,Basic,46,0,0,0,0,1,1
+Agriculture,22,Male,Sub-Saharan Africa,Lazio,4.8,Intermediate,57,0,0,1,0,1,1
+Hospitality,40,Male,Eastern Europe,Calabria,10.3,Fluent,71,0,0,1,0,0,1
+Agriculture,31,Female,South Asia,Lazio,5.0,Intermediate,53,0,0,1,0,1,1
+Agriculture,37,Female,Middle East,Campania,1.8,Basic,67,0,0,1,0,1,1
+Logistics,23,Male,Sub-Saharan Africa,Lombardia,5.0,Intermediate,58,0,0,1,0,1,1
+Hospitality,19,Male,Eastern Europe,Campania,0.5,None,54,0,0,1,0,1,1
+Agriculture,38,Male,South Asia,Emilia-Romagna,2.0,Basic,69,1,0,1,1,0,1
+Gig Economy,35,Male,Sub-Saharan Africa,Puglia,2.1,Fluent,61,0,0,0,0,1,1
+Construction,24,Male,North Africa,Veneto,0.7,Basic,53,0,0,1,1,0,1
+Gig Economy,25,Male,Southeast Asia,Piemonte,0.5,Intermediate,56,0,0,1,1,0,0
+Domestic Work,41,Female,North Africa,Veneto,0.6,None,50,0,0,1,0,1,1
+Gig Economy,22,Male,Southeast Asia,Lombardia,4.3,Fluent,50,0,0,1,0,0,1
+Gig Economy,45,Male,North Africa,Lazio,6.5,Intermediate,51,0,0,1,0,0,0
+Domestic Work,24,Male,North Africa,Emilia-Romagna,17.8,None,42,0,0,1,0,1,1
+Gig Economy,37,Female,South Asia,Puglia,1.7,Basic,47,0,0,1,0,0,1
+Hospitality,29,Male,Latin America,Sicilia,3.7,Basic,50,0,0,0,0,1,1
+Hospitality,36,Male,Sub-Saharan Africa,Lazio,11.1,None,62,1,0,1,0,0,1
+Construction,27,Male,Southeast Asia,Lazio,0.7,Basic,54,0,0,1,0,1,1
+Agriculture,30,Male,Southeast Asia,Lazio,5.1,Basic,49,0,0,1,1,1,1
+Agriculture,32,Female,Middle East,Puglia,5.6,Intermediate,54,0,0,1,0,1,1
+Hospitality,23,Female,North Africa,Sicilia,0.5,None,29,0,0,0,1,0,1
+Hospitality,37,Male,Eastern Europe,Piemonte,7.9,Basic,51,1,0,1,0,1,1
+Hospitality,27,Male,Latin America,Campania,6.7,Fluent,55,0,0,1,0,0,1
+Logistics,30,Female,South Asia,Veneto,0.5,None,56,0,0,1,0,1,1
+Gig Economy,24,Male,Eastern Europe,Campania,0.5,Basic,65,0,0,1,1,1,1
+Logistics,18,Male,South Asia,Lazio,0.5,Basic,62,0,0,1,0,1,1
+Gig Economy,30,Male,North Africa,Veneto,1.6,Basic,54,1,1,1,0,0,1
+Domestic Work,51,Female,South Asia,Lombardia,2.8,Intermediate,34,1,1,1,0,0,1
+Logistics,38,Male,Sub-Saharan Africa,Lombardia,3.0,Intermediate,55,1,0,1,0,0,0
+Gig Economy,31,Male,Sub-Saharan Africa,Sicilia,1.2,Basic,46,0,0,1,0,0,0
+Construction,29,Female,North Africa,Piemonte,9.7,Fluent,48,0,0,1,1,1,1
+Logistics,32,Male,Eastern Europe,Campania,1.8,None,51,0,0,0,1,0,1
+Agriculture,36,Male,South Asia,Veneto,0.5,Basic,45,0,0,1,0,0,1
+Domestic Work,22,Female,North Africa,Campania,1.4,Fluent,37,1,0,1,0,0,0
+Domestic Work,40,Male,Sub-Saharan Africa,Toscana,3.0,Intermediate,54,0,0,1,1,0,1
+Hospitality,37,Male,North Africa,Piemonte,2.1,Intermediate,53,0,0,0,1,1,1
+Domestic Work,37,Male,Eastern Europe,Piemonte,1.3,Basic,43,0,0,1,0,0,1
+Gig Economy,35,Male,North Africa,Toscana,0.6,Basic,49,0,0,1,0,1,1
+Logistics,32,Male,Eastern Europe,Lazio,6.8,Fluent,67,1,0,1,0,0,1
+Gig Economy,37,Male,Sub-Saharan Africa,Lazio,20.0,Basic,50,0,0,1,0,1,1
+Domestic Work,36,Male,Latin America,Campania,1.6,None,52,0,0,1,0,1,1
+Gig Economy,29,Female,North Africa,Lazio,1.9,Basic,43,0,0,0,0,1,1
+Logistics,27,Male,North Africa,Piemonte,3.8,Intermediate,53,1,0,1,0,1,1
+Agriculture,32,Male,Eastern Europe,Lazio,5.1,Basic,62,0,0,1,0,1,1
+Hospitality,44,Male,South Asia,Lombardia,2.0,None,70,0,0,1,0,1,1
+Hospitality,22,Female,Eastern Europe,Campania,9.4,Intermediate,66,1,0,0,0,1,0
+Hospitality,20,Male,Eastern Europe,Calabria,3.3,Fluent,59,0,0,1,0,1,1
+Hospitality,33,Male,Sub-Saharan Africa,Lazio,2.4,Basic,56,0,0,1,1,0,1
+Hospitality,32,Male,South Asia,Emilia-Romagna,4.2,Basic,66,1,0,1,0,1,1
+Hospitality,33,Male,South Asia,Campania,12.2,Basic,61,0,0,1,0,1,1
+Agriculture,33,Male,Southeast Asia,Lombardia,6.3,Intermediate,41,0,0,1,1,1,1
+Hospitality,30,Female,Eastern Europe,Veneto,0.5,None,46,1,0,1,0,1,1
+Logistics,43,Male,South Asia,Toscana,1.6,None,60,0,0,0,0,1,1
+Domestic Work,19,Male,Sub-Saharan Africa,Veneto,2.5,Intermediate,33,1,0,1,1,0,1
+Gig Economy,25,Male,North Africa,Sicilia,1.5,Fluent,42,1,0,1,0,0,1
+Agriculture,31,Female,Latin America,Lazio,4.8,Basic,54,0,0,1,0,1,1
+Hospitality,18,Male,South Asia,Lombardia,7.0,None,52,0,0,1,0,0,1
+Hospitality,30,Male,Sub-Saharan Africa,Puglia,5.3,Basic,52,0,0,1,0,1,1
+Hospitality,45,Male,Southeast Asia,Campania,18.2,Intermediate,52,0,0,0,0,1,1
+Hospitality,32,Male,South Asia,Emilia-Romagna,1.3,None,61,0,0,0,1,1,1
+Logistics,33,Male,Sub-Saharan Africa,Piemonte,8.3,Basic,55,1,0,1,0,1,1
+Hospitality,21,Male,Middle East,Lazio,5.8,Basic,51,0,0,1,1,0,1
+Hospitality,27,Male,Eastern Europe,Toscana,1.8,Intermediate,44,0,0,1,1,1,1
+Hospitality,28,Male,Sub-Saharan Africa,Lombardia,5.3,Intermediate,63,0,0,1,0,0,0
+Gig Economy,29,Male,South Asia,Lazio,0.5,Basic,44,0,0,1,0,1,0
+Hospitality,42,Male,South Asia,Lombardia,6.2,Intermediate,46,1,0,1,0,0,1
+Logistics,36,Male,Sub-Saharan Africa,Piemonte,3.0,Fluent,59,1,0,1,0,0,1
+Gig Economy,23,Female,Southeast Asia,Lazio,1.4,Fluent,43,1,1,0,0,1,1
+Agriculture,33,Female,North Africa,Toscana,4.3,Basic,55,0,0,1,1,1,1
+Hospitality,35,Female,Eastern Europe,Puglia,4.1,Basic,57,0,0,1,0,0,0
+Construction,41,Female,Southeast Asia,Veneto,0.9,Basic,52,0,0,1,0,1,1
+Agriculture,44,Male,North Africa,Veneto,0.5,None,78,0,0,1,0,1,0
+Hospitality,23,Female,Sub-Saharan Africa,Campania,2.3,Basic,54,1,1,0,0,1,1
+Domestic Work,25,Male,North Africa,Lazio,3.4,Intermediate,52,1,1,1,0,0,1
+Domestic Work,21,Female,Southeast Asia,Veneto,8.4,Intermediate,32,0,0,0,1,1,0
+Hospitality,30,Male,Latin America,Emilia-Romagna,10.5,Intermediate,48,0,0,1,1,1,0
+Logistics,35,Male,South Asia,Calabria,3.0,Intermediate,49,0,0,1,0,0,0
+Construction,39,Female,Eastern Europe,Puglia,5.6,Fluent,47,0,0,1,0,0,1
+Agriculture,31,Male,North Africa,Sicilia,2.3,None,63,0,0,1,0,1,1
+Hospitality,29,Male,Southeast Asia,Sicilia,5.5,Intermediate,63,0,0,1,0,1,1
+Hospitality,33,Female,South Asia,Campania,0.9,None,57,0,0,1,0,1,1
+Logistics,25,Male,North Africa,Emilia-Romagna,1.9,None,56,0,0,1,0,1,1
+Gig Economy,48,Male,Southeast Asia,Sicilia,4.0,Intermediate,44,1,0,1,0,0,1
+Agriculture,19,Female,North Africa,Campania,0.5,None,68,0,0,0,0,0,1
+Logistics,33,Male,North Africa,Calabria,5.1,None,74,0,0,1,0,0,1
+Gig Economy,48,Male,South Asia,Campania,7.2,Basic,51,0,0,1,0,0,1
+Agriculture,32,Male,Sub-Saharan Africa,Emilia-Romagna,2.0,Basic,67,0,0,1,0,0,1
+Hospitality,30,Male,Sub-Saharan Africa,Toscana,2.4,Intermediate,57,0,0,1,0,1,0
+Logistics,29,Female,Middle East,Puglia,7.6,Basic,64,1,1,1,0,0,1
+Agriculture,30,Male,Sub-Saharan Africa,Lazio,6.0,Intermediate,50,1,1,0,0,0,1
+Domestic Work,42,Male,North Africa,Toscana,1.4,None,44,0,0,1,0,1,0
+Gig Economy,18,Male,Eastern Europe,Veneto,1.6,Basic,53,0,0,0,0,1,0
+Gig Economy,44,Male,South Asia,Lazio,4.5,Basic,59,0,0,1,0,0,1
+Hospitality,20,Female,North Africa,Piemonte,3.3,Intermediate,48,1,0,0,1,0,0
+Gig Economy,29,Male,Eastern Europe,Veneto,0.7,Fluent,33,1,1,1,0,1,1
+Gig Economy,28,Male,Southeast Asia,Emilia-Romagna,1.5,Fluent,46,0,0,1,0,1,1
+Hospitality,36,Male,Eastern Europe,Lazio,9.2,None,63,0,0,1,0,1,1
+Logistics,19,Female,Eastern Europe,Veneto,4.7,Fluent,45,1,0,1,0,1,1
+Logistics,35,Female,South Asia,Emilia-Romagna,17.1,None,48,0,0,1,0,0,0
+Hospitality,48,Male,Middle East,Campania,5.8,Fluent,56,1,0,1,0,0,0
+Logistics,21,Male,South Asia,Lombardia,11.4,Basic,57,1,1,1,0,1,0
+Hospitality,33,Male,Latin America,Calabria,1.0,Basic,59,0,0,1,0,0,1
+Logistics,26,Female,Sub-Saharan Africa,Veneto,5.9,None,48,0,0,1,1,1,1
+Hospitality,35,Male,Middle East,Toscana,0.5,None,52,0,0,1,0,1,1
+Domestic Work,32,Female,Eastern Europe,Campania,4.4,Intermediate,57,1,1,0,0,0,0
+Gig Economy,26,Female,Latin America,Campania,2.5,Fluent,40,1,1,0,0,0,0
+Agriculture,35,Female,Sub-Saharan Africa,Campania,1.7,Basic,71,0,0,1,1,1,1
+Construction,46,Female,North Africa,Campania,7.9,Intermediate,46,0,0,1,1,0,0
+Gig Economy,30,Male,Eastern Europe,Veneto,7.7,Fluent,56,0,0,1,0,1,1
+Hospitality,37,Male,Latin America,Veneto,0.5,None,52,0,0,1,0,0,1
+Gig Economy,21,Male,South Asia,Veneto,3.8,None,40,0,0,1,0,1,0
+Gig Economy,24,Female,Middle East,Lombardia,1.8,None,46,1,1,1,0,0,0
+Agriculture,35,Female,Southeast Asia,Veneto,2.1,Basic,64,0,0,1,0,1,1
+Gig Economy,43,Female,Sub-Saharan Africa,Lombardia,7.1,Basic,49,1,0,1,0,0,1
+Hospitality,34,Male,Latin America,Lombardia,1.5,None,63,0,0,1,1,0,1
+Logistics,29,Male,North Africa,Puglia,11.5,Basic,69,1,1,0,0,1,1
+Logistics,31,Female,North Africa,Emilia-Romagna,0.8,None,48,0,0,1,0,0,1
+Agriculture,21,Male,Sub-Saharan Africa,Emilia-Romagna,4.3,Fluent,49,0,0,1,0,0,1
+Gig Economy,36,Male,North Africa,Campania,4.5,None,39,0,0,1,0,1,1
+Logistics,39,Male,Eastern Europe,Puglia,1.2,Basic,50,0,0,0,0,0,1
+Domestic Work,28,Male,North Africa,Emilia-Romagna,1.6,Basic,56,0,0,1,0,1,1
+Agriculture,28,Male,Eastern Europe,Piemonte,7.2,Intermediate,64,0,0,1,1,1,1
+Hospitality,34,Male,Eastern Europe,Campania,5.7,None,50,1,1,0,0,1,1
+Hospitality,28,Male,Eastern Europe,Calabria,1.6,Basic,54,1,1,1,1,1,1
+Hospitality,31,Female,South Asia,Sicilia,3.1,None,66,1,0,1,0,1,1
+Hospitality,48,Male,Southeast Asia,Sicilia,0.5,None,70,0,0,1,0,0,1
+Hospitality,30,Male,North Africa,Lombardia,0.9,None,57,1,1,1,0,1,1
+Hospitality,29,Male,Sub-Saharan Africa,Lazio,2.7,Basic,33,1,0,1,0,0,1
+Logistics,26,Female,Sub-Saharan Africa,Lazio,0.5,Basic,60,0,0,0,0,1,1
+Hospitality,37,Male,North Africa,Lazio,7.4,Intermediate,62,0,0,1,0,1,1
+Domestic Work,30,Male,Southeast Asia,Sicilia,5.1,Basic,49,0,0,1,0,1,1
+Hospitality,26,Male,Sub-Saharan Africa,Lombardia,11.5,Intermediate,60,0,0,1,1,0,0
+Gig Economy,42,Male,Eastern Europe,Lombardia,4.7,Intermediate,52,0,0,0,0,0,1
+Gig Economy,43,Male,South Asia,Lazio,11.3,Basic,40,0,0,1,0,0,0
+Domestic Work,27,Female,North Africa,Lombardia,3.2,Intermediate,40,1,0,0,0,0,0
+Hospitality,18,Female,Middle East,Lazio,3.7,Intermediate,52,0,0,1,0,0,1
+Logistics,40,Male,Latin America,Piemonte,15.1,Intermediate,66,0,0,1,0,0,1
+Domestic Work,26,Male,Sub-Saharan Africa,Veneto,4.1,Basic,41,1,0,1,0,1,1
+Domestic Work,38,Female,North Africa,Lombardia,0.5,None,51,1,0,1,0,0,1
+Construction,18,Male,Sub-Saharan Africa,Campania,5.1,None,57,1,1,0,0,1,1
+Logistics,39,Female,North Africa,Campania,9.4,None,70,0,0,1,0,1,1
+Hospitality,22,Male,Latin America,Lombardia,6.4,Basic,54,0,0,1,0,1,0
+Agriculture,37,Female,Latin America,Toscana,3.5,Basic,45,0,0,1,1,1,1
+Domestic Work,32,Female,Sub-Saharan Africa,Toscana,4.5,Intermediate,53,0,0,1,0,1,1
+Gig Economy,24,Female,Southeast Asia,Toscana,18.5,Fluent,67,0,0,0,0,0,0
+Gig Economy,28,Female,North Africa,Toscana,0.5,None,55,0,0,1,0,0,1
+Logistics,37,Male,Sub-Saharan Africa,Lombardia,4.4,Fluent,51,1,1,1,0,1,1
+Construction,32,Female,North Africa,Puglia,1.3,Fluent,46,0,0,0,0,1,1
+Hospitality,36,Male,Eastern Europe,Piemonte,4.1,Fluent,47,0,0,1,0,1,1
+Logistics,47,Male,North Africa,Puglia,3.7,Intermediate,74,0,0,1,0,0,0
+Gig Economy,19,Female,North Africa,Lombardia,0.7,None,47,0,0,1,1,1,1
+Gig Economy,44,Female,North Africa,Puglia,0.9,None,44,0,0,1,0,1,1
+Hospitality,32,Female,South Asia,Piemonte,3.9,Intermediate,53,0,0,1,0,0,1
+Hospitality,24,Male,Latin America,Sicilia,0.5,Basic,52,0,0,1,0,0,1
+Agriculture,21,Female,North Africa,Lombardia,1.2,Intermediate,72,0,0,1,0,0,1
+Logistics,30,Female,South Asia,Toscana,7.2,Fluent,49,0,0,1,0,0,0
+Gig Economy,39,Male,Latin America,Puglia,1.6,Basic,59,0,0,1,0,1,0
+Hospitality,30,Male,Middle East,Toscana,2.7,Basic,55,0,0,0,0,1,1
+Gig Economy,44,Male,Middle East,Emilia-Romagna,11.3,Basic,59,1,0,1,0,1,1
+Gig Economy,20,Male,Sub-Saharan Africa,Puglia,1.0,None,62,0,0,1,0,1,1
+Hospitality,31,Female,South Asia,Campania,2.0,Basic,55,0,0,1,1,1,1
+Logistics,21,Female,North Africa,Emilia-Romagna,3.7,Intermediate,55,0,0,1,0,1,1
+Hospitality,34,Female,South Asia,Veneto,5.6,Intermediate,55,0,0,1,0,0,1
+Hospitality,39,Female,Middle East,Puglia,9.3,Intermediate,54,0,0,1,0,1,1
+Domestic Work,28,Male,Sub-Saharan Africa,Lombardia,9.9,Fluent,34,1,1,0,0,0,1
+Logistics,18,Female,Sub-Saharan Africa,Veneto,6.0,Intermediate,70,0,0,1,1,1,0
+Construction,33,Male,North Africa,Toscana,1.0,Intermediate,56,0,0,0,0,1,1
+Logistics,35,Female,Sub-Saharan Africa,Piemonte,0.5,None,48,0,0,1,1,1,1
+Agriculture,35,Male,Latin America,Emilia-Romagna,1.9,Intermediate,43,1,0,1,1,0,1
+Construction,41,Female,North Africa,Puglia,0.6,Basic,36,0,0,1,0,1,0
+Gig Economy,23,Male,South Asia,Puglia,5.0,Basic,56,0,0,0,0,1,1
+Gig Economy,37,Male,Sub-Saharan Africa,Lombardia,4.3,Basic,45,0,0,1,0,1,0
+Gig Economy,41,Female,North Africa,Campania,0.5,Intermediate,46,0,0,1,0,1,1
+Logistics,18,Male,South Asia,Lombardia,7.2,None,61,0,0,1,0,1,1
+Domestic Work,34,Male,Eastern Europe,Lazio,1.1,Basic,43,0,0,1,0,0,1
+Construction,27,Male,North Africa,Veneto,2.3,Basic,59,0,0,1,0,1,0
+Domestic Work,31,Female,Eastern Europe,Puglia,4.4,Intermediate,48,1,0,1,0,1,1
+Hospitality,34,Male,Middle East,Sicilia,2.2,Intermediate,54,0,0,1,0,0,1
+Agriculture,28,Male,Southeast Asia,Lombardia,2.3,Basic,47,0,0,1,0,0,1
+Domestic Work,26,Male,Middle East,Lombardia,0.5,None,41,0,0,1,0,1,1
+Hospitality,32,Male,Sub-Saharan Africa,Emilia-Romagna,2.1,Fluent,59,0,0,1,1,0,0
+Hospitality,23,Male,South Asia,Veneto,5.8,Intermediate,49,1,0,1,0,0,0
+Agriculture,23,Male,Sub-Saharan Africa,Lazio,9.9,Fluent,69,0,0,1,0,1,0
+Gig Economy,37,Male,Southeast Asia,Sicilia,2.1,Basic,68,1,0,1,0,1,1
+Construction,22,Male,Middle East,Puglia,2.2,None,60,0,0,1,0,0,1
+Hospitality,37,Male,Southeast Asia,Campania,4.9,Basic,66,0,0,1,1,1,1
+Construction,35,Female,South Asia,Sicilia,11.4,Intermediate,60,1,0,1,0,0,1
+Hospitality,18,Male,Middle East,Campania,1.2,None,50,0,0,1,0,1,1
+Hospitality,26,Male,North Africa,Toscana,2.3,None,56,0,0,1,0,0,0
+Hospitality,41,Female,South Asia,Veneto,6.4,None,71,0,0,1,1,0,1
+Construction,24,Male,North Africa,Lombardia,3.8,Basic,50,0,0,1,0,1,1
+Agriculture,28,Female,South Asia,Puglia,0.5,Basic,51,0,0,0,1,0,0
+Gig Economy,35,Male,North Africa,Campania,4.0,None,40,0,0,1,1,1,1
+Logistics,38,Male,Sub-Saharan Africa,Toscana,0.8,Basic,56,0,0,1,0,0,1
+Domestic Work,29,Male,North Africa,Campania,2.9,Fluent,39,1,0,1,1,0,1
+Logistics,27,Female,Eastern Europe,Lombardia,3.0,Basic,71,0,0,1,0,1,1
+Construction,43,Female,Southeast Asia,Lombardia,8.4,Intermediate,56,0,0,1,0,0,1
+Gig Economy,45,Male,Eastern Europe,Veneto,2.5,Fluent,57,1,0,1,0,1,1
+Logistics,39,Male,North Africa,Toscana,1.3,Fluent,55,1,0,1,1,0,1
+Gig Economy,32,Female,Latin America,Lazio,1.1,None,40,0,0,1,0,0,0
+Logistics,25,Male,Southeast Asia,Toscana,8.3,Basic,47,0,0,1,0,1,1
+Agriculture,25,Male,South Asia,Toscana,0.8,None,52,0,0,1,0,0,1
+Gig Economy,36,Female,North Africa,Toscana,2.2,Intermediate,52,0,0,1,1,0,0
+Hospitality,35,Female,Sub-Saharan Africa,Veneto,0.8,Basic,59,0,0,1,0,1,1
+Domestic Work,43,Male,South Asia,Puglia,5.9,Intermediate,52,1,0,0,0,1,1
+Logistics,37,Female,Eastern Europe,Veneto,2.6,Basic,46,0,0,0,0,0,0
+Gig Economy,19,Female,Southeast Asia,Campania,1.7,None,49,0,0,1,0,1,1
+Domestic Work,40,Male,South Asia,Lombardia,1.8,Basic,39,1,0,1,0,1,1
+Agriculture,24,Male,Latin America,Lazio,7.6,Intermediate,63,1,0,1,0,1,1
+Hospitality,28,Male,Southeast Asia,Lombardia,3.2,Intermediate,58,0,0,1,0,1,1
+Domestic Work,34,Female,Southeast Asia,Emilia-Romagna,5.1,Basic,38,0,0,1,0,0,1
+Agriculture,47,Female,Sub-Saharan Africa,Lazio,9.1,Intermediate,67,0,0,1,0,1,1
+Logistics,56,Male,Southeast Asia,Lazio,9.3,Basic,76,0,0,1,0,0,0
+Hospitality,36,Female,Sub-Saharan Africa,Piemonte,1.6,None,61,0,0,1,0,1,1
+Construction,30,Male,North Africa,Lazio,12.2,Basic,53,1,0,1,0,1,0
+Agriculture,36,Male,South Asia,Lazio,0.5,None,57,0,0,1,0,1,1
+Gig Economy,39,Male,South Asia,Lombardia,1.9,Basic,48,1,0,1,0,1,1
+Domestic Work,29,Male,Eastern Europe,Piemonte,9.0,None,41,1,1,1,0,1,0
+Construction,46,Female,North Africa,Lombardia,1.3,None,57,0,0,1,0,0,1
+Hospitality,33,Male,Sub-Saharan Africa,Campania,1.3,Intermediate,45,1,0,1,0,1,1
+Logistics,35,Female,Sub-Saharan Africa,Veneto,1.4,Basic,42,0,0,1,0,0,1
+Hospitality,37,Male,Eastern Europe,Toscana,3.8,Intermediate,56,1,0,1,0,0,1
+Agriculture,35,Male,South Asia,Emilia-Romagna,2.3,Intermediate,60,0,0,1,1,1,1
+Hospitality,38,Female,Latin America,Piemonte,5.2,Intermediate,50,1,1,1,1,1,1
+Gig Economy,27,Male,South Asia,Lombardia,9.0,Fluent,39,0,0,1,0,0,1
+Construction,27,Male,Sub-Saharan Africa,Lazio,4.5,None,57,0,0,1,0,1,1
+Domestic Work,23,Male,Sub-Saharan Africa,Lazio,0.9,Basic,40,0,0,1,0,1,1
+Logistics,35,Female,North Africa,Lombardia,10.8,Fluent,56,0,0,1,0,1,1
+Construction,38,Male,Sub-Saharan Africa,Lazio,1.2,Intermediate,69,0,0,1,0,1,1
+Hospitality,35,Male,Sub-Saharan Africa,Lazio,0.6,None,60,0,0,1,0,1,1
+Construction,45,Male,Middle East,Veneto,0.5,None,44,0,0,1,0,1,1
+Hospitality,31,Male,Eastern Europe,Emilia-Romagna,3.3,Basic,44,0,0,0,0,1,1
+Logistics,37,Female,South Asia,Campania,0.5,Basic,59,0,0,1,0,0,1
+Construction,23,Male,North Africa,Toscana,0.6,Basic,43,0,0,0,0,1,1
+Hospitality,28,Male,Southeast Asia,Lazio,1.4,Basic,38,0,0,1,1,1,1
+Hospitality,37,Male,Sub-Saharan Africa,Lazio,1.3,Basic,59,0,0,0,1,1,1
+Agriculture,38,Male,South Asia,Veneto,3.7,Intermediate,62,0,0,1,0,0,0
+Agriculture,29,Female,Latin America,Lombardia,6.8,Intermediate,63,0,0,0,1,1,1
+Agriculture,31,Male,Eastern Europe,Lombardia,5.7,Fluent,62,0,0,1,0,0,0
+Agriculture,19,Female,North Africa,Campania,1.2,Intermediate,59,0,0,1,1,1,0
+Gig Economy,29,Male,South Asia,Puglia,1.1,None,44,0,0,1,0,1,1
+Logistics,39,Male,South Asia,Toscana,13.5,Intermediate,62,0,0,0,0,0,0
+Logistics,36,Female,Eastern Europe,Lombardia,0.5,None,70,0,0,1,0,1,1
+Hospitality,36,Male,Sub-Saharan Africa,Sicilia,8.5,Intermediate,50,0,0,1,0,0,1
+Domestic Work,32,Female,North Africa,Toscana,0.9,Intermediate,39,0,0,1,0,0,1
+Gig Economy,32,Female,North Africa,Emilia-Romagna,11.8,Fluent,40,1,1,0,0,0,0
+Gig Economy,26,Male,Sub-Saharan Africa,Sicilia,1.7,Basic,43,0,0,1,0,1,0
+Gig Economy,37,Male,Middle East,Campania,2.3,None,51,0,0,1,0,0,1
+Domestic Work,35,Female,Latin America,Lazio,4.9,Basic,30,0,0,0,0,0,0
+Hospitality,35,Male,Eastern Europe,Veneto,3.5,Intermediate,58,0,0,0,1,1,1
+Gig Economy,27,Male,South Asia,Veneto,1.5,None,55,0,0,1,0,1,1
+Gig Economy,18,Male,South Asia,Veneto,3.2,Intermediate,35,0,0,1,0,1,0
+Agriculture,40,Male,North Africa,Veneto,5.2,None,52,1,0,1,0,0,1
+Hospitality,28,Female,South Asia,Puglia,0.5,None,55,0,0,1,0,0,1
+Domestic Work,25,Male,Middle East,Puglia,0.5,None,46,0,0,1,0,0,1
+Domestic Work,37,Male,South Asia,Sicilia,2.5,Fluent,52,1,0,0,0,0,0
+Gig Economy,28,Male,North Africa,Piemonte,0.6,Basic,48,0,0,1,0,1,1
+Agriculture,40,Male,Sub-Saharan Africa,Puglia,4.4,Basic,70,0,0,0,0,1,1
+Domestic Work,36,Male,Eastern Europe,Lombardia,1.0,None,45,0,0,0,0,0,1
+Agriculture,37,Female,South Asia,Lazio,2.3,Basic,52,0,0,1,0,0,0
+Hospitality,21,Male,North Africa,Veneto,0.9,None,46,0,0,0,0,1,1
+Gig Economy,41,Female,Sub-Saharan Africa,Sicilia,3.2,Intermediate,55,0,0,1,0,1,1
+Agriculture,34,Female,Southeast Asia,Veneto,0.5,Basic,60,0,0,1,0,1,1
+Gig Economy,29,Male,South Asia,Toscana,0.5,Basic,55,0,0,1,0,0,1
+Agriculture,33,Male,Southeast Asia,Lombardia,0.5,Basic,64,0,0,1,0,1,1
+Domestic Work,18,Male,Latin America,Lazio,12.3,Intermediate,31,0,0,1,0,1,1
+Domestic Work,35,Male,Sub-Saharan Africa,Toscana,0.6,Intermediate,38,1,1,1,0,0,0
+Gig Economy,23,Female,Latin America,Lombardia,4.9,Fluent,41,0,0,1,0,0,0
+Hospitality,21,Female,South Asia,Campania,0.5,Basic,48,0,0,1,0,0,1
+Domestic Work,19,Male,Middle East,Lazio,0.5,None,44,0,0,1,0,0,0
+Construction,40,Male,North Africa,Lazio,2.8,Basic,62,0,0,1,0,1,0
+Hospitality,26,Female,Sub-Saharan Africa,Toscana,2.5,None,64,0,0,1,0,1,1
+Domestic Work,44,Female,Sub-Saharan Africa,Campania,12.1,Intermediate,45,0,0,1,1,1,1
+Domestic Work,27,Male,South Asia,Veneto,11.6,Intermediate,45,0,0,1,0,1,1
+Gig Economy,18,Male,Middle East,Lombardia,6.0,Basic,44,0,0,1,0,0,0
+Gig Economy,23,Male,South Asia,Piemonte,3.7,Basic,50,0,0,1,0,1,1
+Logistics,41,Female,Eastern Europe,Campania,2.4,Basic,59,0,0,1,0,1,1
+Hospitality,30,Male,North Africa,Emilia-Romagna,1.8,Intermediate,61,1,1,0,0,0,1
+Logistics,27,Male,Middle East,Toscana,11.8,Intermediate,64,0,0,1,0,1,1
+Construction,33,Male,Sub-Saharan Africa,Lazio,3.7,Intermediate,36,0,0,1,0,0,0
+Hospitality,36,Male,North Africa,Sicilia,3.5,Basic,53,0,0,1,0,1,0
+Logistics,40,Male,North Africa,Emilia-Romagna,1.1,Basic,69,0,0,1,0,0,1
+Logistics,43,Female,Eastern Europe,Campania,0.5,None,54,0,0,1,1,1,1
+Gig Economy,29,Male,South Asia,Lombardia,11.6,Intermediate,59,0,0,1,0,1,1
+Domestic Work,21,Male,Sub-Saharan Africa,Puglia,1.5,None,45,1,0,1,0,0,1
+Logistics,28,Male,Sub-Saharan Africa,Piemonte,2.3,Basic,59,0,0,0,0,0,1
+Logistics,34,Male,Eastern Europe,Lazio,0.5,None,48,0,0,1,0,1,1
+Agriculture,24,Male,Sub-Saharan Africa,Lazio,7.3,Basic,51,0,0,0,0,0,0
+Gig Economy,24,Male,North Africa,Piemonte,0.5,Intermediate,55,0,0,1,0,1,1
+Hospitality,34,Male,Sub-Saharan Africa,Toscana,7.2,Basic,62,1,0,1,0,1,1
+Gig Economy,31,Male,Southeast Asia,Piemonte,0.6,None,50,0,0,1,0,0,0
+Hospitality,32,Male,Middle East,Campania,8.7,Intermediate,45,0,0,1,0,1,1
+Hospitality,25,Male,North Africa,Toscana,5.2,Fluent,55,1,1,1,0,0,0
+Gig Economy,30,Female,Sub-Saharan Africa,Campania,0.7,None,60,0,0,1,0,1,1
+Gig Economy,24,Female,Sub-Saharan Africa,Lazio,3.3,Intermediate,63,1,1,1,0,0,0
+Domestic Work,39,Male,South Asia,Emilia-Romagna,1.5,Intermediate,45,0,0,1,0,1,1
+Logistics,40,Male,Sub-Saharan Africa,Calabria,0.8,None,44,0,0,1,0,1,1
+Gig Economy,18,Female,Eastern Europe,Lazio,7.8,Intermediate,56,0,0,1,0,1,1
+Agriculture,24,Male,North Africa,Campania,2.1,Basic,57,0,0,0,0,1,1
+Hospitality,20,Female,Middle East,Toscana,2.0,Intermediate,62,1,1,1,0,0,0
+Agriculture,26,Female,Sub-Saharan Africa,Veneto,0.7,None,62,0,0,1,0,1,1
+Hospitality,31,Male,Eastern Europe,Sicilia,1.9,Basic,47,0,0,1,0,1,1
+Domestic Work,20,Male,North Africa,Piemonte,8.2,Intermediate,48,0,0,1,1,1,1
+Hospitality,24,Female,North Africa,Lombardia,1.8,Basic,65,0,0,1,0,1,1
+Gig Economy,23,Male,Sub-Saharan Africa,Calabria,12.1,Intermediate,48,0,0,0,0,1,0
+Hospitality,33,Male,North Africa,Piemonte,11.7,Intermediate,46,0,0,1,0,0,1
+Domestic Work,32,Male,North Africa,Sicilia,0.6,None,35,0,0,0,0,0,1
+Gig Economy,26,Male,Eastern Europe,Emilia-Romagna,0.8,None,43,0,0,1,0,1,1
+Gig Economy,33,Female,Middle East,Sicilia,7.9,Intermediate,46,0,0,1,0,0,1
+Hospitality,27,Female,Sub-Saharan Africa,Lombardia,2.0,Intermediate,61,1,1,1,1,1,1
+Agriculture,29,Female,South Asia,Lazio,0.5,None,51,0,0,1,0,1,1
+Hospitality,45,Male,North Africa,Sicilia,1.3,Intermediate,67,0,0,1,0,1,1
+Domestic Work,42,Male,North Africa,Lazio,3.6,Intermediate,37,0,0,1,0,0,0
+Hospitality,21,Male,South Asia,Lombardia,6.4,None,73,0,0,1,0,1,1
+Hospitality,38,Male,Latin America,Piemonte,0.6,Basic,68,0,0,1,0,0,1
+Hospitality,38,Male,Middle East,Sicilia,0.5,None,56,0,0,0,0,0,1
+Gig Economy,22,Female,Middle East,Lombardia,10.2,Fluent,36,0,0,1,1,0,0
+Gig Economy,38,Female,Sub-Saharan Africa,Sicilia,5.6,Fluent,49,1,1,0,0,0,1
+Hospitality,44,Male,Southeast Asia,Toscana,3.6,Basic,51,0,0,1,0,1,1
+Construction,23,Male,Eastern Europe,Veneto,5.9,Basic,44,0,0,1,0,0,0
+Gig Economy,24,Male,North Africa,Sicilia,2.2,Basic,52,0,0,0,0,0,1
+Gig Economy,40,Male,North Africa,Campania,5.7,Basic,43,1,0,1,0,0,1
+Gig Economy,34,Female,Latin America,Lombardia,1.9,Basic,44,0,0,1,0,0,1
+Gig Economy,36,Male,North Africa,Lazio,1.1,Basic,48,0,0,1,0,0,0
+Gig Economy,34,Female,Sub-Saharan Africa,Veneto,5.2,Intermediate,45,1,1,1,0,1,1
+Hospitality,35,Male,North Africa,Veneto,2.2,None,71,0,0,1,0,1,0
+Hospitality,21,Male,North Africa,Piemonte,15.9,Fluent,50,1,0,0,0,0,1
+Domestic Work,40,Female,Sub-Saharan Africa,Piemonte,1.7,Intermediate,51,1,1,1,0,1,1
+Domestic Work,41,Male,Southeast Asia,Emilia-Romagna,10.2,Intermediate,49,0,0,1,0,0,1
+Logistics,30,Male,Eastern Europe,Piemonte,10.8,Fluent,60,0,0,0,1,1,1
+Logistics,31,Male,Eastern Europe,Lombardia,1.1,None,61,0,0,0,1,1,1
+Agriculture,19,Male,South Asia,Lombardia,6.4,None,67,0,0,1,0,1,1
+Gig Economy,36,Female,Eastern Europe,Sicilia,2.3,Basic,52,0,0,1,0,0,1
+Hospitality,36,Male,South Asia,Lombardia,10.0,Intermediate,56,0,0,1,0,1,1
+Hospitality,31,Female,South Asia,Lazio,2.4,Basic,55,1,0,1,0,1,0
+Agriculture,40,Male,North Africa,Toscana,5.5,Fluent,58,0,0,1,1,0,0
+Agriculture,29,Male,North Africa,Campania,2.5,Fluent,52,0,0,1,0,0,0
+Hospitality,36,Female,North Africa,Sicilia,1.0,Basic,54,1,1,1,0,0,0
+Hospitality,23,Male,South Asia,Lazio,0.9,Basic,56,0,0,1,0,1,1
+Hospitality,31,Male,North Africa,Lombardia,2.2,None,58,0,0,1,0,0,0
+Agriculture,30,Male,South Asia,Lazio,5.6,Basic,61,0,0,1,1,1,1
+Hospitality,33,Male,Middle East,Emilia-Romagna,3.7,Intermediate,53,0,0,1,0,0,1
+Hospitality,29,Male,North Africa,Campania,4.7,Basic,54,0,0,1,1,1,0
+Construction,30,Female,Eastern Europe,Veneto,1.3,Basic,50,0,0,1,1,0,0
+Hospitality,38,Male,Sub-Saharan Africa,Sicilia,2.6,Basic,57,0,0,0,1,0,1
+Agriculture,28,Male,South Asia,Puglia,0.5,Basic,58,0,0,0,0,1,1
+Hospitality,19,Female,Middle East,Lazio,6.8,Basic,56,0,0,1,0,1,1
+Hospitality,45,Male,Sub-Saharan Africa,Campania,18.4,Intermediate,63,1,0,1,0,0,1
+Hospitality,43,Female,North Africa,Veneto,2.1,None,49,0,0,0,0,0,0
+Agriculture,21,Male,Eastern Europe,Puglia,0.5,None,64,0,0,1,0,1,1
+Domestic Work,37,Male,South Asia,Calabria,0.7,None,48,1,0,0,0,0,1
+Construction,27,Female,Latin America,Lazio,4.2,Basic,71,1,0,1,1,1,1
+Logistics,34,Male,North Africa,Toscana,3.8,Fluent,56,1,1,0,0,1,0
+Agriculture,34,Female,Sub-Saharan Africa,Campania,6.2,None,65,0,0,1,0,1,0
+Hospitality,30,Male,South Asia,Lombardia,1.2,None,55,1,1,1,0,1,1
+Logistics,25,Male,South Asia,Lombardia,5.8,Intermediate,46,0,0,1,0,1,1
+Domestic Work,26,Male,Southeast Asia,Campania,4.7,Basic,43,0,0,1,0,0,0
+Hospitality,24,Male,Eastern Europe,Veneto,1.6,None,62,0,0,1,0,1,1
+Hospitality,25,Female,Sub-Saharan Africa,Lombardia,3.2,None,51,1,1,1,0,0,1
+Hospitality,31,Male,South Asia,Toscana,0.6,Fluent,37,1,1,0,0,0,1
+Hospitality,26,Female,Eastern Europe,Lazio,2.4,Basic,54,0,0,1,0,1,1
+Hospitality,37,Female,North Africa,Veneto,8.5,Intermediate,46,0,0,1,0,0,0
+Gig Economy,43,Male,North Africa,Lazio,2.2,Basic,51,0,0,1,0,1,1
+Gig Economy,27,Male,Sub-Saharan Africa,Lombardia,7.3,Basic,62,0,0,1,0,0,0
+Domestic Work,33,Female,Sub-Saharan Africa,Campania,3.6,Basic,54,0,0,1,0,0,1
+Construction,35,Female,Eastern Europe,Lazio,0.9,Basic,67,0,0,1,0,0,1
+Logistics,35,Male,Middle East,Veneto,3.5,Fluent,53,0,0,1,0,1,1
+Logistics,32,Male,South Asia,Lombardia,2.8,None,56,0,0,0,0,1,1
+Logistics,37,Male,North Africa,Veneto,2.0,Intermediate,49,0,0,1,0,1,1
+Gig Economy,35,Female,North Africa,Lombardia,0.5,None,44,0,0,1,0,0,1
+Logistics,22,Male,North Africa,Toscana,2.2,None,50,0,0,1,1,1,1
+Agriculture,38,Female,Sub-Saharan Africa,Piemonte,0.5,None,49,0,0,1,0,1,1
+Gig Economy,39,Male,Latin America,Lombardia,0.5,None,60,0,0,1,1,1,1
+Gig Economy,25,Male,North Africa,Campania,2.2,Intermediate,33,0,0,0,0,1,0
+Gig Economy,32,Male,North Africa,Lombardia,1.5,Basic,60,1,1,0,0,0,1
+Logistics,37,Male,Sub-Saharan Africa,Emilia-Romagna,10.4,None,67,0,0,1,0,0,1
+Domestic Work,30,Male,Sub-Saharan Africa,Lazio,1.9,Fluent,51,0,0,0,0,1,1
+Construction,40,Male,South Asia,Veneto,5.7,Fluent,46,0,0,1,1,0,1
+Hospitality,50,Male,Eastern Europe,Veneto,3.0,Intermediate,42,0,0,1,0,1,1
+Domestic Work,25,Male,Sub-Saharan Africa,Puglia,4.9,Fluent,43,1,1,1,0,1,1
+Gig Economy,20,Male,Eastern Europe,Veneto,1.2,None,55,0,0,1,0,0,1
+Domestic Work,34,Female,Sub-Saharan Africa,Emilia-Romagna,11.4,Fluent,48,1,0,1,0,1,1
+Construction,37,Male,North Africa,Campania,3.0,Intermediate,46,1,1,0,0,1,0
+Gig Economy,30,Male,North Africa,Puglia,7.1,Fluent,59,0,0,1,0,0,0
+Hospitality,43,Male,Sub-Saharan Africa,Piemonte,1.8,Intermediate,68,0,0,1,0,1,1
+Logistics,21,Female,South Asia,Lazio,0.5,None,56,0,0,0,0,1,1
+Gig Economy,37,Male,Sub-Saharan Africa,Sicilia,4.5,Intermediate,50,0,0,1,1,1,1
+Agriculture,27,Female,Eastern Europe,Campania,0.5,None,47,1,0,1,0,1,1
+Logistics,45,Female,Eastern Europe,Sicilia,2.6,Basic,54,0,0,1,1,1,1
+Hospitality,47,Male,Sub-Saharan Africa,Sicilia,0.9,None,59,1,0,1,0,0,1
+Construction,25,Male,North Africa,Lombardia,3.9,Fluent,57,1,1,1,0,0,0
+Domestic Work,27,Female,Sub-Saharan Africa,Toscana,15.5,Basic,43,0,0,1,0,0,1
+Gig Economy,38,Male,Sub-Saharan Africa,Lazio,2.5,Basic,47,0,0,1,0,0,0
+Hospitality,28,Male,South Asia,Lazio,6.8,Intermediate,51,0,0,1,0,1,1
+Logistics,31,Female,Southeast Asia,Lazio,2.8,Fluent,55,0,0,1,0,1,1
+Hospitality,32,Male,Sub-Saharan Africa,Toscana,2.7,Basic,58,0,0,0,0,0,0
+Domestic Work,18,Female,Sub-Saharan Africa,Lazio,10.7,Fluent,32,0,0,0,0,0,1
+Hospitality,31,Male,Sub-Saharan Africa,Lombardia,8.8,Fluent,54,0,0,1,1,0,0
+Gig Economy,26,Female,South Asia,Toscana,6.2,Intermediate,52,1,0,1,1,1,1
+Logistics,28,Male,Eastern Europe,Lombardia,1.4,Basic,53,0,0,1,0,1,0
+Gig Economy,43,Male,South Asia,Lombardia,3.1,Intermediate,46,0,0,1,0,1,1
+Agriculture,21,Male,South Asia,Lazio,1.0,Intermediate,56,1,1,1,0,0,1
+Construction,38,Female,Eastern Europe,Campania,2.3,Intermediate,51,0,0,0,0,1,1
+Hospitality,29,Male,Sub-Saharan Africa,Veneto,2.6,None,55,0,0,1,0,0,1
+Hospitality,29,Male,Eastern Europe,Lombardia,7.1,Fluent,56,0,0,1,0,0,1
+Hospitality,38,Male,North Africa,Calabria,9.1,Intermediate,38,0,0,0,0,0,1
+Domestic Work,34,Female,Sub-Saharan Africa,Toscana,2.1,Basic,53,0,0,0,0,1,1
+Domestic Work,36,Male,Eastern Europe,Lazio,0.5,Basic,45,0,0,1,0,1,1
+Gig Economy,39,Male,South Asia,Lazio,7.9,Basic,65,0,0,1,0,0,1
+Agriculture,29,Male,North Africa,Campania,0.8,Basic,50,1,1,1,0,1,1
+Agriculture,27,Male,North Africa,Emilia-Romagna,3.9,Intermediate,53,0,0,1,1,1,1
+Hospitality,23,Male,Sub-Saharan Africa,Lombardia,0.5,Intermediate,53,0,0,1,0,1,0
+Domestic Work,25,Male,Eastern Europe,Lombardia,2.0,None,51,0,0,1,0,1,1
+Gig Economy,55,Female,Southeast Asia,Sicilia,17.1,Intermediate,34,0,0,0,0,1,1
+Logistics,41,Male,Middle East,Lazio,0.5,Basic,51,0,0,1,0,0,1
+Gig Economy,21,Male,Eastern Europe,Campania,2.2,None,54,1,0,0,0,1,0
+Hospitality,21,Male,North Africa,Sicilia,1.5,None,47,0,0,0,0,1,1
+Hospitality,35,Female,Sub-Saharan Africa,Emilia-Romagna,9.4,Fluent,65,0,0,1,0,0,1
+Agriculture,36,Female,Sub-Saharan Africa,Lazio,8.1,Basic,56,0,0,1,0,0,1
+Hospitality,36,Female,North Africa,Toscana,1.1,Fluent,47,0,0,1,0,1,1
+Agriculture,29,Male,Sub-Saharan Africa,Lombardia,0.5,None,64,0,0,1,1,1,1
+Hospitality,30,Male,Southeast Asia,Toscana,3.9,Basic,67,0,0,1,0,0,1
+Logistics,34,Male,Sub-Saharan Africa,Veneto,1.6,Intermediate,61,0,0,1,0,1,1
+Logistics,32,Male,Sub-Saharan Africa,Piemonte,4.5,Intermediate,68,0,0,1,0,0,0
+Logistics,18,Male,Sub-Saharan Africa,Puglia,0.5,Basic,71,0,0,1,0,1,1
+Agriculture,30,Female,Latin America,Puglia,0.6,Basic,52,0,0,1,0,0,0
+Logistics,25,Female,Eastern Europe,Puglia,4.6,Intermediate,65,0,0,1,0,0,1
+Gig Economy,33,Female,Eastern Europe,Veneto,1.0,None,37,1,1,1,0,1,1
+Gig Economy,55,Male,Sub-Saharan Africa,Campania,7.8,Intermediate,53,0,0,1,1,1,0
+Agriculture,34,Female,Latin America,Campania,0.5,None,59,0,0,0,0,1,1
+Domestic Work,29,Male,South Asia,Toscana,1.0,Basic,57,0,0,0,0,1,1
+Agriculture,39,Male,Southeast Asia,Sicilia,20.0,Basic,69,0,0,1,0,1,1
+Hospitality,35,Female,North Africa,Lazio,2.3,Basic,59,0,0,1,0,1,1
+Hospitality,35,Male,Sub-Saharan Africa,Puglia,4.9,Basic,57,0,0,1,0,0,1
+Logistics,36,Male,North Africa,Piemonte,0.8,None,62,0,0,1,0,1,1
+Gig Economy,48,Male,Eastern Europe,Calabria,3.8,None,50,0,0,1,0,1,1
+Hospitality,22,Female,South Asia,Sicilia,5.2,Intermediate,54,1,0,1,1,0,1
+Gig Economy,35,Female,Southeast Asia,Lazio,1.5,Basic,61,0,0,1,1,0,0
+Gig Economy,24,Male,North Africa,Lombardia,7.1,Fluent,62,0,0,0,0,0,1
+Logistics,36,Female,Sub-Saharan Africa,Lombardia,3.7,Intermediate,56,0,0,1,0,1,1
+Construction,24,Male,South Asia,Lazio,2.0,None,56,0,0,1,0,0,1
+Hospitality,28,Male,North Africa,Emilia-Romagna,3.3,Intermediate,55,1,1,0,0,0,1
+Hospitality,29,Female,North Africa,Piemonte,3.4,None,42,0,0,0,0,1,1
+Agriculture,39,Female,North Africa,Sicilia,0.7,Basic,57,0,0,1,0,0,1
+Gig Economy,39,Female,Eastern Europe,Emilia-Romagna,2.1,Fluent,62,0,0,0,0,1,0
+Agriculture,22,Male,North Africa,Lombardia,1.7,Basic,54,0,0,1,0,0,0
+Gig Economy,32,Female,Middle East,Lombardia,2.0,Basic,66,0,0,1,0,0,1
+Hospitality,26,Male,North Africa,Lombardia,5.7,Basic,64,1,0,1,0,1,1
+Construction,21,Female,Latin America,Campania,2.6,Basic,58,1,1,1,0,0,0
+Construction,30,Male,South Asia,Veneto,11.3,Fluent,59,1,1,0,0,0,1
+Agriculture,29,Female,Sub-Saharan Africa,Lombardia,1.4,None,52,0,0,0,0,1,1
+Logistics,51,Male,Sub-Saharan Africa,Lazio,2.1,None,55,1,0,1,1,0,1
+Gig Economy,35,Male,North Africa,Lombardia,6.2,Intermediate,61,0,0,1,0,0,1
+Logistics,20,Male,Southeast Asia,Emilia-Romagna,3.2,Intermediate,53,0,0,1,0,1,1
+Hospitality,27,Male,South Asia,Campania,3.2,Basic,63,0,0,1,0,1,0
+Domestic Work,40,Male,South Asia,Veneto,0.5,Intermediate,36,0,0,1,0,0,1
+Hospitality,48,Female,Southeast Asia,Campania,2.0,None,45,0,0,1,0,1,1
+Domestic Work,19,Male,Sub-Saharan Africa,Puglia,1.3,Basic,63,0,0,1,1,1,1
+Gig Economy,18,Female,Eastern Europe,Lazio,20.0,Intermediate,49,1,1,0,0,1,0
+Hospitality,46,Male,North Africa,Veneto,1.5,None,50,0,0,1,0,0,0
+Gig Economy,35,Male,Latin America,Toscana,8.6,Intermediate,60,0,0,0,0,1,0
+Domestic Work,25,Male,South Asia,Veneto,4.5,Basic,57,1,0,1,0,0,1
+Agriculture,36,Male,South Asia,Puglia,1.7,None,67,0,0,1,1,0,0
+Construction,18,Male,North Africa,Campania,3.1,None,50,0,0,1,0,1,1
+Agriculture,32,Male,Middle East,Campania,7.3,Fluent,57,1,0,1,1,0,0
+Agriculture,34,Male,North Africa,Lombardia,8.6,Intermediate,62,0,0,1,0,1,0
+Construction,39,Male,Sub-Saharan Africa,Emilia-Romagna,0.7,Basic,60,0,0,1,1,1,1
+Hospitality,23,Male,Eastern Europe,Lazio,1.7,Basic,50,0,0,0,0,1,1
+Gig Economy,32,Male,Middle East,Lombardia,1.6,Basic,51,0,0,1,0,1,1
+Hospitality,24,Male,Latin America,Veneto,0.5,None,57,0,0,0,0,1,1
+Domestic Work,34,Female,Middle East,Veneto,3.6,Fluent,58,0,0,1,0,0,0
+Domestic Work,24,Female,South Asia,Lombardia,7.7,Fluent,54,1,0,1,0,0,0
+Hospitality,28,Female,South Asia,Toscana,1.9,Intermediate,42,0,0,0,0,0,1
+Agriculture,24,Male,Eastern Europe,Emilia-Romagna,5.4,None,58,0,0,1,0,0,1
+Domestic Work,37,Female,Latin America,Lombardia,4.0,Intermediate,40,1,0,0,0,1,1
+Hospitality,38,Female,Sub-Saharan Africa,Campania,1.9,Basic,59,0,0,1,0,1,1
+Gig Economy,30,Female,Sub-Saharan Africa,Toscana,0.6,Intermediate,57,0,0,0,0,0,1
+Domestic Work,32,Male,Latin America,Veneto,4.9,Basic,48,1,1,0,0,0,1
+Hospitality,20,Female,South Asia,Campania,7.7,Basic,52,0,0,1,0,1,1
+Agriculture,29,Female,Sub-Saharan Africa,Lazio,4.6,Basic,60,0,0,1,0,1,1
+Logistics,31,Male,North Africa,Emilia-Romagna,0.5,None,59,0,0,1,1,1,0
+Domestic Work,52,Female,North Africa,Puglia,1.0,None,42,0,0,0,0,1,1
+Domestic Work,23,Male,Eastern Europe,Toscana,0.5,Intermediate,38,1,1,1,0,0,0
+Domestic Work,43,Male,Sub-Saharan Africa,Lombardia,3.4,Intermediate,31,0,0,1,0,0,1
+Gig Economy,39,Male,Eastern Europe,Campania,5.7,Fluent,60,0,0,1,0,0,1
+Domestic Work,34,Female,North Africa,Sicilia,0.5,Basic,51,0,0,1,0,0,1
+Construction,46,Male,North Africa,Lombardia,7.3,Basic,57,1,1,1,0,0,0
+Logistics,34,Male,Eastern Europe,Calabria,3.2,Intermediate,68,1,0,1,0,0,1
+Construction,35,Male,Sub-Saharan Africa,Puglia,4.7,None,44,0,0,1,0,1,1
+Hospitality,31,Male,South Asia,Lombardia,14.2,Fluent,41,1,1,0,0,0,1
+Gig Economy,41,Male,South Asia,Puglia,0.5,None,53,0,0,1,1,0,1
+Hospitality,40,Female,Sub-Saharan Africa,Campania,9.3,Intermediate,57,0,0,1,1,1,0
+Hospitality,26,Female,North Africa,Sicilia,0.5,None,41,1,0,1,0,1,1
+Hospitality,21,Male,Latin America,Campania,2.0,Basic,57,1,0,0,0,0,1
+Agriculture,30,Male,Eastern Europe,Campania,7.6,Basic,56,1,1,1,0,1,0
+Logistics,25,Male,Latin America,Emilia-Romagna,9.5,Intermediate,51,0,0,1,0,1,1
+Agriculture,31,Female,Sub-Saharan Africa,Piemonte,2.8,Intermediate,57,1,0,1,0,0,1
+Hospitality,41,Male,North Africa,Lombardia,3.6,Intermediate,35,1,1,0,0,0,1
+Logistics,28,Male,Sub-Saharan Africa,Emilia-Romagna,4.9,Basic,53,0,0,1,0,0,1
+Gig Economy,31,Male,Sub-Saharan Africa,Lombardia,7.2,Intermediate,44,0,0,1,0,1,1
+Construction,32,Female,South Asia,Lazio,0.5,Intermediate,59,1,0,1,0,1,1
+Logistics,38,Female,North Africa,Lazio,6.6,None,56,0,0,1,1,1,1
+Agriculture,18,Female,Middle East,Campania,2.6,Intermediate,65,1,1,0,0,0,0
+Domestic Work,27,Female,South Asia,Lazio,2.4,None,27,0,0,1,0,0,1
+Agriculture,33,Male,South Asia,Lombardia,2.2,Basic,53,0,0,0,0,1,0
+Hospitality,41,Male,Latin America,Lombardia,2.8,Basic,59,0,0,1,0,0,1
+Hospitality,28,Male,Sub-Saharan Africa,Lombardia,11.6,Intermediate,52,0,0,1,0,1,1
+Domestic Work,18,Male,Latin America,Veneto,3.2,Fluent,54,1,0,1,0,1,1
+Hospitality,36,Male,Eastern Europe,Puglia,12.2,Basic,40,0,0,1,0,0,0
+Domestic Work,26,Male,Middle East,Lombardia,0.8,None,53,0,0,1,0,1,1
+Gig Economy,22,Male,North Africa,Puglia,5.2,Intermediate,44,0,0,1,0,0,1
+Domestic Work,27,Female,Eastern Europe,Toscana,6.7,Fluent,42,1,0,1,0,0,1
+Construction,30,Male,North Africa,Emilia-Romagna,4.5,Basic,62,0,0,1,0,1,1
+Domestic Work,27,Female,Eastern Europe,Emilia-Romagna,3.7,Intermediate,57,1,0,1,1,1,1
+Logistics,18,Female,North Africa,Sicilia,3.3,Basic,66,0,0,1,0,1,0
+Construction,39,Male,Sub-Saharan Africa,Lombardia,7.9,Basic,71,0,0,1,0,1,0
+Gig Economy,42,Female,North Africa,Veneto,6.9,Fluent,60,0,0,1,1,1,0
+Gig Economy,37,Male,North Africa,Toscana,0.5,None,43,0,0,1,1,1,0
+Agriculture,22,Female,Latin America,Emilia-Romagna,7.6,Intermediate,61,1,1,1,0,0,0
+Domestic Work,30,Male,Eastern Europe,Sicilia,2.1,None,45,0,0,1,0,1,1
+Domestic Work,31,Female,Eastern Europe,Lombardia,1.2,Basic,64,0,0,1,0,0,1
+Construction,36,Male,South Asia,Toscana,8.2,Intermediate,63,0,0,1,0,1,0
+Gig Economy,37,Male,Eastern Europe,Veneto,2.3,Basic,48,0,0,1,0,0,1
+Gig Economy,26,Female,North Africa,Campania,6.6,Intermediate,57,1,0,1,0,1,1
+Agriculture,32,Male,Southeast Asia,Lazio,1.2,Basic,50,0,0,1,0,1,1
+Hospitality,35,Female,Southeast Asia,Emilia-Romagna,0.5,None,57,0,0,0,0,1,1
+Hospitality,43,Female,South Asia,Sicilia,2.7,Basic,47,1,0,1,1,0,1
+Logistics,37,Female,Latin America,Veneto,0.5,Intermediate,44,1,0,1,0,0,1
+Logistics,38,Female,South Asia,Sicilia,5.6,Fluent,64,1,1,0,0,1,1
+Logistics,32,Female,Sub-Saharan Africa,Campania,1.3,None,65,1,1,0,1,0,1
+Hospitality,43,Male,North Africa,Lombardia,2.3,None,58,1,0,1,0,1,1
+Hospitality,35,Female,South Asia,Lombardia,0.5,Intermediate,53,0,0,1,0,1,0
+Hospitality,25,Female,Eastern Europe,Lombardia,1.4,Basic,44,0,0,0,0,1,1
+Domestic Work,43,Female,South Asia,Campania,6.1,Intermediate,38,0,0,1,0,1,1
+Gig Economy,37,Male,South Asia,Lazio,0.7,Basic,42,0,0,1,0,1,1
+Logistics,28,Female,North Africa,Toscana,4.2,Basic,56,0,0,1,0,0,1
+Agriculture,28,Female,Eastern Europe,Toscana,10.0,Intermediate,68,0,0,0,0,0,0
+Hospitality,34,Female,Southeast Asia,Lombardia,4.6,Fluent,63,0,0,1,0,1,0
+Domestic Work,35,Male,Eastern Europe,Lazio,6.7,Intermediate,34,1,1,1,0,0,0
+Construction,33,Male,Eastern Europe,Lazio,0.5,None,49,0,0,1,0,1,0
+Hospitality,34,Male,Sub-Saharan Africa,Veneto,1.2,None,49,0,0,1,0,0,1
+Gig Economy,45,Female,South Asia,Lombardia,9.0,Basic,29,0,0,1,0,1,1
+Domestic Work,40,Female,South Asia,Lombardia,5.0,Intermediate,52,1,0,0,1,1,1
+Domestic Work,33,Male,North Africa,Puglia,4.1,Basic,46,0,0,1,0,1,1
+Gig Economy,39,Male,Eastern Europe,Piemonte,4.4,None,49,0,0,1,0,0,1
+Agriculture,23,Male,North Africa,Lombardia,2.1,Fluent,70,0,0,0,0,1,1
+Hospitality,35,Male,Eastern Europe,Campania,0.5,None,55,0,0,1,0,1,1
+Domestic Work,46,Female,North Africa,Campania,6.1,None,44,0,0,1,0,1,1
+Hospitality,30,Female,South Asia,Piemonte,4.5,Basic,59,0,0,1,0,1,1
+Domestic Work,25,Male,Sub-Saharan Africa,Veneto,2.6,None,56,0,0,1,0,1,1
+Agriculture,26,Male,Latin America,Lombardia,9.2,Intermediate,62,1,1,0,0,0,1
+Agriculture,23,Male,Eastern Europe,Toscana,1.6,Fluent,65,0,0,0,0,0,1
+Gig Economy,25,Female,Southeast Asia,Campania,1.4,Intermediate,48,0,0,1,0,1,1
+Hospitality,29,Male,South Asia,Lazio,8.2,Intermediate,54,1,0,1,0,0,1
+Hospitality,20,Male,Middle East,Campania,6.4,Intermediate,55,1,1,1,0,0,1
+Hospitality,32,Male,Sub-Saharan Africa,Veneto,2.9,Basic,48,0,0,1,1,0,1
+Hospitality,39,Female,South Asia,Lazio,0.6,None,50,0,0,1,0,1,1
+Construction,24,Female,Middle East,Lazio,1.0,None,66,0,0,1,1,1,1
+Logistics,44,Female,Sub-Saharan Africa,Campania,4.3,Fluent,74,1,0,1,0,1,1
+Hospitality,36,Male,Eastern Europe,Lombardia,1.9,None,67,0,0,1,0,1,1
+Domestic Work,40,Male,South Asia,Piemonte,7.2,Basic,37,1,0,1,0,0,0
+Domestic Work,26,Male,North Africa,Lombardia,12.0,Intermediate,36,0,0,0,0,0,1
+Domestic Work,38,Female,Southeast Asia,Lombardia,6.6,Intermediate,38,0,0,1,0,0,0
+Domestic Work,23,Male,Sub-Saharan Africa,Emilia-Romagna,1.9,None,49,0,0,1,0,1,1
+Hospitality,39,Male,Eastern Europe,Piemonte,6.2,Basic,32,0,0,1,0,1,1
+Logistics,33,Female,Sub-Saharan Africa,Piemonte,1.7,Basic,53,0,0,1,0,0,1
+Construction,36,Female,Eastern Europe,Veneto,0.7,Basic,66,0,0,1,0,1,1
+Agriculture,22,Male,Sub-Saharan Africa,Lazio,0.5,None,67,0,0,1,1,0,1
+Hospitality,24,Male,Sub-Saharan Africa,Toscana,1.9,Basic,50,0,0,1,0,1,1
+Construction,36,Male,Sub-Saharan Africa,Toscana,9.4,Intermediate,51,0,0,1,0,1,1
+Hospitality,24,Female,South Asia,Lazio,1.1,Intermediate,59,0,0,0,0,1,1
+Hospitality,35,Female,Southeast Asia,Puglia,0.9,None,62,0,0,1,1,1,1
+Gig Economy,21,Male,Sub-Saharan Africa,Lombardia,14.0,Basic,45,0,0,1,0,1,1
+Gig Economy,38,Male,Sub-Saharan Africa,Calabria,0.5,None,48,0,0,1,0,1,1
+Gig Economy,22,Female,North Africa,Sicilia,6.2,Fluent,45,0,0,1,0,0,1
+Hospitality,36,Female,Sub-Saharan Africa,Toscana,1.6,None,44,0,0,1,0,1,1
+Domestic Work,37,Male,Eastern Europe,Puglia,0.5,None,46,0,0,1,0,1,1
+Logistics,26,Male,Middle East,Toscana,10.0,None,55,1,1,0,0,0,0
+Hospitality,36,Male,North Africa,Lombardia,0.6,None,44,0,0,1,0,0,1
+Domestic Work,34,Male,Southeast Asia,Campania,3.2,Basic,53,0,0,1,0,1,1
+Domestic Work,27,Female,North Africa,Lombardia,1.3,None,51,0,0,1,0,1,1
+Domestic Work,23,Female,South Asia,Campania,0.5,Basic,53,1,0,1,0,1,0
+Construction,18,Female,Eastern Europe,Toscana,0.5,Basic,48,1,0,1,1,0,1
+Agriculture,34,Male,North Africa,Campania,0.5,None,44,0,0,1,0,1,1
+Gig Economy,19,Female,Eastern Europe,Lazio,0.5,None,53,0,0,1,1,1,1
+Hospitality,32,Male,Southeast Asia,Emilia-Romagna,5.7,Basic,49,0,0,0,0,0,1
+Gig Economy,29,Male,North Africa,Sicilia,2.7,None,42,0,0,1,0,1,0
+Logistics,37,Male,Southeast Asia,Lombardia,1.7,Intermediate,47,0,0,0,0,0,0
+Logistics,29,Male,Latin America,Campania,2.2,Fluent,55,1,1,1,0,1,1
+Agriculture,29,Female,North Africa,Lombardia,10.6,Basic,72,0,0,1,0,1,1
+Gig Economy,37,Male,Eastern Europe,Toscana,9.7,Basic,45,0,0,1,0,0,1
+Hospitality,34,Male,Sub-Saharan Africa,Lombardia,5.0,None,46,0,0,1,0,1,0
+Hospitality,34,Male,Middle East,Emilia-Romagna,8.6,Intermediate,60,1,1,0,0,1,1
+Agriculture,35,Male,Eastern Europe,Lazio,1.5,Basic,61,0,0,0,1,1,1
+Hospitality,19,Male,South Asia,Lombardia,1.9,Intermediate,38,0,0,0,0,1,1
+Domestic Work,38,Male,Sub-Saharan Africa,Puglia,3.8,Intermediate,53,0,0,1,0,0,1
+Gig Economy,36,Female,Eastern Europe,Lombardia,3.9,Basic,67,0,0,1,0,1,1
+Gig Economy,23,Male,South Asia,Campania,2.6,Basic,29,0,0,0,0,1,0
+Gig Economy,30,Male,South Asia,Lombardia,2.0,Basic,40,0,0,1,0,0,0
+Construction,31,Male,North Africa,Veneto,17.1,Intermediate,32,0,0,1,0,1,1
+Logistics,30,Female,Sub-Saharan Africa,Veneto,6.9,Intermediate,57,0,0,1,1,0,1
+Agriculture,34,Male,North Africa,Lazio,2.3,Basic,67,0,0,1,0,0,0
+Gig Economy,43,Male,Sub-Saharan Africa,Lombardia,5.2,Intermediate,50,0,0,1,0,0,1
+Logistics,40,Male,South Asia,Campania,1.3,Basic,69,1,1,1,0,0,1
+Domestic Work,21,Male,Eastern Europe,Toscana,0.5,Basic,54,1,1,1,0,0,0
+Construction,36,Male,North Africa,Piemonte,1.7,Intermediate,68,0,0,1,1,1,0
+Agriculture,42,Female,Sub-Saharan Africa,Veneto,2.1,Basic,69,0,0,1,0,0,0
+Domestic Work,35,Female,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,44,0,0,1,0,0,1
+Domestic Work,40,Male,North Africa,Lazio,6.7,Intermediate,48,1,0,0,0,1,1
+Agriculture,48,Female,South Asia,Lazio,1.8,Basic,53,0,0,0,0,0,1
+Construction,40,Female,South Asia,Lombardia,3.5,Basic,53,0,0,1,0,0,1
+Agriculture,33,Male,South Asia,Lazio,0.5,None,60,0,0,1,0,1,1
+Agriculture,40,Male,Latin America,Lazio,0.8,Basic,59,0,0,1,0,1,1
+Agriculture,33,Male,Latin America,Veneto,8.8,Intermediate,70,0,0,1,0,0,0
+Construction,32,Male,Latin America,Veneto,3.8,Fluent,52,1,0,1,0,1,1
+Hospitality,29,Female,Eastern Europe,Puglia,12.0,Intermediate,47,0,0,1,0,1,1
+Domestic Work,44,Female,Eastern Europe,Lombardia,20.0,Intermediate,41,1,0,1,1,0,0
+Domestic Work,25,Female,North Africa,Emilia-Romagna,1.9,None,53,0,0,1,0,0,1
+Hospitality,44,Female,Eastern Europe,Piemonte,1.4,None,43,1,1,1,1,1,1
+Construction,35,Male,South Asia,Veneto,7.8,Fluent,53,0,0,0,0,1,1
+Hospitality,20,Male,Eastern Europe,Lazio,20.0,Basic,65,0,0,1,0,1,1
+Logistics,34,Female,Latin America,Lazio,4.0,Intermediate,60,1,0,1,0,1,1
+Agriculture,18,Male,North Africa,Lombardia,6.3,Intermediate,59,1,0,1,0,1,1
+Hospitality,37,Male,Sub-Saharan Africa,Lazio,6.1,Intermediate,54,1,1,0,0,1,1
+Construction,39,Female,Sub-Saharan Africa,Toscana,1.8,Intermediate,46,0,0,1,0,1,1
+Construction,27,Female,Eastern Europe,Lombardia,3.4,Basic,48,0,0,1,1,1,1
+Gig Economy,32,Female,Eastern Europe,Lazio,7.2,Basic,48,0,0,1,0,0,1
+Hospitality,47,Male,Southeast Asia,Toscana,4.7,Fluent,57,0,0,0,0,1,1
+Logistics,27,Female,Sub-Saharan Africa,Piemonte,0.5,Intermediate,65,0,0,1,1,1,1
+Agriculture,23,Female,Latin America,Campania,1.6,None,60,0,0,1,0,1,1
+Domestic Work,43,Male,North Africa,Toscana,0.6,None,58,0,0,1,0,0,1
+Agriculture,47,Female,Southeast Asia,Campania,1.1,None,72,0,0,1,0,0,1
+Logistics,32,Male,North Africa,Lombardia,9.4,Basic,64,0,0,1,0,0,0
+Agriculture,40,Female,North Africa,Campania,0.5,Fluent,69,0,0,0,0,0,0
+Gig Economy,42,Male,North Africa,Emilia-Romagna,1.0,Basic,42,0,0,1,0,0,0
+Construction,26,Male,Eastern Europe,Puglia,1.5,Basic,45,0,0,1,0,0,1
+Hospitality,28,Male,Middle East,Lombardia,3.8,Fluent,59,0,0,0,0,1,1
+Construction,41,Female,South Asia,Veneto,3.1,Basic,44,0,0,1,0,1,0
+Gig Economy,45,Male,South Asia,Lazio,1.0,Basic,47,0,0,1,0,0,1
+Domestic Work,36,Male,Middle East,Veneto,0.7,Intermediate,54,0,0,1,0,0,1
+Logistics,24,Male,North Africa,Lombardia,1.1,Intermediate,69,1,1,0,0,1,1
+Agriculture,47,Female,Eastern Europe,Lazio,2.8,Intermediate,57,0,0,1,0,0,1
+Domestic Work,27,Male,North Africa,Piemonte,1.3,Basic,42,0,0,1,0,1,1
+Hospitality,29,Male,South Asia,Veneto,11.8,Fluent,57,1,1,0,0,0,0
+Domestic Work,34,Female,Latin America,Campania,2.5,None,39,1,0,1,0,1,0
+Agriculture,44,Male,Eastern Europe,Lazio,0.5,Basic,58,0,0,1,1,1,0
+Hospitality,38,Female,Sub-Saharan Africa,Lazio,5.2,Fluent,54,1,1,0,0,1,1
+Logistics,35,Male,Sub-Saharan Africa,Campania,1.6,None,57,0,0,1,1,1,1
+Agriculture,35,Female,Latin America,Sicilia,4.2,Intermediate,60,0,0,0,1,0,0
+Hospitality,32,Male,South Asia,Calabria,1.3,Basic,48,0,0,1,0,1,1
+Gig Economy,36,Male,Southeast Asia,Campania,3.4,None,44,0,0,1,0,1,1
+Logistics,18,Female,Sub-Saharan Africa,Campania,5.9,Intermediate,52,1,0,1,0,1,1
+Agriculture,29,Male,North Africa,Sicilia,10.5,Basic,47,0,0,1,0,0,1
+Hospitality,33,Female,Middle East,Campania,1.2,Basic,57,0,0,1,1,1,1
+Domestic Work,22,Male,Eastern Europe,Veneto,1.6,None,55,0,0,0,0,1,1
+Domestic Work,35,Male,North Africa,Lazio,2.5,Fluent,54,0,0,1,1,0,0
+Domestic Work,30,Male,Eastern Europe,Toscana,10.5,Basic,45,1,0,0,0,0,0
+Agriculture,46,Female,Sub-Saharan Africa,Veneto,9.3,Basic,53,0,0,0,0,1,1
+Hospitality,44,Male,Sub-Saharan Africa,Piemonte,0.5,None,60,1,0,1,0,1,1
+Construction,28,Male,Middle East,Piemonte,0.6,Intermediate,60,1,0,1,0,1,1
+Hospitality,30,Male,Latin America,Lazio,2.7,Intermediate,56,0,0,1,0,1,1
+Hospitality,31,Male,Eastern Europe,Toscana,0.5,Basic,68,0,0,1,0,0,1
+Logistics,28,Male,Sub-Saharan Africa,Piemonte,1.7,Basic,57,0,0,1,1,1,1
+Gig Economy,33,Female,South Asia,Lazio,0.6,None,47,0,0,1,0,1,1
+Construction,25,Male,South Asia,Lombardia,4.0,None,51,1,0,1,1,1,1
+Agriculture,22,Female,North Africa,Lombardia,11.9,Intermediate,47,1,1,1,1,0,1
+Gig Economy,36,Male,Latin America,Campania,20.0,Basic,55,0,0,1,0,1,1
+Logistics,37,Female,North Africa,Campania,1.9,Fluent,57,1,1,0,0,1,1
+Domestic Work,25,Female,Latin America,Veneto,3.7,Intermediate,52,0,0,1,0,1,1
+Gig Economy,39,Male,South Asia,Lombardia,7.8,Intermediate,64,0,0,0,0,1,1
+Gig Economy,26,Female,Sub-Saharan Africa,Sicilia,0.5,None,46,0,0,0,0,1,1
+Hospitality,34,Male,Sub-Saharan Africa,Lazio,4.7,Intermediate,36,1,1,0,0,0,1
+Construction,38,Female,North Africa,Lazio,2.1,None,58,0,0,1,1,1,0
+Agriculture,31,Female,South Asia,Veneto,0.9,None,61,0,0,1,0,1,1
+Hospitality,35,Male,Middle East,Veneto,2.1,None,49,0,0,1,0,1,0
+Hospitality,27,Male,Sub-Saharan Africa,Lazio,0.5,Basic,58,0,0,1,0,0,1
+Agriculture,30,Male,Southeast Asia,Lazio,4.8,Intermediate,66,0,0,1,0,1,0
+Agriculture,30,Male,North Africa,Lombardia,1.2,Basic,52,0,0,1,0,1,1
+Logistics,26,Male,Middle East,Toscana,1.5,None,55,0,0,1,0,1,1
+Domestic Work,30,Male,North Africa,Piemonte,0.5,None,59,1,0,1,0,1,1
+Hospitality,19,Male,Middle East,Campania,8.0,Fluent,49,0,0,1,0,1,1
+Gig Economy,28,Female,South Asia,Toscana,2.7,None,50,0,0,1,1,1,0
+Domestic Work,29,Male,Eastern Europe,Toscana,3.4,Basic,27,1,1,0,0,0,1
+Gig Economy,29,Male,Southeast Asia,Lombardia,3.4,Fluent,38,1,1,1,0,0,0
+Agriculture,30,Female,South Asia,Calabria,2.1,Fluent,61,1,0,1,0,0,1
+Logistics,31,Male,South Asia,Sicilia,0.9,Fluent,67,0,0,0,0,0,1
+Logistics,35,Male,North Africa,Lazio,5.5,Intermediate,47,0,0,0,1,0,0
+Domestic Work,38,Male,Middle East,Lombardia,0.5,None,48,0,0,1,0,1,1
+Gig Economy,26,Female,North Africa,Lombardia,0.5,None,46,0,0,1,0,1,1
+Domestic Work,22,Female,North Africa,Lombardia,5.0,Basic,55,0,0,1,1,0,0
+Hospitality,23,Male,South Asia,Toscana,0.9,None,45,0,0,1,0,0,1
+Hospitality,28,Female,South Asia,Campania,1.5,Fluent,58,0,0,0,0,0,0
+Hospitality,29,Male,Latin America,Piemonte,2.6,Intermediate,49,0,0,1,0,1,1
+Agriculture,25,Female,South Asia,Toscana,2.4,Intermediate,61,0,0,1,0,1,1
+Logistics,21,Female,Eastern Europe,Emilia-Romagna,4.9,Basic,58,0,0,1,0,1,1
+Domestic Work,28,Female,Southeast Asia,Toscana,3.9,Fluent,45,1,0,1,0,1,1
+Gig Economy,33,Male,Sub-Saharan Africa,Lombardia,4.1,Intermediate,53,0,0,1,0,1,0
+Domestic Work,36,Male,Eastern Europe,Lazio,5.0,Basic,48,0,0,1,0,1,1
+Hospitality,27,Male,South Asia,Emilia-Romagna,1.4,Intermediate,53,0,0,1,0,1,1
+Domestic Work,28,Female,Eastern Europe,Lombardia,1.6,None,45,0,0,1,0,1,1
+Construction,24,Male,South Asia,Lombardia,2.3,None,55,0,0,1,0,0,1
+Construction,31,Female,Eastern Europe,Sicilia,1.5,Basic,56,0,0,1,1,1,0
+Construction,25,Female,Sub-Saharan Africa,Toscana,16.8,Intermediate,47,1,1,1,0,0,1
+Construction,36,Male,North Africa,Lazio,6.7,Basic,52,0,0,1,0,1,1
+Agriculture,18,Female,North Africa,Toscana,0.7,None,51,0,0,1,0,1,1
+Hospitality,29,Female,South Asia,Piemonte,0.5,Fluent,54,1,1,1,0,1,1
+Hospitality,34,Female,Eastern Europe,Lazio,0.5,Basic,50,0,0,0,1,0,1
+Domestic Work,33,Female,Sub-Saharan Africa,Lombardia,1.1,Intermediate,54,0,0,1,0,1,1
+Agriculture,53,Female,Eastern Europe,Puglia,0.5,None,65,0,0,1,1,1,1
+Construction,34,Male,South Asia,Lazio,3.0,None,47,0,0,1,0,1,1
+Gig Economy,23,Female,Eastern Europe,Lombardia,7.8,Basic,49,0,0,1,1,0,0
+Hospitality,31,Male,South Asia,Veneto,5.3,Basic,60,0,0,1,0,1,1
+Hospitality,18,Female,North Africa,Piemonte,1.0,None,53,0,0,1,0,0,1
+Agriculture,31,Female,Sub-Saharan Africa,Lazio,2.0,None,54,0,0,1,0,0,0
+Gig Economy,25,Male,Eastern Europe,Lazio,2.8,Basic,41,0,0,1,0,1,0
+Hospitality,39,Female,Sub-Saharan Africa,Lazio,6.6,Basic,61,1,0,1,0,1,1
+Gig Economy,27,Male,Southeast Asia,Calabria,7.3,Fluent,57,1,0,0,0,0,1
+Hospitality,31,Male,Southeast Asia,Lombardia,9.6,Basic,53,0,0,1,0,1,1
+Gig Economy,26,Male,Sub-Saharan Africa,Emilia-Romagna,2.8,Basic,56,0,0,1,0,1,1
+Logistics,45,Female,Eastern Europe,Puglia,4.7,None,34,0,0,1,0,1,1
+Construction,29,Female,South Asia,Lombardia,0.5,None,65,0,0,1,0,0,1
+Logistics,46,Female,Sub-Saharan Africa,Calabria,3.3,None,56,0,0,1,0,1,1
+Gig Economy,38,Male,Eastern Europe,Puglia,1.1,Fluent,51,0,0,1,1,0,1
+Hospitality,35,Female,Eastern Europe,Sicilia,2.3,Intermediate,52,0,0,1,0,0,1
+Hospitality,34,Female,Eastern Europe,Lazio,4.0,Basic,66,0,0,0,0,0,1
+Logistics,35,Male,Sub-Saharan Africa,Emilia-Romagna,1.2,None,49,0,0,1,1,0,1
+Gig Economy,18,Male,Sub-Saharan Africa,Piemonte,0.5,Basic,61,0,0,1,0,1,1
+Agriculture,29,Male,South Asia,Calabria,0.5,Basic,63,0,0,1,0,0,1
+Logistics,38,Female,Eastern Europe,Lombardia,0.5,None,62,0,0,1,0,1,1
+Agriculture,31,Female,North Africa,Piemonte,0.5,Basic,57,0,0,0,0,0,1
+Domestic Work,20,Female,Eastern Europe,Lazio,0.5,Basic,37,1,1,0,0,0,1
+Construction,31,Male,Sub-Saharan Africa,Lombardia,1.1,Intermediate,62,0,0,1,0,0,1
+Hospitality,45,Female,Sub-Saharan Africa,Campania,1.0,Intermediate,57,0,0,1,0,0,0
+Gig Economy,41,Male,Sub-Saharan Africa,Piemonte,17.3,Fluent,60,1,0,1,0,0,0
+Hospitality,31,Male,South Asia,Campania,1.5,Fluent,53,1,1,0,0,1,1
+Hospitality,39,Female,Sub-Saharan Africa,Veneto,0.5,None,51,0,0,1,0,0,1
+Domestic Work,29,Male,Latin America,Calabria,3.2,Intermediate,59,0,0,1,0,1,1
+Hospitality,18,Female,Southeast Asia,Campania,7.8,Fluent,70,0,0,0,0,0,1
+Gig Economy,24,Male,North Africa,Emilia-Romagna,4.5,Intermediate,50,0,0,1,1,0,0
+Agriculture,44,Female,North Africa,Campania,1.4,Fluent,53,0,0,0,0,0,1
+Agriculture,29,Male,South Asia,Campania,3.3,None,66,0,0,1,1,1,1
+Gig Economy,30,Male,Southeast Asia,Toscana,5.0,Basic,47,0,0,1,0,1,1
+Hospitality,29,Male,South Asia,Puglia,5.2,Basic,59,0,0,1,0,1,1
+Logistics,47,Male,Middle East,Veneto,4.4,Basic,55,0,0,1,0,0,1
+Gig Economy,45,Female,North Africa,Piemonte,8.2,Basic,62,0,0,0,0,1,1
+Hospitality,49,Male,Sub-Saharan Africa,Lombardia,8.2,Intermediate,49,0,0,1,1,1,1
+Logistics,30,Female,Southeast Asia,Lazio,3.5,None,61,0,0,1,0,0,1
+Hospitality,34,Female,South Asia,Veneto,2.2,Intermediate,51,0,0,0,0,0,1
+Hospitality,19,Male,North Africa,Lombardia,4.1,Intermediate,52,0,0,0,0,1,0
+Logistics,43,Male,North Africa,Lazio,6.8,Basic,54,1,1,1,0,0,0
+Hospitality,22,Female,Sub-Saharan Africa,Veneto,0.5,None,60,0,0,0,0,1,1
+Gig Economy,33,Female,North Africa,Lombardia,19.3,Intermediate,57,0,0,1,1,0,1
+Agriculture,23,Female,Eastern Europe,Lazio,0.8,Basic,64,0,0,1,0,0,0
+Construction,27,Male,Eastern Europe,Veneto,2.5,Intermediate,54,1,0,1,1,0,1
+Hospitality,25,Female,South Asia,Emilia-Romagna,8.2,Fluent,56,0,0,1,0,0,1
+Hospitality,27,Male,Middle East,Puglia,1.0,Fluent,62,0,0,1,0,1,1
+Hospitality,27,Female,South Asia,Emilia-Romagna,2.6,Basic,62,0,0,1,0,0,0
+Agriculture,27,Female,Sub-Saharan Africa,Campania,0.6,Intermediate,38,0,0,1,0,0,1
+Agriculture,38,Male,Sub-Saharan Africa,Puglia,2.0,Intermediate,57,0,0,0,0,1,1
+Hospitality,23,Male,South Asia,Piemonte,0.8,Intermediate,53,1,0,1,0,0,1
+Domestic Work,33,Male,South Asia,Lazio,1.8,None,53,1,0,0,0,0,1
+Hospitality,41,Male,Middle East,Lombardia,1.9,Fluent,54,0,0,0,0,0,1
+Gig Economy,27,Female,Sub-Saharan Africa,Toscana,19.9,Intermediate,55,0,0,1,0,1,1
+Agriculture,26,Male,South Asia,Veneto,20.0,Fluent,51,1,0,1,0,0,1
+Domestic Work,30,Male,South Asia,Piemonte,0.5,None,50,0,0,1,0,0,1
+Agriculture,41,Male,Eastern Europe,Toscana,5.2,Basic,67,0,0,1,0,1,1
+Construction,33,Female,Southeast Asia,Emilia-Romagna,0.5,None,43,0,0,1,0,1,1
+Logistics,27,Female,Sub-Saharan Africa,Calabria,0.5,None,78,0,0,1,0,1,1
+Construction,35,Male,South Asia,Veneto,0.5,None,64,0,0,0,0,1,1
+Hospitality,23,Male,Sub-Saharan Africa,Lombardia,13.5,Fluent,55,1,0,1,0,1,1
+Domestic Work,37,Female,South Asia,Sicilia,11.3,None,41,0,0,1,0,1,1
+Gig Economy,35,Female,South Asia,Lazio,0.9,None,48,0,0,1,0,0,1
+Construction,29,Male,North Africa,Piemonte,0.7,None,55,0,0,1,0,0,1
+Gig Economy,25,Male,Sub-Saharan Africa,Puglia,1.1,Basic,53,0,0,1,0,0,1
+Agriculture,24,Male,North Africa,Toscana,2.9,None,72,0,0,1,0,1,1
+Gig Economy,36,Male,Sub-Saharan Africa,Emilia-Romagna,3.4,Basic,46,0,0,1,0,0,0
+Agriculture,41,Male,Middle East,Campania,1.0,Basic,64,0,0,1,0,1,0
+Hospitality,26,Female,Southeast Asia,Campania,5.7,Intermediate,44,1,0,0,0,1,1
+Hospitality,35,Male,North Africa,Campania,1.5,None,51,0,0,1,0,0,1
+Hospitality,18,Female,Sub-Saharan Africa,Emilia-Romagna,10.2,Basic,58,1,0,1,0,1,1
+Hospitality,27,Male,Sub-Saharan Africa,Piemonte,4.3,Basic,60,0,0,0,0,0,0
+Domestic Work,31,Female,North Africa,Toscana,2.3,Fluent,41,1,0,1,0,0,0
+Hospitality,24,Female,Eastern Europe,Lombardia,6.2,Intermediate,51,0,0,1,0,1,1
+Domestic Work,24,Male,North Africa,Veneto,6.8,Intermediate,59,0,0,0,0,0,1
+Logistics,26,Male,Southeast Asia,Piemonte,1.4,None,67,0,0,1,0,1,1
+Hospitality,34,Female,Middle East,Veneto,1.7,Basic,56,0,0,0,0,1,1
+Construction,30,Male,Sub-Saharan Africa,Veneto,11.0,None,37,0,0,1,1,0,1
+Agriculture,18,Male,North Africa,Piemonte,0.7,None,80,0,0,1,1,1,1
+Gig Economy,18,Male,South Asia,Emilia-Romagna,0.5,None,49,0,0,1,0,0,1
+Gig Economy,27,Female,Sub-Saharan Africa,Campania,2.4,Basic,47,0,0,1,1,1,0
+Agriculture,35,Male,North Africa,Sicilia,6.5,Basic,55,0,0,1,0,0,1
+Hospitality,18,Female,Sub-Saharan Africa,Lombardia,5.9,Intermediate,58,0,0,1,0,1,1
+Domestic Work,28,Male,Southeast Asia,Calabria,10.1,Fluent,51,1,0,0,0,0,1
+Domestic Work,27,Female,South Asia,Lombardia,3.0,Basic,55,0,0,1,0,1,0
+Agriculture,43,Male,North Africa,Lombardia,0.5,Basic,52,0,0,1,0,1,1
+Hospitality,28,Female,Eastern Europe,Sicilia,3.6,Fluent,52,0,0,1,0,1,0
+Agriculture,35,Male,Eastern Europe,Lazio,6.0,Fluent,76,0,0,0,0,0,1
+Hospitality,33,Male,Sub-Saharan Africa,Toscana,0.5,None,56,0,0,1,0,1,1
+Hospitality,18,Female,Southeast Asia,Piemonte,0.8,Basic,53,0,0,1,0,1,0
+Logistics,38,Male,North Africa,Sicilia,0.5,None,50,0,0,1,0,1,1
+Gig Economy,33,Male,North Africa,Calabria,3.6,Intermediate,54,0,0,0,0,0,0
+Domestic Work,36,Male,South Asia,Lazio,8.7,Basic,56,1,0,1,0,0,1
+Agriculture,60,Male,North Africa,Toscana,4.4,Basic,66,0,0,1,0,1,1
+Agriculture,18,Female,Latin America,Lombardia,16.1,Intermediate,57,1,1,0,0,0,1
+Gig Economy,45,Male,Eastern Europe,Campania,0.5,None,52,0,0,1,0,1,1
+Logistics,29,Male,Latin America,Sicilia,9.3,Intermediate,71,0,0,1,0,1,0
+Logistics,34,Female,North Africa,Campania,6.7,Intermediate,66,0,0,0,0,0,0
+Domestic Work,31,Male,South Asia,Emilia-Romagna,1.5,Basic,41,0,0,1,0,1,1
+Hospitality,28,Male,South Asia,Veneto,14.5,Basic,34,1,0,1,0,0,1
+Domestic Work,27,Male,Sub-Saharan Africa,Emilia-Romagna,1.4,None,50,0,0,1,0,1,1
+Gig Economy,34,Female,Eastern Europe,Calabria,8.8,Intermediate,56,1,0,0,0,1,0
+Gig Economy,19,Female,Latin America,Lombardia,8.5,Fluent,41,1,0,1,0,1,1
+Agriculture,38,Female,Sub-Saharan Africa,Emilia-Romagna,5.7,None,59,0,0,1,1,1,0
+Gig Economy,28,Male,North Africa,Sicilia,3.3,Basic,47,0,0,1,0,1,1
+Domestic Work,22,Female,North Africa,Veneto,0.5,Intermediate,48,1,1,1,0,1,1
+Domestic Work,28,Male,North Africa,Lombardia,3.0,None,43,0,0,1,0,1,0
+Gig Economy,42,Male,Sub-Saharan Africa,Veneto,1.8,Intermediate,60,0,0,1,0,0,1
+Logistics,27,Male,South Asia,Lazio,6.3,Intermediate,59,0,0,1,0,0,1
+Gig Economy,34,Male,Sub-Saharan Africa,Lombardia,5.7,Basic,42,0,0,1,0,1,1
+Domestic Work,26,Male,South Asia,Sicilia,9.7,Basic,55,1,1,0,0,1,1
+Hospitality,38,Male,Sub-Saharan Africa,Veneto,0.5,None,44,0,0,1,0,0,0
+Agriculture,37,Male,South Asia,Puglia,6.6,Basic,70,0,0,1,0,0,1
+Agriculture,46,Male,Eastern Europe,Piemonte,11.2,Fluent,67,0,0,1,0,0,1
+Agriculture,30,Female,Sub-Saharan Africa,Toscana,6.2,Intermediate,71,1,0,1,0,0,1
+Hospitality,37,Male,Middle East,Lombardia,0.6,Basic,53,0,0,1,0,1,1
+Agriculture,32,Female,Sub-Saharan Africa,Campania,0.5,Basic,56,0,0,1,0,0,1
+Domestic Work,42,Male,Sub-Saharan Africa,Lombardia,0.5,None,48,0,0,0,0,0,1
+Hospitality,26,Female,Sub-Saharan Africa,Puglia,4.0,Intermediate,54,0,0,0,0,0,0
+Hospitality,37,Male,South Asia,Lombardia,4.0,Basic,49,0,0,1,0,1,1
+Domestic Work,30,Male,Latin America,Lazio,17.3,Fluent,43,1,1,0,0,0,1
+Hospitality,31,Male,South Asia,Veneto,2.0,Basic,52,1,0,1,0,0,1
+Domestic Work,32,Female,Middle East,Lazio,1.6,Basic,38,1,0,0,0,1,1
+Gig Economy,34,Female,Southeast Asia,Lazio,3.9,Fluent,55,0,0,1,0,1,1
+Hospitality,31,Male,North Africa,Emilia-Romagna,7.0,Intermediate,54,1,1,0,1,1,1
+Domestic Work,33,Male,North Africa,Lombardia,11.0,None,45,0,0,1,0,1,0
+Gig Economy,44,Female,Eastern Europe,Lombardia,6.5,Intermediate,41,0,0,0,0,1,1
+Gig Economy,39,Female,Sub-Saharan Africa,Campania,2.2,Basic,40,0,0,1,0,0,1
+Logistics,38,Male,Eastern Europe,Toscana,4.0,Intermediate,73,0,0,1,0,1,1
+Gig Economy,28,Male,South Asia,Veneto,7.8,Fluent,44,0,0,1,0,0,1
+Hospitality,24,Male,South Asia,Campania,2.7,Basic,59,0,0,1,0,0,1
+Logistics,39,Female,North Africa,Veneto,1.0,Basic,59,0,0,1,0,0,1
+Domestic Work,39,Male,North Africa,Campania,0.7,Basic,25,0,0,0,0,0,1
+Logistics,43,Female,Southeast Asia,Puglia,0.5,None,72,0,0,0,1,1,1
+Agriculture,27,Male,South Asia,Lombardia,5.1,Basic,65,0,0,1,0,1,0
+Logistics,30,Male,Latin America,Toscana,0.5,Intermediate,51,0,0,0,0,1,1
+Construction,18,Male,Sub-Saharan Africa,Sicilia,1.1,Basic,54,0,0,1,0,0,1
+Hospitality,28,Female,Sub-Saharan Africa,Piemonte,1.4,None,45,0,0,1,0,1,1
+Domestic Work,39,Female,Sub-Saharan Africa,Lombardia,3.3,Basic,62,1,0,0,0,0,1
+Gig Economy,28,Male,North Africa,Lazio,2.0,Basic,42,0,0,1,0,0,0
+Hospitality,37,Female,South Asia,Toscana,4.5,Intermediate,50,0,0,1,0,0,1
+Hospitality,30,Male,North Africa,Lombardia,0.5,Basic,49,0,0,0,0,0,1
+Hospitality,34,Male,Latin America,Piemonte,0.5,None,55,1,1,1,0,0,1
+Gig Economy,22,Male,North Africa,Toscana,2.8,Fluent,60,0,0,1,0,1,1
+Logistics,32,Male,North Africa,Toscana,1.6,Basic,72,0,0,0,0,1,1
+Construction,18,Male,Latin America,Lombardia,1.4,Basic,51,0,0,1,0,1,1
+Gig Economy,30,Female,Eastern Europe,Toscana,0.5,Basic,53,0,0,1,0,0,1
+Hospitality,18,Male,North Africa,Toscana,9.0,Basic,55,1,1,1,0,0,0
+Agriculture,41,Female,Sub-Saharan Africa,Sicilia,4.7,Fluent,52,0,0,1,1,1,1
+Agriculture,38,Male,Southeast Asia,Lombardia,0.5,None,79,0,0,1,0,0,1
+Hospitality,35,Female,North Africa,Lombardia,0.5,None,65,0,0,1,0,1,1
+Hospitality,44,Male,Sub-Saharan Africa,Campania,14.7,Fluent,56,0,0,1,0,0,1
+Hospitality,24,Male,Sub-Saharan Africa,Lombardia,4.6,Intermediate,67,1,0,1,1,0,1
+Agriculture,45,Male,Latin America,Veneto,2.2,Intermediate,69,0,0,1,0,0,1
+Agriculture,39,Male,South Asia,Puglia,4.8,Intermediate,60,0,0,1,0,1,1
+Gig Economy,30,Female,Middle East,Campania,5.6,Basic,52,1,1,0,0,1,1
+Construction,41,Male,South Asia,Sicilia,6.1,Fluent,67,0,0,1,0,1,0
+Construction,23,Female,Latin America,Lombardia,2.6,None,47,0,0,1,0,0,1
+Gig Economy,25,Male,Sub-Saharan Africa,Lombardia,2.2,Intermediate,63,0,0,1,0,1,1
+Domestic Work,27,Male,North Africa,Lombardia,0.5,None,46,0,0,1,0,1,1
+Hospitality,27,Male,Southeast Asia,Lazio,10.4,Fluent,67,0,0,1,0,0,0
+Hospitality,23,Female,North Africa,Puglia,3.7,None,54,0,0,1,0,0,0
+Logistics,41,Female,North Africa,Lombardia,0.9,Basic,60,0,0,1,0,1,1
+Hospitality,29,Male,South Asia,Emilia-Romagna,10.1,Fluent,54,1,0,1,0,0,1
+Gig Economy,34,Male,South Asia,Campania,9.9,Intermediate,45,0,0,0,0,1,0
+Domestic Work,27,Male,Sub-Saharan Africa,Puglia,18.1,Fluent,45,1,1,1,1,0,1
+Hospitality,18,Female,Eastern Europe,Lombardia,8.3,Fluent,66,0,0,0,1,0,1
+Hospitality,34,Female,South Asia,Lazio,20.0,Fluent,36,1,1,0,1,0,1
+Gig Economy,18,Male,South Asia,Lombardia,1.1,Fluent,40,0,0,1,0,0,0
+Domestic Work,31,Male,North Africa,Campania,7.4,Intermediate,42,1,0,1,0,0,0
+Logistics,21,Male,Eastern Europe,Lazio,6.9,Basic,49,0,0,1,0,0,0
+Gig Economy,47,Female,Eastern Europe,Sicilia,1.1,None,62,1,0,1,0,1,0
+Hospitality,39,Male,South Asia,Emilia-Romagna,0.5,None,65,0,0,1,0,1,1
+Hospitality,32,Female,South Asia,Emilia-Romagna,15.5,Basic,59,0,0,1,0,1,1
+Domestic Work,42,Male,Middle East,Veneto,1.4,Basic,42,0,0,1,0,0,1
+Domestic Work,25,Female,Sub-Saharan Africa,Lombardia,8.2,Basic,58,1,0,1,0,0,0
+Hospitality,36,Female,Southeast Asia,Campania,0.5,None,42,0,0,0,0,0,1
+Domestic Work,33,Female,Southeast Asia,Calabria,0.5,None,65,0,0,1,0,1,1
+Agriculture,34,Male,Latin America,Sicilia,2.5,Intermediate,54,0,0,1,1,1,1
+Domestic Work,42,Female,South Asia,Sicilia,1.1,Basic,45,1,1,1,0,1,1
+Gig Economy,37,Male,Latin America,Sicilia,4.7,Basic,46,0,0,0,0,1,1
+Gig Economy,34,Male,Latin America,Lombardia,3.3,Fluent,41,0,0,1,0,1,1
+Gig Economy,18,Male,North Africa,Lazio,0.5,None,65,0,0,1,0,1,1
+Agriculture,24,Female,Sub-Saharan Africa,Lombardia,0.7,Fluent,66,0,0,1,1,1,1
+Hospitality,31,Male,Sub-Saharan Africa,Lazio,2.0,Basic,64,1,1,0,1,0,1
+Hospitality,32,Female,South Asia,Lombardia,0.8,None,45,0,0,1,1,1,1
+Logistics,22,Female,North Africa,Veneto,6.3,Intermediate,59,1,0,1,0,1,1
+Agriculture,51,Male,North Africa,Toscana,2.2,Intermediate,64,0,0,1,0,1,1
+Hospitality,44,Male,Sub-Saharan Africa,Sicilia,0.5,None,57,1,1,1,0,0,1
+Agriculture,36,Male,North Africa,Toscana,2.6,Intermediate,50,1,0,1,0,0,0
+Domestic Work,32,Male,Sub-Saharan Africa,Puglia,0.5,None,56,0,0,1,0,0,1
+Hospitality,30,Male,Eastern Europe,Lombardia,0.6,None,55,0,0,1,0,1,1
+Agriculture,24,Male,Southeast Asia,Lombardia,1.1,None,52,0,0,1,1,0,1
+Gig Economy,32,Female,South Asia,Emilia-Romagna,7.9,Basic,35,0,0,1,0,1,1
+Domestic Work,34,Female,Sub-Saharan Africa,Lazio,10.3,Basic,52,0,0,0,0,0,1
+Hospitality,22,Male,South Asia,Lazio,7.0,Fluent,74,0,0,0,0,0,1
+Agriculture,34,Male,Eastern Europe,Lazio,1.6,None,51,0,0,0,1,1,1
+Construction,30,Male,Eastern Europe,Lazio,1.3,Basic,56,0,0,1,0,1,1
+Domestic Work,18,Female,Middle East,Veneto,3.2,Intermediate,56,0,0,1,1,1,1
+Agriculture,25,Female,Sub-Saharan Africa,Campania,5.1,Fluent,49,0,0,0,1,1,0
+Gig Economy,28,Male,Middle East,Veneto,20.0,Fluent,46,1,0,1,0,0,0
+Agriculture,47,Male,South Asia,Toscana,0.6,Basic,53,0,0,1,1,1,1
+Domestic Work,36,Female,Eastern Europe,Campania,0.5,Fluent,55,0,0,0,0,1,1
+Gig Economy,21,Male,South Asia,Lazio,4.7,Intermediate,60,0,0,1,0,1,1
+Hospitality,35,Male,Southeast Asia,Lombardia,7.1,Fluent,56,1,0,1,0,1,1
+Domestic Work,19,Female,North Africa,Lazio,7.5,Intermediate,41,1,1,0,0,0,0
+Agriculture,40,Male,Eastern Europe,Toscana,4.5,None,56,0,0,1,0,1,0
+Agriculture,28,Male,Latin America,Piemonte,12.3,Intermediate,54,1,0,1,0,1,1
+Hospitality,31,Female,South Asia,Emilia-Romagna,2.9,Basic,47,0,0,0,0,1,1
+Agriculture,42,Female,South Asia,Lazio,9.8,Intermediate,59,1,0,1,0,1,1
+Logistics,21,Male,Southeast Asia,Emilia-Romagna,13.7,Basic,62,0,0,1,0,1,1
+Agriculture,20,Female,Sub-Saharan Africa,Emilia-Romagna,7.5,Intermediate,63,0,0,0,0,0,0
+Hospitality,27,Male,South Asia,Veneto,1.5,Fluent,54,0,0,1,0,1,1
+Agriculture,40,Female,North Africa,Veneto,0.9,None,60,0,0,1,0,0,1
+Domestic Work,19,Male,North Africa,Veneto,3.2,Intermediate,47,0,0,1,0,1,0
+Hospitality,18,Female,South Asia,Veneto,2.4,Intermediate,44,1,1,1,0,0,1
+Domestic Work,28,Female,Sub-Saharan Africa,Toscana,8.4,Fluent,49,0,0,1,0,1,1
+Gig Economy,36,Male,South Asia,Lombardia,0.5,Intermediate,45,0,0,1,0,0,1
+Domestic Work,41,Female,North Africa,Toscana,1.2,Intermediate,37,0,0,1,0,1,1
+Construction,28,Female,Southeast Asia,Lombardia,5.6,Intermediate,57,0,0,1,0,0,0
+Gig Economy,28,Female,Middle East,Lombardia,0.5,None,45,0,0,1,0,1,1
+Agriculture,41,Male,Eastern Europe,Calabria,1.5,Basic,61,0,0,1,0,0,1
+Domestic Work,18,Female,South Asia,Puglia,2.0,Intermediate,54,0,0,1,0,1,0
+Gig Economy,28,Female,Southeast Asia,Lombardia,3.9,Fluent,42,1,0,1,0,0,1
+Logistics,33,Male,North Africa,Campania,0.7,Basic,58,0,0,1,0,1,1
+Agriculture,35,Female,South Asia,Lombardia,7.9,Basic,45,0,0,1,0,0,0
+Construction,27,Male,Southeast Asia,Veneto,2.4,Basic,67,0,0,1,0,0,1
+Construction,32,Male,Latin America,Sicilia,10.0,Intermediate,44,0,0,0,0,1,0
+Construction,18,Male,Eastern Europe,Puglia,2.5,None,50,0,0,1,1,1,1
+Gig Economy,26,Male,Eastern Europe,Emilia-Romagna,1.3,None,60,0,0,0,0,1,1
+Construction,35,Female,Sub-Saharan Africa,Campania,0.6,None,53,0,0,1,0,1,1
+Hospitality,24,Male,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,45,0,0,1,0,1,0
+Gig Economy,32,Female,Eastern Europe,Lazio,3.0,Basic,55,0,0,1,0,0,0
+Hospitality,35,Male,Sub-Saharan Africa,Puglia,0.5,None,60,0,0,1,0,1,1
+Logistics,29,Male,North Africa,Sicilia,2.0,Fluent,52,1,1,1,0,0,1
+Logistics,33,Male,Latin America,Veneto,3.6,Basic,53,0,0,1,0,0,1
+Logistics,24,Male,Latin America,Lazio,1.3,None,54,0,0,1,0,0,0
+Agriculture,30,Female,North Africa,Lazio,0.8,None,58,0,0,1,0,0,1
+Logistics,36,Female,Latin America,Lombardia,6.0,Basic,42,0,0,1,0,1,0
+Gig Economy,33,Female,Latin America,Piemonte,11.7,Basic,48,0,0,1,0,0,1
+Hospitality,27,Male,Eastern Europe,Campania,0.5,None,69,0,0,1,0,0,1
+Logistics,33,Male,Sub-Saharan Africa,Lazio,0.7,Basic,50,1,0,1,0,1,1
+Hospitality,37,Male,Sub-Saharan Africa,Veneto,12.9,Basic,50,0,0,0,0,1,0
+Hospitality,18,Male,Sub-Saharan Africa,Piemonte,0.5,None,45,0,0,1,0,1,1
+Agriculture,41,Male,South Asia,Lombardia,15.2,Fluent,64,1,1,1,0,1,0
+Agriculture,29,Female,Sub-Saharan Africa,Sicilia,0.5,None,69,0,0,0,0,0,1
+Agriculture,35,Male,Sub-Saharan Africa,Sicilia,8.3,Fluent,69,1,0,1,0,0,1
+Gig Economy,41,Female,North Africa,Puglia,1.5,Basic,40,0,0,1,0,1,1
+Logistics,21,Male,Southeast Asia,Campania,11.2,Intermediate,61,1,0,1,0,0,0
+Domestic Work,26,Male,South Asia,Lazio,1.5,Intermediate,59,1,1,0,0,1,0
+Gig Economy,29,Female,Eastern Europe,Campania,4.2,None,54,0,0,1,0,0,1
+Gig Economy,25,Male,Eastern Europe,Lazio,0.5,None,53,0,0,1,0,1,1
+Hospitality,45,Female,South Asia,Lombardia,1.1,Basic,51,0,0,1,1,0,1
+Logistics,25,Male,Southeast Asia,Emilia-Romagna,5.9,Basic,59,0,0,1,0,1,1
+Logistics,27,Male,North Africa,Veneto,3.0,Intermediate,67,1,1,0,0,0,0
+Logistics,33,Female,Sub-Saharan Africa,Sicilia,10.5,Fluent,60,0,0,1,0,1,1
+Gig Economy,22,Male,Latin America,Lombardia,2.2,Basic,40,0,0,1,0,1,1
+Gig Economy,28,Male,Sub-Saharan Africa,Emilia-Romagna,8.2,Intermediate,46,1,0,1,0,1,1
+Agriculture,34,Female,Eastern Europe,Piemonte,2.4,Basic,69,0,0,1,1,1,1
+Construction,29,Male,South Asia,Piemonte,15.5,Fluent,57,0,0,1,0,1,1
+Construction,31,Female,Latin America,Sicilia,12.9,Fluent,55,1,0,0,0,1,1
+Agriculture,27,Female,North Africa,Toscana,1.6,Intermediate,55,1,0,1,0,1,1
+Domestic Work,19,Female,Eastern Europe,Puglia,8.7,Basic,57,1,1,0,0,0,1
+Hospitality,34,Male,Sub-Saharan Africa,Lazio,7.5,Fluent,68,1,1,0,1,0,0
+Hospitality,46,Male,Eastern Europe,Veneto,0.9,None,65,0,0,1,0,0,1
+Hospitality,32,Female,Latin America,Lombardia,3.9,Basic,66,1,0,1,0,0,1
+Agriculture,33,Male,North Africa,Lombardia,0.5,Intermediate,57,0,0,1,0,1,0
+Domestic Work,37,Male,Eastern Europe,Lazio,7.2,None,43,1,1,1,1,1,0
+Hospitality,21,Male,North Africa,Lombardia,0.8,Intermediate,53,0,0,0,0,1,0
+Domestic Work,45,Male,Southeast Asia,Lazio,0.5,None,48,0,0,1,0,1,0
+Hospitality,33,Male,North Africa,Lombardia,2.0,Intermediate,66,0,0,1,0,0,1
+Domestic Work,45,Female,Latin America,Lombardia,3.4,Basic,57,0,0,1,0,1,0
+Logistics,26,Female,Latin America,Puglia,7.7,Intermediate,62,1,0,1,0,1,1
+Hospitality,46,Male,North Africa,Lombardia,14.6,Basic,43,1,0,0,0,0,1
+Gig Economy,38,Male,Sub-Saharan Africa,Toscana,2.3,Basic,36,0,0,1,0,0,0
+Logistics,36,Male,North Africa,Lombardia,0.5,None,59,0,0,1,1,0,1
+Logistics,33,Female,Latin America,Puglia,5.5,Intermediate,65,0,0,1,0,1,0
+Logistics,30,Male,Sub-Saharan Africa,Sicilia,3.3,None,57,0,0,1,0,1,1
+Construction,41,Female,North Africa,Emilia-Romagna,2.4,None,70,0,0,1,0,1,1
+Gig Economy,33,Male,Latin America,Toscana,1.5,None,41,0,0,1,1,1,1
+Logistics,18,Female,Sub-Saharan Africa,Lombardia,2.8,Basic,48,0,0,1,0,1,1
+Agriculture,23,Male,Eastern Europe,Calabria,1.7,Intermediate,54,0,0,1,1,0,1
+Agriculture,30,Female,Sub-Saharan Africa,Sicilia,5.7,Fluent,54,1,1,1,1,0,0
+Logistics,34,Male,South Asia,Sicilia,3.1,Basic,62,0,0,1,0,1,1
+Gig Economy,31,Female,Latin America,Emilia-Romagna,8.4,Intermediate,46,1,0,1,0,1,0
+Hospitality,41,Male,South Asia,Lazio,3.1,Intermediate,42,1,1,0,0,0,1
+Hospitality,18,Female,Sub-Saharan Africa,Sicilia,1.1,None,62,0,0,1,0,1,1
+Agriculture,33,Female,Southeast Asia,Lazio,7.6,Intermediate,45,1,1,1,0,0,0
+Hospitality,18,Male,Sub-Saharan Africa,Veneto,3.3,Intermediate,46,1,1,0,0,1,1
+Gig Economy,38,Female,Middle East,Lombardia,0.9,None,37,0,0,1,0,1,1
+Agriculture,31,Male,Middle East,Puglia,3.9,None,61,0,0,0,0,0,1
+Hospitality,35,Male,Sub-Saharan Africa,Lombardia,1.8,None,56,1,0,1,0,0,1
+Gig Economy,25,Male,South Asia,Lazio,7.4,Intermediate,65,0,0,1,0,1,1
+Logistics,42,Male,Eastern Europe,Veneto,2.4,None,65,0,0,1,0,0,0
+Domestic Work,40,Female,North Africa,Piemonte,5.2,Basic,59,1,0,1,0,1,1
+Gig Economy,36,Female,South Asia,Emilia-Romagna,0.5,None,52,0,0,0,1,0,1
+Construction,30,Male,Eastern Europe,Lazio,2.0,None,47,0,0,0,1,1,0
+Gig Economy,36,Male,South Asia,Lombardia,16.4,Basic,51,0,0,1,1,0,1
+Hospitality,26,Female,Southeast Asia,Piemonte,6.6,Fluent,59,0,0,1,0,1,1
+Agriculture,38,Female,South Asia,Calabria,0.7,None,65,0,0,1,0,1,1
+Domestic Work,45,Male,South Asia,Piemonte,1.3,Basic,44,0,0,1,0,1,1
+Agriculture,40,Female,South Asia,Campania,1.6,Basic,63,0,0,1,1,1,1
+Construction,26,Male,Middle East,Puglia,4.2,Intermediate,47,1,0,0,1,0,1
+Domestic Work,34,Male,Eastern Europe,Campania,5.7,Intermediate,39,1,1,0,0,0,0
+Hospitality,21,Female,Latin America,Veneto,5.5,Basic,46,0,0,0,0,1,0
+Hospitality,36,Male,Sub-Saharan Africa,Veneto,2.9,Intermediate,55,0,0,0,0,1,0
+Agriculture,35,Male,Sub-Saharan Africa,Campania,6.7,Intermediate,50,1,0,0,0,0,1
+Gig Economy,18,Male,Sub-Saharan Africa,Piemonte,2.3,Intermediate,46,0,0,1,1,1,0
+Construction,22,Female,North Africa,Veneto,0.5,None,62,0,0,1,0,1,1
+Domestic Work,29,Female,North Africa,Lazio,3.3,Fluent,39,0,0,1,0,0,1
+Logistics,29,Male,Eastern Europe,Lazio,12.2,Fluent,53,0,0,1,0,0,1
+Hospitality,22,Male,Sub-Saharan Africa,Lombardia,6.3,Fluent,55,1,0,1,0,1,1
+Construction,35,Male,Middle East,Emilia-Romagna,3.5,Intermediate,56,1,1,1,0,0,1
+Logistics,34,Male,South Asia,Lazio,4.2,Basic,54,1,0,1,0,0,1
+Construction,30,Male,Middle East,Lombardia,10.7,Fluent,61,1,0,1,0,0,1
+Gig Economy,25,Female,South Asia,Emilia-Romagna,2.2,Intermediate,54,0,0,1,0,1,0
+Agriculture,40,Male,North Africa,Toscana,1.6,Fluent,69,0,0,1,0,0,1
+Hospitality,45,Male,Sub-Saharan Africa,Piemonte,15.1,Basic,54,0,0,1,0,1,1
+Agriculture,28,Male,North Africa,Veneto,8.0,Fluent,55,1,0,1,0,1,1
+Gig Economy,27,Male,North Africa,Sicilia,1.6,None,44,0,0,1,0,1,1
+Gig Economy,35,Female,North Africa,Puglia,2.5,Basic,52,0,0,0,0,1,1
+Hospitality,29,Male,North Africa,Piemonte,2.1,None,51,1,1,1,0,0,1
+Agriculture,30,Male,Eastern Europe,Emilia-Romagna,0.6,None,55,0,0,1,0,0,0
+Domestic Work,37,Male,Eastern Europe,Lazio,12.7,Fluent,44,0,0,0,0,1,0
+Hospitality,18,Male,Latin America,Calabria,2.1,None,49,0,0,1,0,0,0
+Hospitality,42,Male,Sub-Saharan Africa,Lazio,8.3,Intermediate,56,1,0,1,0,1,1
+Hospitality,32,Male,Eastern Europe,Lazio,0.8,Basic,43,0,0,0,1,1,1
+Agriculture,28,Male,North Africa,Campania,3.2,None,62,0,0,0,0,1,1
+Agriculture,31,Male,Sub-Saharan Africa,Lombardia,0.5,None,65,0,0,1,0,1,1
+Gig Economy,31,Male,North Africa,Calabria,5.8,Intermediate,45,0,0,1,0,1,1
+Hospitality,18,Male,Sub-Saharan Africa,Emilia-Romagna,3.5,Basic,70,0,0,1,0,0,1
+Logistics,43,Female,South Asia,Veneto,3.9,Intermediate,58,0,0,1,0,1,1
+Gig Economy,32,Male,Sub-Saharan Africa,Emilia-Romagna,0.5,Fluent,37,1,0,1,0,1,1
+Gig Economy,35,Male,South Asia,Veneto,0.9,None,47,0,0,1,0,0,0
+Domestic Work,39,Male,Eastern Europe,Lombardia,0.5,None,48,1,0,1,0,1,1
+Hospitality,23,Male,Eastern Europe,Emilia-Romagna,1.4,Basic,58,0,0,1,0,1,0
+Agriculture,35,Female,Middle East,Toscana,3.9,Intermediate,57,0,0,1,1,1,1
+Gig Economy,29,Male,Eastern Europe,Campania,3.3,Basic,41,0,0,1,0,1,0
+Gig Economy,38,Female,South Asia,Piemonte,3.8,None,41,0,0,1,0,0,1
+Agriculture,18,Male,Southeast Asia,Lazio,3.2,Intermediate,54,0,0,1,1,1,0
+Agriculture,31,Male,Southeast Asia,Lazio,1.3,Fluent,55,1,0,1,0,1,1
+Domestic Work,27,Female,North Africa,Lombardia,1.1,Basic,38,0,0,0,0,0,1
+Hospitality,35,Male,North Africa,Campania,0.6,None,49,0,0,1,0,1,1
+Hospitality,35,Male,Middle East,Sicilia,7.6,Fluent,60,0,0,1,0,0,1
+Agriculture,26,Male,North Africa,Sicilia,3.8,Intermediate,73,0,0,1,0,0,0
+Gig Economy,26,Female,Southeast Asia,Campania,0.8,Basic,56,0,0,1,1,1,0
+Logistics,31,Male,South Asia,Emilia-Romagna,0.8,Basic,68,0,0,1,1,1,1
+Hospitality,24,Female,Sub-Saharan Africa,Toscana,8.3,Fluent,62,1,0,1,0,0,1
+Hospitality,38,Male,North Africa,Lazio,5.4,Intermediate,61,0,0,1,0,1,1
+Domestic Work,29,Female,North Africa,Lombardia,4.3,Fluent,45,0,0,1,0,1,0
+Hospitality,18,Male,Latin America,Calabria,2.1,Basic,56,0,0,1,0,1,1
+Logistics,29,Female,Middle East,Emilia-Romagna,1.2,Intermediate,54,0,0,1,0,0,1
+Hospitality,23,Male,Sub-Saharan Africa,Calabria,15.5,Basic,53,0,0,0,0,1,1
+Logistics,18,Female,South Asia,Lazio,6.4,Basic,58,0,0,1,1,1,1
+Hospitality,22,Male,Latin America,Toscana,1.4,Intermediate,60,0,0,0,0,1,1
+Gig Economy,32,Male,Eastern Europe,Lazio,7.5,Basic,53,0,0,1,0,1,1
+Hospitality,42,Male,Sub-Saharan Africa,Lazio,5.7,Intermediate,53,0,0,1,0,1,1
+Construction,34,Male,North Africa,Veneto,1.4,None,55,0,0,1,0,1,1
+Hospitality,27,Male,Eastern Europe,Lazio,2.2,Intermediate,58,0,0,0,0,1,1
+Gig Economy,35,Female,Latin America,Lombardia,0.8,None,55,0,0,1,0,1,1
+Domestic Work,28,Female,North Africa,Lazio,0.5,Basic,35,0,0,1,0,1,1
+Agriculture,26,Male,Sub-Saharan Africa,Lombardia,5.1,Intermediate,51,0,0,1,1,0,1
+Gig Economy,22,Female,Middle East,Toscana,1.2,None,58,0,0,1,0,1,1
+Logistics,18,Male,Eastern Europe,Veneto,6.9,Intermediate,57,0,0,0,0,1,0
+Logistics,28,Male,North Africa,Lombardia,20.0,Basic,54,0,0,1,0,0,0
+Agriculture,33,Female,Sub-Saharan Africa,Lombardia,0.5,None,57,0,0,1,0,1,1
+Domestic Work,31,Female,Eastern Europe,Lombardia,2.6,Basic,45,0,0,0,0,0,0
+Agriculture,28,Female,Sub-Saharan Africa,Emilia-Romagna,6.5,None,64,1,0,1,1,0,1
+Gig Economy,24,Male,South Asia,Lombardia,6.2,Fluent,41,1,0,1,0,0,1
+Agriculture,36,Female,North Africa,Piemonte,5.7,None,60,0,0,1,0,0,1
+Gig Economy,21,Male,Sub-Saharan Africa,Lombardia,1.7,Basic,51,0,0,1,1,1,1
+Hospitality,38,Male,Eastern Europe,Lazio,2.4,Basic,58,1,0,1,0,0,0
+Gig Economy,23,Male,South Asia,Sicilia,3.6,Intermediate,51,0,0,1,0,1,1
+Domestic Work,25,Female,Eastern Europe,Toscana,14.6,Intermediate,52,1,0,1,0,1,1
+Hospitality,20,Female,Sub-Saharan Africa,Lombardia,1.6,Basic,50,0,0,1,0,0,1
+Agriculture,27,Female,South Asia,Sicilia,10.3,Intermediate,52,0,0,1,0,0,1
+Hospitality,39,Male,South Asia,Veneto,1.3,Basic,74,0,0,0,0,1,0
+Gig Economy,36,Male,Middle East,Sicilia,18.1,Basic,47,1,0,0,0,1,1
+Hospitality,39,Male,Southeast Asia,Emilia-Romagna,4.4,Intermediate,53,0,0,0,0,1,0
+Gig Economy,36,Male,Sub-Saharan Africa,Toscana,2.5,None,55,0,0,1,0,0,1
+Construction,23,Male,Latin America,Calabria,3.8,None,67,0,0,0,0,1,1
+Logistics,29,Female,Eastern Europe,Lazio,1.3,Basic,53,0,0,1,1,1,0
+Agriculture,25,Male,Middle East,Emilia-Romagna,1.3,Basic,52,0,0,1,1,0,0
+Construction,42,Male,Sub-Saharan Africa,Campania,0.5,None,45,0,0,1,0,0,1
+Domestic Work,22,Male,Eastern Europe,Lombardia,0.5,Basic,60,0,0,1,0,0,1
+Hospitality,39,Male,South Asia,Lombardia,1.7,Basic,46,0,0,1,0,0,1
+Logistics,39,Male,Sub-Saharan Africa,Lombardia,5.8,Basic,57,1,0,1,0,0,1
+Hospitality,46,Female,Middle East,Emilia-Romagna,3.7,None,47,1,0,1,1,1,1
+Domestic Work,28,Female,North Africa,Veneto,0.5,Basic,36,0,0,1,0,0,0
+Domestic Work,37,Female,Sub-Saharan Africa,Veneto,7.6,Intermediate,45,1,0,1,0,0,1
+Gig Economy,50,Male,South Asia,Lombardia,3.7,Basic,42,0,0,0,0,0,1
+Construction,27,Male,Eastern Europe,Campania,13.0,Intermediate,49,0,0,1,0,1,1
+Gig Economy,19,Male,Eastern Europe,Puglia,4.4,Intermediate,66,0,0,1,0,0,0
+Agriculture,18,Female,Sub-Saharan Africa,Campania,0.8,None,63,0,0,1,0,1,0
+Hospitality,37,Female,Middle East,Emilia-Romagna,2.6,Basic,62,0,0,1,0,0,1
+Construction,18,Male,South Asia,Piemonte,4.2,Intermediate,61,0,0,0,0,1,1
+Hospitality,29,Male,Sub-Saharan Africa,Piemonte,0.5,Basic,54,0,0,1,0,0,1
+Construction,35,Male,Southeast Asia,Veneto,0.5,None,51,0,0,1,0,1,1
+Construction,33,Female,Sub-Saharan Africa,Sicilia,0.6,None,56,0,0,1,0,1,1
+Agriculture,35,Female,Sub-Saharan Africa,Campania,1.2,None,61,0,0,0,1,0,1
+Hospitality,33,Male,North Africa,Sicilia,2.2,Basic,50,0,0,1,0,0,0
+Logistics,42,Male,Latin America,Lazio,2.7,Intermediate,59,1,1,0,1,1,1
+Logistics,24,Male,South Asia,Lazio,0.6,None,52,0,0,1,0,1,1
+Logistics,26,Male,Middle East,Lombardia,4.5,Basic,56,0,0,1,0,1,1
+Hospitality,25,Male,Latin America,Piemonte,3.6,Intermediate,52,0,0,0,0,0,1
+Domestic Work,38,Male,Sub-Saharan Africa,Campania,1.4,Intermediate,37,0,0,0,0,1,1
+Gig Economy,39,Female,Eastern Europe,Lazio,0.5,Intermediate,31,0,0,0,1,0,1
+Logistics,35,Female,Sub-Saharan Africa,Lazio,0.5,Basic,50,0,0,0,0,1,1
+Logistics,41,Male,North Africa,Puglia,2.0,Intermediate,72,0,0,0,0,0,1
+Gig Economy,22,Female,Latin America,Sicilia,0.7,None,47,0,0,1,1,0,1
+Agriculture,45,Male,Middle East,Veneto,1.9,None,66,0,0,1,0,0,1
+Gig Economy,44,Male,South Asia,Emilia-Romagna,4.0,None,33,0,0,1,0,0,1
+Domestic Work,37,Male,North Africa,Veneto,3.2,Intermediate,39,1,0,1,0,1,1
+Gig Economy,46,Male,North Africa,Campania,1.1,None,39,0,0,1,0,1,1
+Domestic Work,18,Male,Sub-Saharan Africa,Puglia,1.7,Basic,46,0,0,0,0,0,1
+Domestic Work,27,Male,Sub-Saharan Africa,Lombardia,3.8,Basic,67,0,0,1,0,0,0
+Hospitality,26,Male,South Asia,Campania,7.9,Basic,58,1,0,0,0,1,1
+Domestic Work,37,Female,Eastern Europe,Lazio,5.6,Fluent,61,0,0,1,0,0,0
+Hospitality,23,Male,North Africa,Veneto,3.2,Basic,52,0,0,1,0,1,1
+Construction,38,Male,Sub-Saharan Africa,Campania,1.8,Basic,65,0,0,1,0,1,1
+Logistics,42,Male,Latin America,Veneto,1.8,Intermediate,74,0,0,1,0,1,1
+Domestic Work,37,Female,Latin America,Lombardia,8.5,None,47,1,0,1,0,1,1
+Domestic Work,34,Male,North Africa,Veneto,0.5,Basic,43,0,0,1,0,1,0
+Construction,24,Female,Sub-Saharan Africa,Lazio,17.7,Fluent,44,0,0,0,1,0,0
+Construction,25,Male,Eastern Europe,Lombardia,4.4,Fluent,52,1,0,1,0,1,0
+Logistics,41,Male,Sub-Saharan Africa,Lombardia,4.6,Fluent,58,1,1,1,0,0,1
+Hospitality,38,Male,Sub-Saharan Africa,Piemonte,0.5,None,71,0,0,1,0,1,1
+Gig Economy,31,Male,Eastern Europe,Campania,3.7,Intermediate,39,0,0,1,0,1,1
+Hospitality,28,Male,South Asia,Emilia-Romagna,2.7,None,55,0,0,1,0,1,1
+Agriculture,18,Male,South Asia,Toscana,0.5,None,45,0,0,1,0,1,1
+Logistics,23,Male,South Asia,Toscana,1.3,None,54,0,0,1,0,1,1
+Domestic Work,47,Male,South Asia,Veneto,8.8,Basic,50,0,0,1,0,1,0
+Agriculture,21,Male,South Asia,Campania,3.2,Fluent,64,0,0,1,0,0,1
+Construction,33,Female,Middle East,Campania,2.1,Basic,59,0,0,1,0,1,1
+Hospitality,40,Male,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,58,0,0,1,1,1,1
+Domestic Work,21,Female,South Asia,Veneto,5.0,Basic,52,0,0,1,0,0,0
+Domestic Work,33,Female,Sub-Saharan Africa,Sicilia,4.9,Basic,48,0,0,1,0,1,1
+Gig Economy,39,Male,Middle East,Sicilia,3.8,Fluent,41,1,1,1,0,0,0
+Agriculture,32,Male,North Africa,Lombardia,2.9,None,45,0,0,1,0,0,1
+Construction,54,Male,Sub-Saharan Africa,Lombardia,2.3,Basic,50,1,0,1,1,1,1
+Hospitality,18,Female,Southeast Asia,Emilia-Romagna,3.6,Basic,53,0,0,1,0,0,1
+Gig Economy,40,Female,Sub-Saharan Africa,Lazio,1.1,None,60,0,0,1,1,1,1
+Logistics,30,Female,Sub-Saharan Africa,Lombardia,11.3,Intermediate,57,0,0,0,0,1,0
+Hospitality,38,Female,Sub-Saharan Africa,Sicilia,3.6,Intermediate,53,0,0,0,0,1,1
+Logistics,35,Female,Sub-Saharan Africa,Lazio,1.5,None,61,0,0,0,0,0,0
+Hospitality,26,Male,Sub-Saharan Africa,Puglia,2.4,None,52,0,0,1,0,0,1
+Hospitality,33,Male,Eastern Europe,Toscana,6.6,Basic,61,1,1,0,0,0,0
+Hospitality,18,Female,Sub-Saharan Africa,Piemonte,0.7,Basic,70,0,0,1,0,1,1
+Domestic Work,36,Male,North Africa,Lazio,1.4,Intermediate,65,1,0,1,0,0,1
+Gig Economy,34,Male,South Asia,Lazio,4.6,Intermediate,50,0,0,1,0,1,0
+Domestic Work,37,Female,Sub-Saharan Africa,Veneto,1.5,Basic,50,1,1,0,0,1,1
+Gig Economy,40,Male,North Africa,Lombardia,6.3,Fluent,62,1,0,1,0,0,0
+Logistics,34,Female,Middle East,Lazio,0.6,Basic,56,1,0,1,0,1,1
+Gig Economy,33,Female,Sub-Saharan Africa,Lazio,5.8,Intermediate,55,1,1,1,0,0,0
+Gig Economy,24,Male,Eastern Europe,Lombardia,0.5,Basic,40,0,0,1,0,1,0
+Hospitality,26,Female,Sub-Saharan Africa,Lazio,0.5,Basic,52,0,0,1,0,1,1
+Agriculture,41,Male,South Asia,Piemonte,9.1,Intermediate,69,0,0,1,0,1,0
+Hospitality,43,Male,South Asia,Lombardia,3.5,Fluent,49,1,0,1,0,1,1
+Agriculture,30,Male,Sub-Saharan Africa,Lombardia,1.7,Fluent,58,0,0,1,0,0,1
+Agriculture,32,Male,South Asia,Emilia-Romagna,1.1,None,47,0,0,1,1,1,1
+Hospitality,24,Male,South Asia,Calabria,3.8,None,71,0,0,1,0,0,0
+Hospitality,41,Male,Latin America,Lazio,2.8,Fluent,65,0,0,1,0,1,1
+Construction,37,Male,South Asia,Lombardia,19.1,Basic,56,0,0,1,0,1,1
+Gig Economy,47,Male,North Africa,Emilia-Romagna,16.3,Fluent,54,0,0,1,0,0,1
+Hospitality,24,Female,Sub-Saharan Africa,Puglia,4.0,Basic,58,0,0,1,0,1,1
+Domestic Work,28,Female,North Africa,Piemonte,2.3,None,59,0,0,1,0,1,1
+Hospitality,33,Male,North Africa,Emilia-Romagna,2.7,None,50,0,0,0,0,1,1
+Agriculture,37,Male,Sub-Saharan Africa,Lazio,4.6,Basic,65,0,0,1,1,1,0
+Domestic Work,30,Male,Sub-Saharan Africa,Veneto,0.5,None,56,0,0,1,0,0,0
+Hospitality,25,Male,Eastern Europe,Lombardia,1.6,Basic,64,0,0,0,0,1,0
+Hospitality,39,Female,Southeast Asia,Toscana,0.5,Basic,36,0,0,0,0,1,0
+Hospitality,37,Female,Sub-Saharan Africa,Toscana,0.5,Fluent,50,1,1,1,0,1,1
+Logistics,24,Male,South Asia,Calabria,0.9,None,49,0,0,1,0,0,1
+Hospitality,42,Male,Southeast Asia,Lazio,2.7,Basic,56,1,0,1,0,0,1
+Agriculture,41,Male,Sub-Saharan Africa,Lombardia,6.1,Intermediate,43,0,0,1,0,1,1
+Hospitality,33,Female,North Africa,Veneto,2.7,Basic,38,0,0,1,0,1,0
+Gig Economy,32,Male,Sub-Saharan Africa,Toscana,1.6,Basic,67,0,0,0,0,1,1
+Domestic Work,36,Female,South Asia,Piemonte,0.5,None,52,0,0,1,0,0,0
+Construction,25,Female,North Africa,Lombardia,3.2,None,55,0,0,0,1,1,1
+Agriculture,32,Male,North Africa,Lazio,1.3,None,62,0,0,1,1,1,1
+Logistics,18,Male,Sub-Saharan Africa,Veneto,3.8,None,59,0,0,1,1,0,1
+Agriculture,39,Female,North Africa,Lazio,15.1,Intermediate,67,0,0,0,0,0,1
+Gig Economy,19,Male,Latin America,Sicilia,0.5,None,44,0,0,1,0,1,1
+Gig Economy,44,Male,North Africa,Veneto,1.0,Intermediate,51,0,0,0,0,1,1
+Hospitality,29,Male,South Asia,Piemonte,2.6,Fluent,56,0,0,0,0,0,0
+Domestic Work,30,Female,North Africa,Emilia-Romagna,13.8,Fluent,39,0,0,1,0,1,1
+Gig Economy,26,Female,Eastern Europe,Piemonte,5.9,Fluent,60,0,0,1,0,1,1
+Hospitality,29,Female,Latin America,Lazio,9.1,Basic,51,0,0,0,0,0,0
+Logistics,43,Female,Eastern Europe,Sicilia,1.6,Basic,66,0,0,1,0,1,1
+Gig Economy,18,Female,South Asia,Lazio,19.3,Basic,50,0,0,1,0,0,0
+Construction,42,Female,Eastern Europe,Veneto,0.5,Basic,68,0,0,1,0,0,1
+Agriculture,34,Male,Eastern Europe,Lazio,0.5,Intermediate,51,0,0,1,0,0,1
+Construction,22,Male,South Asia,Veneto,7.7,Fluent,46,0,0,1,0,1,1
+Hospitality,23,Female,North Africa,Lazio,10.5,Intermediate,47,0,0,0,0,1,1
+Gig Economy,45,Female,Sub-Saharan Africa,Lazio,0.5,Basic,51,0,0,1,0,1,1
+Gig Economy,24,Male,Eastern Europe,Calabria,0.5,None,62,0,0,1,0,1,1
+Hospitality,22,Male,Sub-Saharan Africa,Lombardia,0.5,None,67,0,0,1,0,1,1
+Logistics,41,Female,North Africa,Piemonte,0.5,Basic,39,0,0,1,0,1,1
+Construction,34,Female,Southeast Asia,Calabria,0.9,None,56,0,0,1,0,1,1
+Hospitality,24,Male,Latin America,Lombardia,14.0,Fluent,29,0,0,1,0,0,1
+Gig Economy,33,Male,Southeast Asia,Toscana,4.4,None,56,0,0,0,0,1,1
+Hospitality,23,Male,Middle East,Lazio,6.0,Fluent,63,0,0,1,0,1,1
+Hospitality,40,Male,South Asia,Lombardia,6.0,Intermediate,54,1,1,0,1,0,1
+Hospitality,40,Male,Eastern Europe,Campania,3.1,Intermediate,55,0,0,0,0,0,1
+Domestic Work,36,Male,North Africa,Puglia,6.4,Fluent,48,0,0,0,0,1,1
+Construction,34,Male,Southeast Asia,Lombardia,3.6,Fluent,48,0,0,1,1,0,0
+Domestic Work,46,Male,Sub-Saharan Africa,Emilia-Romagna,1.5,None,51,0,0,0,1,1,1
+Gig Economy,31,Female,Middle East,Veneto,3.3,Fluent,48,0,0,1,0,1,1
+Hospitality,22,Female,Eastern Europe,Sicilia,3.1,Basic,62,0,0,0,0,1,1
+Gig Economy,35,Male,Latin America,Lombardia,6.9,Basic,49,0,0,1,0,1,0
+Gig Economy,48,Male,South Asia,Toscana,16.0,Intermediate,43,0,0,1,0,1,1
+Construction,23,Female,Sub-Saharan Africa,Toscana,2.1,Intermediate,42,0,0,1,0,0,0
+Hospitality,29,Male,Latin America,Emilia-Romagna,5.8,Basic,40,0,0,1,0,1,0
+Gig Economy,35,Female,South Asia,Puglia,0.5,Basic,60,1,0,1,0,1,1
+Hospitality,31,Female,Latin America,Sicilia,6.0,Intermediate,51,0,0,1,0,1,1
+Logistics,24,Male,South Asia,Lombardia,1.9,None,60,0,0,1,0,1,1
+Agriculture,40,Female,Eastern Europe,Veneto,0.5,Intermediate,74,0,0,1,1,0,0
+Gig Economy,50,Male,Sub-Saharan Africa,Campania,1.8,None,45,0,0,1,0,0,1
+Logistics,33,Male,Eastern Europe,Lazio,3.8,Fluent,52,0,0,0,0,1,0
+Logistics,24,Female,Eastern Europe,Campania,0.5,None,56,0,0,1,0,1,1
+Gig Economy,19,Male,Sub-Saharan Africa,Campania,10.3,Intermediate,50,0,0,1,0,0,1
+Construction,34,Female,South Asia,Campania,0.5,None,70,0,0,0,1,1,1
+Domestic Work,40,Male,South Asia,Calabria,10.6,Basic,60,0,0,1,0,0,0
+Domestic Work,35,Male,North Africa,Lombardia,4.9,Basic,52,1,0,0,0,1,1
+Construction,31,Male,North Africa,Puglia,1.6,None,66,0,0,1,0,0,1
+Logistics,27,Female,Eastern Europe,Veneto,2.0,None,56,0,0,1,0,1,1
+Agriculture,23,Male,North Africa,Emilia-Romagna,5.4,Basic,62,0,0,1,0,1,1
+Gig Economy,38,Male,North Africa,Sicilia,3.7,Basic,47,0,0,1,1,1,1
+Logistics,39,Female,Sub-Saharan Africa,Campania,4.5,Intermediate,47,0,0,0,0,0,1
+Construction,19,Male,South Asia,Campania,2.0,Basic,64,0,0,1,0,0,1
+Hospitality,44,Female,Sub-Saharan Africa,Campania,2.7,Intermediate,59,1,0,1,0,0,1
+Domestic Work,36,Male,Middle East,Campania,18.4,Intermediate,48,0,0,0,0,1,0
+Gig Economy,43,Female,Southeast Asia,Puglia,1.0,Basic,49,0,0,1,0,0,0
+Agriculture,21,Female,Sub-Saharan Africa,Sicilia,2.2,Basic,47,0,0,1,0,1,1
+Agriculture,21,Male,North Africa,Lombardia,1.4,Basic,52,0,0,1,0,0,1
+Domestic Work,30,Male,Latin America,Lombardia,5.8,Intermediate,50,1,0,0,0,0,1
+Agriculture,36,Female,North Africa,Campania,5.8,None,55,0,0,1,0,1,0
+Agriculture,46,Male,South Asia,Lombardia,1.4,Intermediate,58,1,0,1,1,0,1
+Hospitality,37,Female,South Asia,Emilia-Romagna,0.5,Basic,54,1,0,1,0,0,1
+Gig Economy,30,Male,North Africa,Lombardia,0.5,None,44,0,0,1,0,0,1
+Hospitality,23,Male,Middle East,Veneto,2.2,Intermediate,47,1,0,1,0,0,1
+Agriculture,41,Male,Eastern Europe,Lombardia,2.1,None,47,0,0,1,0,0,1
+Gig Economy,24,Female,South Asia,Lazio,17.8,Basic,48,0,0,1,0,0,0
+Agriculture,45,Male,Sub-Saharan Africa,Toscana,2.5,None,64,0,0,1,1,1,0
+Hospitality,29,Female,Latin America,Veneto,1.2,Intermediate,41,1,0,0,0,1,1
+Hospitality,44,Female,Latin America,Calabria,8.9,Fluent,54,1,0,0,0,0,1
+Agriculture,37,Male,Eastern Europe,Sicilia,2.7,Intermediate,62,0,0,1,0,1,1
+Hospitality,30,Male,Eastern Europe,Campania,3.7,None,47,1,0,1,1,0,0
+Hospitality,27,Female,South Asia,Lombardia,0.5,Basic,66,0,0,1,0,1,1
+Hospitality,29,Male,Latin America,Sicilia,1.9,Intermediate,51,1,0,1,0,1,1
+Domestic Work,35,Female,Latin America,Puglia,11.5,Basic,47,0,0,1,0,0,1
+Agriculture,32,Male,Sub-Saharan Africa,Sicilia,3.6,Intermediate,58,0,0,1,0,1,1
+Logistics,27,Male,Eastern Europe,Lombardia,1.7,None,43,0,0,1,0,0,1
+Logistics,30,Female,Sub-Saharan Africa,Calabria,3.9,Basic,66,1,1,0,0,0,1
+Logistics,32,Male,South Asia,Lazio,9.7,Intermediate,50,0,0,1,0,1,1
+Construction,18,Male,Sub-Saharan Africa,Toscana,1.3,Basic,53,0,0,1,0,1,1
+Agriculture,35,Male,South Asia,Puglia,2.8,None,64,0,0,1,0,1,1
+Hospitality,24,Male,Sub-Saharan Africa,Lazio,12.7,Basic,66,1,0,0,0,0,1
+Hospitality,22,Male,North Africa,Puglia,0.8,None,46,0,0,0,0,1,1
+Hospitality,18,Female,North Africa,Lazio,5.1,Basic,51,0,0,1,0,1,1
+Agriculture,18,Male,North Africa,Calabria,3.8,Basic,71,0,0,1,0,1,1
+Construction,21,Male,Sub-Saharan Africa,Lazio,4.6,Basic,58,0,0,1,0,0,0
+Logistics,26,Female,South Asia,Puglia,1.7,Basic,63,0,0,1,0,1,1
+Hospitality,47,Male,Eastern Europe,Lombardia,1.5,Basic,46,0,0,1,0,1,1
+Hospitality,27,Male,Sub-Saharan Africa,Toscana,4.6,Intermediate,51,1,0,1,0,0,1
+Domestic Work,33,Female,Sub-Saharan Africa,Veneto,1.0,Intermediate,46,1,0,0,0,0,1
+Logistics,35,Female,Southeast Asia,Veneto,2.2,None,51,0,0,1,0,1,1
+Construction,33,Male,Eastern Europe,Lazio,0.8,None,41,1,1,0,0,0,1
+Agriculture,31,Female,Southeast Asia,Toscana,0.5,Intermediate,55,0,0,1,0,0,1
+Logistics,22,Male,North Africa,Lombardia,14.0,None,68,0,0,1,0,1,1
+Hospitality,43,Male,South Asia,Veneto,2.3,None,55,0,0,1,0,1,0
+Hospitality,46,Male,Eastern Europe,Lazio,13.9,None,65,0,0,1,0,1,0
+Agriculture,18,Male,Sub-Saharan Africa,Puglia,0.6,Basic,61,0,0,1,0,0,0
+Construction,23,Male,North Africa,Lombardia,3.5,Intermediate,48,0,0,1,0,1,0
+Agriculture,29,Male,South Asia,Lombardia,0.9,Fluent,70,0,0,0,1,0,0
+Gig Economy,24,Male,Latin America,Lazio,6.2,Fluent,51,0,0,1,1,1,1
+Hospitality,36,Female,South Asia,Campania,6.1,Intermediate,62,0,0,1,0,0,1
+Domestic Work,26,Male,Southeast Asia,Lazio,0.5,None,39,0,0,1,0,1,1
+Construction,49,Male,Southeast Asia,Veneto,9.7,Basic,63,0,0,1,0,0,0
+Logistics,41,Male,North Africa,Sicilia,0.9,None,66,0,0,0,1,0,0
+Domestic Work,33,Male,Eastern Europe,Toscana,3.8,None,50,0,0,1,0,1,1
+Agriculture,40,Female,Eastern Europe,Emilia-Romagna,17.0,Basic,53,0,0,1,1,1,1
+Gig Economy,40,Male,Latin America,Lombardia,8.6,Basic,49,0,0,1,0,0,0
+Agriculture,27,Male,North Africa,Toscana,12.5,Basic,64,0,0,1,0,0,0
+Construction,25,Male,Latin America,Lombardia,1.7,Basic,56,0,0,0,0,1,1
+Agriculture,32,Female,North Africa,Piemonte,0.5,Intermediate,64,1,0,1,0,0,0
+Hospitality,38,Male,Middle East,Lazio,0.8,Basic,63,0,0,1,0,1,1
+Logistics,33,Male,North Africa,Campania,2.8,Fluent,52,0,0,0,1,0,1
+Domestic Work,19,Male,North Africa,Campania,6.3,Intermediate,38,0,0,1,0,1,1
+Hospitality,25,Male,Latin America,Sicilia,0.7,None,54,0,0,1,0,1,1
+Logistics,31,Male,Latin America,Lombardia,4.3,Basic,55,0,0,1,0,1,1
+Gig Economy,31,Female,North Africa,Veneto,1.6,None,56,0,0,1,0,1,1
+Gig Economy,47,Female,South Asia,Lombardia,1.7,None,41,0,0,1,1,1,1
+Agriculture,20,Female,North Africa,Toscana,4.3,Fluent,68,1,0,1,1,0,0
+Domestic Work,36,Male,Middle East,Puglia,2.5,Fluent,58,0,0,1,0,1,1
+Hospitality,43,Male,Latin America,Campania,6.7,None,55,1,0,1,0,1,1
+Hospitality,50,Male,Latin America,Veneto,0.7,None,55,0,0,1,0,1,1
+Hospitality,28,Female,South Asia,Puglia,6.2,Intermediate,48,1,0,1,0,0,1
+Domestic Work,35,Male,North Africa,Veneto,0.5,None,43,1,0,0,0,1,1
+Agriculture,36,Female,Eastern Europe,Veneto,0.9,None,56,0,0,1,0,1,1
+Logistics,33,Male,Latin America,Emilia-Romagna,4.3,None,69,0,0,0,0,1,1
+Construction,31,Male,South Asia,Toscana,7.7,Intermediate,54,1,1,1,0,1,0
+Domestic Work,35,Male,Southeast Asia,Lombardia,1.2,None,37,0,0,1,0,1,1
+Construction,18,Male,North Africa,Sicilia,1.6,Basic,57,1,1,1,0,1,0
+Domestic Work,37,Female,Sub-Saharan Africa,Campania,3.1,None,54,0,0,0,0,1,1
+Logistics,33,Female,Sub-Saharan Africa,Lombardia,1.0,Basic,57,0,0,1,0,1,0
+Construction,30,Male,Sub-Saharan Africa,Piemonte,6.7,Fluent,66,0,0,1,1,1,1
+Gig Economy,48,Male,North Africa,Campania,5.9,Basic,56,0,0,0,0,0,1
+Construction,26,Female,South Asia,Lombardia,0.6,Intermediate,46,0,0,0,0,0,1
+Agriculture,28,Female,South Asia,Emilia-Romagna,2.5,Intermediate,55,0,0,1,0,0,0
+Construction,47,Male,Latin America,Sicilia,6.0,Fluent,56,0,0,0,1,1,1
+Agriculture,25,Male,South Asia,Sicilia,1.6,Intermediate,46,0,0,1,0,1,1
+Hospitality,27,Male,Sub-Saharan Africa,Puglia,4.0,Intermediate,57,0,0,1,0,0,0
+Gig Economy,30,Male,North Africa,Sicilia,0.5,Intermediate,35,0,0,1,0,0,1
+Domestic Work,38,Male,North Africa,Lombardia,3.8,None,56,0,0,1,0,1,1
+Domestic Work,33,Male,Latin America,Campania,0.7,None,55,0,0,1,0,1,1
+Hospitality,21,Male,North Africa,Piemonte,7.1,Fluent,59,1,0,0,0,0,0
+Hospitality,27,Male,Latin America,Campania,1.8,Intermediate,49,0,0,1,1,1,1
+Hospitality,27,Male,Eastern Europe,Emilia-Romagna,1.3,Fluent,56,0,0,1,0,0,1
+Agriculture,31,Female,South Asia,Emilia-Romagna,7.4,Fluent,55,1,0,0,0,1,1
+Construction,35,Female,South Asia,Campania,0.5,Intermediate,46,0,0,1,1,0,1
+Hospitality,35,Male,North Africa,Puglia,2.0,Intermediate,52,1,0,0,0,1,0
+Gig Economy,18,Female,Sub-Saharan Africa,Veneto,1.8,Intermediate,55,0,0,0,0,0,1
+Construction,40,Female,Eastern Europe,Campania,1.3,Basic,55,1,0,0,0,1,1
+Agriculture,34,Male,North Africa,Calabria,9.7,Fluent,71,0,0,0,1,0,1
+Gig Economy,43,Male,Sub-Saharan Africa,Veneto,5.6,Intermediate,56,1,0,1,0,1,1
+Gig Economy,35,Female,South Asia,Lombardia,0.5,Basic,55,0,0,1,0,1,1
+Gig Economy,40,Female,Sub-Saharan Africa,Veneto,5.0,Intermediate,37,0,0,1,0,1,1
+Logistics,35,Female,North Africa,Piemonte,3.0,Basic,55,0,0,1,1,0,1
+Gig Economy,42,Female,North Africa,Piemonte,9.2,None,41,0,0,1,1,1,0
+Agriculture,36,Male,North Africa,Piemonte,1.5,Fluent,58,0,0,1,0,1,1
+Domestic Work,31,Male,South Asia,Toscana,3.4,Intermediate,42,0,0,0,0,1,1
+Agriculture,50,Male,Eastern Europe,Lazio,2.8,None,56,1,0,0,0,1,1
+Construction,39,Male,Southeast Asia,Sicilia,2.7,None,63,0,0,1,0,0,1
+Hospitality,36,Male,Sub-Saharan Africa,Sicilia,2.4,Intermediate,58,0,0,1,0,1,0
+Gig Economy,21,Female,North Africa,Lombardia,0.9,Basic,58,0,0,1,0,1,1
+Hospitality,21,Male,Middle East,Lombardia,5.6,Intermediate,42,0,0,0,0,1,1
+Hospitality,34,Female,Sub-Saharan Africa,Calabria,2.4,Basic,55,0,0,1,0,1,1
+Agriculture,33,Male,North Africa,Sicilia,12.7,Intermediate,67,1,0,1,0,1,1
+Domestic Work,27,Male,South Asia,Sicilia,1.2,Basic,60,0,0,1,0,1,1
+Hospitality,33,Male,Eastern Europe,Sicilia,4.6,None,42,0,0,1,0,1,1
+Gig Economy,44,Male,South Asia,Veneto,11.3,Fluent,47,1,1,0,0,0,1
+Construction,37,Female,Middle East,Emilia-Romagna,4.4,None,63,0,0,1,0,1,1
+Hospitality,22,Female,Eastern Europe,Veneto,8.2,Intermediate,53,0,0,1,0,1,1
+Gig Economy,31,Female,Latin America,Lombardia,7.0,Intermediate,42,0,0,0,0,0,1
+Agriculture,25,Male,Eastern Europe,Toscana,1.8,Basic,47,0,0,0,1,1,1
+Agriculture,28,Male,North Africa,Veneto,3.7,Fluent,52,0,0,0,0,0,1
+Hospitality,28,Male,North Africa,Emilia-Romagna,0.7,None,41,0,0,1,1,1,0
+Logistics,28,Male,Southeast Asia,Veneto,3.1,Intermediate,58,1,0,1,0,1,1
+Construction,21,Female,Middle East,Veneto,1.0,None,62,0,0,1,1,0,0
+Gig Economy,30,Female,North Africa,Lombardia,5.4,None,39,0,0,1,0,1,1
+Hospitality,27,Female,Middle East,Lazio,3.0,Basic,57,0,0,1,0,1,0
+Construction,18,Male,North Africa,Lombardia,2.1,None,61,1,1,1,0,0,1
+Hospitality,48,Female,North Africa,Lombardia,1.3,Intermediate,54,0,0,1,0,0,1
+Agriculture,40,Male,North Africa,Calabria,20.0,Intermediate,47,0,0,0,1,0,0
+Hospitality,28,Female,Sub-Saharan Africa,Lombardia,0.5,None,58,0,0,1,0,1,1
+Domestic Work,32,Male,South Asia,Lazio,0.5,None,47,1,0,0,0,0,1
+Logistics,22,Male,Sub-Saharan Africa,Emilia-Romagna,1.0,Basic,56,0,0,1,0,0,1
+Logistics,45,Male,North Africa,Emilia-Romagna,14.2,Fluent,53,0,0,1,0,0,1
+Hospitality,47,Female,Sub-Saharan Africa,Lombardia,15.5,Intermediate,55,1,1,1,0,1,0
+Logistics,33,Male,North Africa,Piemonte,4.3,Intermediate,62,0,0,1,0,1,1
+Domestic Work,40,Male,Middle East,Piemonte,8.5,Fluent,67,0,0,1,0,0,1
+Domestic Work,33,Female,Sub-Saharan Africa,Lazio,1.0,Basic,48,1,1,0,0,0,1
+Logistics,21,Male,North Africa,Lazio,14.3,Basic,70,1,1,1,0,1,0
+Gig Economy,28,Male,South Asia,Puglia,0.6,Basic,52,0,0,0,0,1,1
+Agriculture,33,Male,South Asia,Sicilia,0.5,Basic,59,1,1,1,0,1,1
+Domestic Work,28,Male,Latin America,Toscana,0.5,Basic,49,0,0,0,1,1,0
+Gig Economy,30,Female,North Africa,Lombardia,3.4,Intermediate,40,1,0,1,0,0,1
+Logistics,31,Female,Latin America,Campania,6.1,Fluent,60,1,0,0,0,1,0
+Gig Economy,31,Male,South Asia,Veneto,1.8,None,34,1,0,1,0,1,1
+Agriculture,32,Female,North Africa,Lombardia,15.2,Fluent,53,0,0,1,0,1,0
+Hospitality,23,Male,Sub-Saharan Africa,Campania,2.3,Basic,55,0,0,0,0,1,1
+Agriculture,26,Male,Sub-Saharan Africa,Emilia-Romagna,0.7,Basic,69,0,0,1,0,0,1
+Logistics,21,Male,South Asia,Lazio,2.5,None,69,0,0,1,0,1,1
+Construction,39,Male,South Asia,Piemonte,4.5,Basic,53,0,0,1,0,0,1
+Hospitality,18,Male,Sub-Saharan Africa,Sicilia,7.1,Fluent,56,0,0,1,0,1,1
+Gig Economy,41,Female,South Asia,Lazio,2.5,Intermediate,57,0,0,1,0,1,1
+Gig Economy,43,Female,Middle East,Sicilia,3.6,None,39,0,0,1,0,1,1
+Agriculture,29,Male,Sub-Saharan Africa,Lombardia,1.2,Basic,63,0,0,1,1,1,1
+Hospitality,18,Male,South Asia,Sicilia,4.2,None,48,0,0,1,0,1,1
+Gig Economy,29,Female,Sub-Saharan Africa,Lombardia,17.1,Fluent,48,1,0,1,0,1,1
+Gig Economy,31,Female,North Africa,Lombardia,0.5,Intermediate,46,0,0,1,0,0,1
+Gig Economy,23,Female,South Asia,Emilia-Romagna,8.7,None,53,0,0,1,1,1,0
+Agriculture,27,Male,Southeast Asia,Veneto,3.3,Fluent,64,1,0,0,0,1,1
+Agriculture,44,Female,Middle East,Puglia,1.2,Intermediate,67,0,0,1,1,1,1
+Construction,37,Male,Sub-Saharan Africa,Campania,12.4,Intermediate,57,0,0,1,0,0,1
+Logistics,24,Male,North Africa,Lazio,2.6,Intermediate,59,0,0,1,0,1,0
+Construction,19,Male,South Asia,Veneto,1.6,Basic,69,0,0,1,0,1,1
+Gig Economy,29,Male,Eastern Europe,Campania,0.8,Basic,37,0,0,1,0,1,1
+Hospitality,30,Male,North Africa,Lazio,1.1,Basic,68,0,0,0,0,1,1
+Hospitality,35,Male,Sub-Saharan Africa,Toscana,7.2,Basic,52,0,0,1,0,0,1
+Logistics,27,Male,Sub-Saharan Africa,Piemonte,3.8,Basic,62,0,0,1,0,1,1
+Construction,36,Female,Eastern Europe,Sicilia,9.8,Basic,52,1,0,1,0,0,1
+Agriculture,47,Male,North Africa,Calabria,1.1,Intermediate,54,0,0,1,0,1,1
+Construction,38,Male,South Asia,Lazio,0.5,None,58,0,0,1,0,0,1
+Gig Economy,31,Male,Eastern Europe,Toscana,0.5,None,58,0,0,1,1,0,0
+Gig Economy,30,Female,North Africa,Campania,2.8,Intermediate,53,0,0,1,0,0,0
+Hospitality,29,Male,Southeast Asia,Toscana,20.0,Intermediate,50,0,0,1,0,1,0
+Logistics,41,Male,South Asia,Veneto,4.7,Intermediate,80,0,0,0,1,1,0
+Gig Economy,26,Male,Latin America,Calabria,1.5,Fluent,59,0,0,1,0,0,1
+Hospitality,32,Female,Eastern Europe,Toscana,8.4,Fluent,62,0,0,1,0,0,0
+Hospitality,32,Female,South Asia,Puglia,6.1,Basic,52,0,0,1,1,1,1
+Gig Economy,27,Male,Eastern Europe,Sicilia,0.5,None,44,0,0,0,0,1,1
+Agriculture,21,Male,North Africa,Puglia,6.8,Fluent,57,0,0,0,0,0,0
+Domestic Work,34,Female,Middle East,Piemonte,1.4,Basic,56,1,0,1,0,1,1
+Domestic Work,31,Male,South Asia,Campania,0.6,None,40,0,0,1,0,1,0
+Agriculture,36,Male,Eastern Europe,Lazio,1.0,None,51,0,0,1,0,1,1
+Gig Economy,27,Male,Sub-Saharan Africa,Campania,2.5,None,54,0,0,1,0,1,1
+Agriculture,41,Male,Middle East,Lombardia,2.2,Intermediate,62,0,0,1,0,0,1
+Construction,24,Male,Sub-Saharan Africa,Veneto,1.4,Intermediate,48,0,0,1,1,1,1
+Hospitality,45,Male,Middle East,Veneto,0.8,Intermediate,46,0,0,1,0,0,1
+Gig Economy,18,Female,Southeast Asia,Veneto,5.7,Intermediate,61,1,1,0,0,1,0
+Construction,35,Female,Sub-Saharan Africa,Calabria,18.5,Basic,57,0,0,1,0,1,1
+Logistics,35,Male,Latin America,Puglia,6.0,None,47,0,0,1,1,0,1
+Gig Economy,25,Female,Middle East,Lombardia,1.4,Fluent,39,0,0,1,0,1,1
+Gig Economy,35,Male,Sub-Saharan Africa,Campania,1.1,Basic,47,0,0,1,1,0,1
+Hospitality,42,Male,North Africa,Campania,1.0,Basic,60,0,0,1,0,1,1
+Logistics,18,Male,North Africa,Campania,0.6,Intermediate,62,0,0,1,0,1,1
+Logistics,36,Female,Sub-Saharan Africa,Piemonte,3.2,Intermediate,67,0,0,0,0,0,0
+Hospitality,18,Female,South Asia,Veneto,3.7,Basic,43,0,0,1,0,1,1
+Hospitality,24,Female,Sub-Saharan Africa,Emilia-Romagna,4.9,Fluent,56,0,0,0,0,1,1
+Construction,45,Female,Sub-Saharan Africa,Sicilia,4.6,Fluent,66,1,0,1,1,1,1
+Logistics,27,Female,North Africa,Piemonte,1.4,None,68,0,0,1,0,1,1
+Gig Economy,22,Female,South Asia,Lombardia,1.6,Intermediate,52,0,0,1,1,0,1
+Logistics,30,Female,Southeast Asia,Toscana,4.6,Basic,76,1,1,0,0,1,0
+Domestic Work,48,Female,Eastern Europe,Campania,1.7,Basic,52,0,0,1,1,1,1
+Logistics,18,Male,South Asia,Lazio,1.0,Intermediate,66,0,0,1,0,1,1
+Gig Economy,23,Male,Eastern Europe,Lombardia,1.9,Fluent,50,0,0,1,1,0,1
+Domestic Work,43,Male,Eastern Europe,Veneto,1.3,None,41,0,0,0,0,1,1
+Construction,46,Male,Middle East,Campania,0.5,None,47,0,0,0,1,1,1
+Hospitality,31,Male,South Asia,Lazio,7.1,Basic,56,0,0,1,0,1,1
+Construction,22,Male,Sub-Saharan Africa,Toscana,7.7,Intermediate,53,1,1,0,0,0,0
+Gig Economy,48,Female,Southeast Asia,Piemonte,1.0,None,35,0,0,1,0,1,1
+Gig Economy,44,Male,Middle East,Lazio,0.5,None,41,0,0,0,0,1,1
+Hospitality,37,Male,Eastern Europe,Lombardia,5.4,None,52,0,0,1,0,1,1
+Hospitality,25,Male,Latin America,Sicilia,1.0,Basic,60,0,0,0,1,1,1
+Agriculture,31,Female,South Asia,Lombardia,2.0,None,59,0,0,1,0,1,0
+Gig Economy,30,Male,North Africa,Puglia,0.5,Basic,49,0,0,1,0,1,1
+Gig Economy,34,Male,Sub-Saharan Africa,Emilia-Romagna,1.0,None,42,0,0,1,0,1,0
+Agriculture,43,Female,Sub-Saharan Africa,Lazio,6.3,Basic,60,0,0,1,0,0,1
+Construction,39,Male,Latin America,Lazio,6.5,Fluent,65,1,0,0,0,1,1
+Hospitality,23,Male,South Asia,Lombardia,0.9,Basic,56,0,0,1,1,0,1
+Agriculture,43,Male,North Africa,Lazio,1.6,None,47,0,0,0,0,1,1
+Hospitality,34,Male,Middle East,Lombardia,0.6,None,44,0,0,1,0,1,1
+Construction,37,Female,Sub-Saharan Africa,Emilia-Romagna,0.5,Basic,59,0,0,1,0,0,1
+Agriculture,43,Male,Middle East,Lombardia,19.4,Intermediate,58,1,0,1,0,0,1
+Domestic Work,23,Male,Middle East,Veneto,4.3,Intermediate,47,1,0,1,0,1,1
+Hospitality,31,Male,North Africa,Emilia-Romagna,3.1,Basic,50,0,0,1,0,1,1
+Hospitality,27,Male,South Asia,Lazio,5.8,Basic,59,0,0,0,0,1,1
+Logistics,19,Female,Sub-Saharan Africa,Lombardia,7.3,Intermediate,55,0,0,1,0,1,0
