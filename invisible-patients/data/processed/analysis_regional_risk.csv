@@ -1,0 +1,21 @@
+region,macro_region,composite_risk_score
+Calabria,South & Islands,1.0
+Molise,Center,0.938
+Sicilia,South & Islands,0.892
+Basilicata,South & Islands,0.859
+Campania,South & Islands,0.775
+Puglia,South & Islands,0.743
+Sardegna,South & Islands,0.672
+Abruzzo,Center,0.623
+Marche,Center,0.457
+Valle d'Aosta,North,0.398
+Liguria,North,0.362
+Umbria,Center,0.358
+Lazio,Center,0.313
+Piemonte,North,0.277
+Friuli Venezia Giulia,North,0.223
+Lombardia,North,0.189
+Veneto,North,0.153
+Toscana,North,0.105
+Trentino-Alto Adige,North,0.073
+Emilia-Romagna,North,0.019
