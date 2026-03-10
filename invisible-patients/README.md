@@ -24,12 +24,6 @@ Italy's National Health Service (SSN) legally guarantees healthcare to undocumen
 ---
 
 
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/invisible-patients.git
-cd invisible-patients
 ---
 
 ## Visualizations
