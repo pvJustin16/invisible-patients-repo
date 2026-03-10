@@ -30,17 +30,6 @@ Italy's National Health Service (SSN) legally guarantees healthcare to undocumen
 # Clone the repository
 git clone https://github.com/yourusername/invisible-patients.git
 cd invisible-patients
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the full analysis pipeline
-python -m src.data_generation
-python -m src.analysis
-python -m src.visualizations
-python -m src.report_generator
-```
-
 ---
 
 ## Visualizations
