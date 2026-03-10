@@ -23,37 +23,6 @@ Italy's National Health Service (SSN) legally guarantees healthcare to undocumen
 
 ---
 
-## Project Structure
-
-```
-invisible-patients/
-├── README.md
-├── requirements.txt
-├── LICENSE
-│
-├── data/
-│   ├── raw/                    # Source data (Eurostat, ISTAT)
-│   └── processed/              # Cleaned analysis-ready datasets
-│
-├── src/
-│   ├── config.py               # Colors, paths, constants
-│   ├── data_generation.py      # Synthetic dataset creation
-│   ├── analysis.py             # Statistical analysis
-│   ├── visualizations.py       # All 12 charts
-│   └── report_generator.py     # PDF report builder
-│
-├── notebooks/
-│   └── 01_full_analysis.py     # End-to-end walkthrough
-│
-├── figures/                    # Generated visualizations (PNG)
-├── reports/                    # Generated PDF report
-│
-└── docs/
-    ├── DATA_SOURCES.md         # Where each number comes from
-    └── METHODOLOGY.md          # Approach and limitations
-```
-
----
 
 ## Quick Start
 
